@@ -1,0 +1,28 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Inquiry Received — BeefNews.org"
+  description="Thank you for your advertising inquiry. We'll be in touch within one business day."
+>
+  <div class="max-w-2xl mx-auto px-6 py-28 md:py-40 text-center">
+    <div class="w-16 h-16 glass-panel rounded-full flex items-center justify-center mx-auto mb-8">
+      <span class="material-symbols-outlined text-secondary text-[36px]" style="font-variation-settings:'FILL' 1">check_circle</span>
+    </div>
+    <h1 class="font-headline font-bold text-4xl md:text-5xl tracking-tighter text-white mb-5">
+      Inquiry received.
+    </h1>
+    <p class="font-body text-zinc-400 text-lg leading-relaxed mb-10">
+      Thank you for reaching out. We review every inquiry personally and will
+      be back in touch within one business day.
+    </p>
+    <a
+      href="/"
+      class="metallic-gold inline-flex items-center gap-2 px-8 py-3 rounded-full font-headline font-bold text-sm uppercase tracking-widest hover:scale-[1.03] active:scale-95 transition-transform"
+    >
+      <span class="material-symbols-outlined text-[16px]">arrow_back</span>
+      Back to BeefNews
+    </a>
+  </div>
+</BaseLayout>

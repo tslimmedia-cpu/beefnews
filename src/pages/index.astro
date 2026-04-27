@@ -1,0 +1,166 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import HeroFeatured from "@/components/HeroFeatured.astro";
+import RadarCarousel from "@/components/RadarCarousel.astro";
+import AdSlot from "@/components/AdSlot.astro";
+import SidebarLeft from "@/components/SidebarLeft.astro";
+import SidebarRight from "@/components/SidebarRight.astro";
+import { categorySlug, CATEGORY_ICONS } from "@/lib/category";
+
+// ── Fetch & sort content ─────────────────────────────────────────────────────
+const allNews = (await getCollection("news")).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const radarItems = (await getCollection("radar"))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .map((r) => ({
+    title: r.data.title,
+    excerpt: r.data.excerpt,
+    image: r.data.image,
+    category: r.data.category,
+    pubDate: r.data.pubDate,
+    slug: r.slug,
+    externalUrl: r.data.externalUrl,
+  }));
+
+const featured = allNews.find((a) => a.data.featured) ?? allNews[0];
+
+// Most read = top 6 most recent non-partner articles
+const mostRead = allNews.filter((a) => !a.data.partner).slice(0, 6);
+
+// ── Build category tiles ─────────────────────────────────────────────────────
+const catCounts = new Map<string, { count: number; latest: (typeof allNews)[0] }>();
+for (const article of allNews) {
+  const cat = article.data.category;
+  const existing = catCounts.get(cat);
+  if (!existing) {
+    catCounts.set(cat, { count: 1, latest: article });
+  } else {
+    existing.count++;
+  }
+}
+const categories = [...catCounts.entries()]
+  .sort((a, b) => b[1].count - a[1].count)
+  .map(([name, { count, latest }]) => ({ name, count, latest }));
+---
+
+<BaseLayout
+  title="Beef News — The Voice of the Rancher Direct Movement"
+  description="Breaking news, deep-dives, and market intelligence for the Rancher Direct beef industry."
+>
+
+  <!-- ── TOP BILLBOARD AD — full width ────────────────────────────────── -->
+  <div class="flex justify-center py-4 px-6 bg-surface-container-lowest border-b border-white/5">
+    <AdSlot size="billboard" id="ad-top-billboard" />
+  </div>
+
+  <!-- ── 3-COLUMN LAYOUT ───────────────────────────────────────────────── -->
+  <div class="max-w-[1480px] mx-auto px-4 md:px-8 py-8 flex flex-col xl:flex-row gap-8 xl:gap-6 xl:items-start">
+
+    <!-- LEFT SIDEBAR -->
+    <SidebarLeft />
+
+    <!-- MAIN CONTENT -->
+    <div class="flex-1 min-w-0 order-1 xl:order-none">
+
+      <!-- Hero — Featured Story -->
+      <section class="mb-8">
+        <HeroFeatured
+          title={featured.data.title}
+          excerpt={featured.data.excerpt}
+          slug={featured.slug}
+          image={featured.data.image}
+          imageAlt={featured.data.imageAlt}
+          category={featured.data.category}
+          pubDate={featured.data.pubDate}
+          author={featured.data.author}
+        />
+      </section>
+
+      <!-- Radar Carousel -->
+      {radarItems.length > 0 && (
+        <div class="mb-8">
+          <RadarCarousel items={radarItems} />
+        </div>
+      )}
+
+      <!-- Mid-page native ad -->
+      <div class="flex justify-center py-6">
+        <AdSlot size="native" id="ad-mid-native" class="rounded-2xl" />
+      </div>
+
+      <!-- Browse by Category -->
+      <section class="mt-8">
+        <div class="flex items-center gap-4 mb-6">
+          <span class="w-8 h-[1px] bg-secondary"></span>
+          <h2 class="text-lg font-headline font-bold uppercase tracking-widest text-zinc-300">
+            Browse by Category
+          </h2>
+        </div>
+
+        <div class="grid grid-cols-2 lg:grid-cols-3 gap-4">
+          {categories.map(({ name, count, latest }) => {
+            const icon = CATEGORY_ICONS[name] ?? "folder";
+            const slug = categorySlug(name);
+            const thumb = latest.data.image;
+            return (
+              <a
+                href={`/category/${slug}`}
+                class="group relative article-card overflow-hidden no-underline flex flex-col min-h-[160px]"
+              >
+                {thumb && (
+                  <div class="absolute inset-0 z-0">
+                    <img
+                      src={thumb}
+                      alt=""
+                      class="w-full h-full object-cover opacity-20 group-hover:opacity-30 transition-opacity duration-500"
+                      loading="lazy"
+                    />
+                    <div class="absolute inset-0 bg-gradient-to-t from-surface-container-low via-surface-container-low/80 to-transparent"></div>
+                  </div>
+                )}
+
+                <div class="relative z-10 flex flex-col justify-between h-full p-4">
+                  <div class="w-9 h-9 glass-panel rounded-xl flex items-center justify-center mb-auto">
+                    <span
+                      class="material-symbols-outlined text-secondary text-[18px]"
+                      style="font-variation-settings:'FILL' 1"
+                    >{icon}</span>
+                  </div>
+
+                  <div class="mt-6">
+                    <h3 class="font-headline font-bold text-sm text-white leading-snug group-hover:text-secondary transition-colors">
+                      {name}
+                    </h3>
+                    <p class="text-[10px] font-label text-zinc-500 mt-1">
+                      {count} {count === 1 ? "story" : "stories"}
+                    </p>
+                  </div>
+                </div>
+
+                <div class="absolute top-3 right-3 z-10 opacity-0 group-hover:opacity-100 transition-opacity">
+                  <span class="material-symbols-outlined text-secondary text-[16px]">arrow_forward</span>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </section>
+
+    </div>
+    <!-- /MAIN CONTENT -->
+
+    <!-- RIGHT SIDEBAR -->
+    <SidebarRight mostRead={mostRead} />
+
+  </div>
+  <!-- /3-COLUMN LAYOUT -->
+
+  <!-- ── BOTTOM LEADERBOARD AD — full width ───────────────────────────── -->
+  <div class="flex justify-center py-8 px-6 border-t border-white/5 bg-surface-container-lowest">
+    <AdSlot size="leaderboard" id="ad-bottom-leaderboard" />
+  </div>
+
+</BaseLayout>

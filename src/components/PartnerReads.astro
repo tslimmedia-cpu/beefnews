@@ -1,0 +1,125 @@
+---
+/**
+ * "Beef News Reads" — partner RSS content pulled at build time.
+ * Links out to the original articles. Zero runtime JS.
+ */
+import { PARTNERS } from "@/data/partners";
+import { fetchRSS, type RSSItem } from "@/lib/rss";
+
+// Fetch latest 2 per partner, then merge and sort by date
+const allItems: RSSItem[] = (
+  await Promise.all(
+    PARTNERS.map((p) => fetchRSS(p.feed, p.name, p.site, 2))
+  )
+).flat().sort((a, b) => b.pubDate.valueOf() - a.pubDate.valueOf());
+
+function relDate(d: Date): string {
+  const diff = Date.now() - d.getTime();
+  const days = Math.floor(diff / 86_400_000);
+  if (days === 0) return "Today";
+  if (days === 1) return "Yesterday";
+  if (days < 7) return `${days}d ago`;
+  if (days < 30) return `${Math.floor(days / 7)}w ago`;
+  return d.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+}
+---
+
+{allItems.length > 0 && (
+  <section class="py-16 md:py-20 bg-surface-container-lowest border-y border-white/5">
+    <div class="max-w-7xl mx-auto px-6 md:px-10">
+
+      <!-- Section header -->
+      <div class="flex items-end justify-between mb-10">
+        <div class="flex items-center gap-4">
+          <span class="w-12 h-[1px] bg-secondary"></span>
+          <div>
+            <h2 class="text-xl md:text-2xl font-headline font-bold tracking-tighter text-gradient-gold">
+              Beef News Reads
+            </h2>
+            <p class="text-[11px] font-label text-zinc-500 uppercase tracking-[0.2em] mt-1">
+              Curated from our partner writers
+            </p>
+          </div>
+        </div>
+
+        <!-- Partner attribution pills -->
+        <div class="hidden md:flex items-center gap-3">
+          {PARTNERS.map((p) => (
+            <a
+              href={p.site}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="glass-panel px-4 py-1.5 rounded-full text-[11px] font-headline font-bold uppercase tracking-wider text-zinc-400 hover:text-secondary transition-colors no-underline"
+            >
+              {p.name} ↗
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <!-- Text-only cards grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {allItems.map((item) => (
+          <a
+            href={item.url}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="glass-panel rounded-2xl p-6 group block no-underline hover:bg-surface-variant/30 transition-all"
+          >
+            <!-- Partner + date row -->
+            <div class="flex items-center gap-3 mb-4">
+              <span class="flex items-center gap-1.5">
+                <span class="w-1.5 h-1.5 rounded-full bg-secondary shrink-0"></span>
+                <span class="text-[10px] font-headline font-bold uppercase tracking-[0.2em] text-secondary">
+                  {item.partnerName}
+                </span>
+              </span>
+              {item.categories[0] && (
+                <>
+                  <span class="text-zinc-700">·</span>
+                  <span class="text-[10px] font-label text-zinc-500 truncate">
+                    {item.categories[0]}
+                  </span>
+                </>
+              )}
+              <span class="text-[10px] text-zinc-600 ml-auto shrink-0">
+                {relDate(item.pubDate)}
+              </span>
+            </div>
+
+            <!-- Title -->
+            <h3 class="font-headline font-bold text-lg md:text-xl leading-snug text-on-surface mb-3 group-hover:text-secondary transition-colors line-clamp-3">
+              {item.title}
+            </h3>
+
+            <!-- Excerpt -->
+            <p class="font-body text-sm text-zinc-500 leading-relaxed line-clamp-3">
+              {item.excerpt}
+            </p>
+
+            <!-- Read more -->
+            <div class="mt-5 flex items-center gap-1.5 text-[11px] font-headline font-bold uppercase tracking-widest text-secondary/60 group-hover:text-secondary transition-colors">
+              Read on {item.partnerName}
+              <span class="material-symbols-outlined text-[13px]">open_in_new</span>
+            </div>
+          </a>
+        ))}
+      </div>
+
+      <!-- Mobile: partner links -->
+      <div class="flex md:hidden flex-wrap gap-3 mt-6">
+        {PARTNERS.map((p) => (
+          <a
+            href={p.site}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="glass-panel px-4 py-2 rounded-full text-[11px] font-headline font-bold uppercase tracking-wider text-zinc-400 hover:text-secondary transition-colors no-underline"
+          >
+            {p.name} ↗
+          </a>
+        ))}
+      </div>
+
+    </div>
+  </section>
+)}

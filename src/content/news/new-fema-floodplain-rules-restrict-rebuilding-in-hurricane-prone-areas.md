@@ -1,0 +1,26 @@
+---
+title: "New FEMA Floodplain Rules Restrict Rebuilding in Hurricane-Prone Areas"
+pubDate: 2024-10-18
+author: "Beef News"
+excerpt: "Effective September 9, 2024, FEMA's new floodplain rules dramatically limit rebuilding in areas impacted by recent hurricanes like Helene and Milton. The 1% floodplain rule will deem many residential, commercial, and agricultural structures unbuildable, severely impacting property owners. Agricultural communities are urged to consult FEMA's flood maps and local authorities to protect their land and livelihoods under these new regulations."
+image: "https://beefnews.org/wp-content/uploads/2024/10/floodplains.jpg"
+category: "Farm Policy"
+tags: ["FEMA", "Helene", "National Flood Insurance"]
+featured: false
+---
+
+By Andrea Schaffer
+
+**NEW FLOODPLAIN RULES EFFECTIVE SEPT 9, 2024**
+
+Shortly before hurricane Helene and Milton, new FEMA floodplain rules were enacted on September 9, 2024 that will massively limit rebuilding in many of the areas that were impacted by hurricanes. Essentially many of the residential, commercial and agricultural building structures might be deemed unbuildable based on the 1% Floodplain rule.
+
+The International Codes® (I-Codes®), is a family of codes developed and maintained by the International Code Council and shares common goals with the Federal Emergency Management Agency’s (FEMA) National Flood Insurance Program (NFIP). The ICC codes are building codes that focus primarily to ensure “safe, sustainable, resilient and affordable structures.” Some communities categorize flood hazard areas as separate conservation zones, allowing only development that is compatible with open space, recreational uses, and public infrastructure and drainage.
+
+FEMA provided a corrective clarification for the September 9, 2024 new regulations regarding the new floodplain zones; specifically, the agency specifies action following the analysis of practicable alternatives as follows; “the Agency shall not locate the proposed action in the floodplain as established by § 9.7(c) or in a wetland if a practicable alternative exists outside the floodplain or wetland.” The FEMA Federal Flood Risk Management Standard (FFRMS) requires resilience standards and will be applied to damaged agriculture structures. Particularly in cases where elevation may not be feasible or appropriate for non-structure facilities, the FFRMS floodplain, establishes the level to which a structure or facility must be resilient. Resilience measures include using structural or nonstructural methods to reduce or prevent damage; elevating a structure; or, where appropriate, designing it to adapt to, withstand and rapidly recover from a flood event.
+
+**Substantial Improvement and Substantial Damage Determination Rule (SI/SD)** FEMA will rely on local floodplain administrators for FFRMS determinations, if available, for determining whether an action entails substantial improvement or work to address substantial damage. For communities that participate in the National Flood Insurance Program (NFIP), local officials will determine whether activities within the 1% floodplain trigger incurred substantial damage or substantial improvement as part of their floodplain management responsibilities. The 1% floodplain trigger, also known as the 100-year flood or base flood, is the likelihood that an area will experience a major flood event in any given year. In cases where local officials are unavailable or unable to make a determination, FEMA will make SI/SD determinations based on the FFRMS. FEMA will determine that an action involving work on a structure constitutes SI/SD when the cost equals or exceeds 50% of the market value of the structure. Walled and roofed agricultural structures used exclusively for agricultural purposes falls under the 1% trigger rule as well.
+
+In conclusion, I encourage the agriculture community to access the new **FEMA Flood Map Service Center (MSC)** to find all flood hazard mapping products created under the [National Flood Insurance Program](https://www.fema.gov/flood-insurance), including your community’s flood map.  Lastly, I recommend working with local administrators, your local municipality, state authorities and commission a lawyer if your property is impacted by the new regulations especially if the is risk to losing your property whether because of financial impact or authorities determine the property will not be reconstituted to its original form.  Our agricultural community is vital to our national food security.
+
+*Support regenerative ranching with The Beef Initiative’s **Feeding Forward Collection**. Indulge in nutrient-dense **ECC Ranch Beef Sticks** and **Steakburger Ground Beef**, while also treating your skin with the natural **Cattleman’s Skincare Collection**. Every purchase benefits ranchers directly, offering them tax deductions through the I Am Texas Slim Foundation 501(c)(3). By enjoying high-quality, rancher-direct products, you’re fueling your body and helping sustain the future of regenerative agriculture.*

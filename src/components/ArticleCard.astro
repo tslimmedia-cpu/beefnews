@@ -1,0 +1,81 @@
+---
+interface Props {
+  title: string;
+  excerpt: string;
+  slug: string;
+  image?: string;
+  imageAlt?: string;
+  category: string;
+  pubDate: Date;
+  author?: string;
+  featured?: boolean;
+}
+
+const {
+  title,
+  excerpt,
+  slug,
+  image,
+  imageAlt,
+  category,
+  pubDate,
+  author = "BeefNews Staff",
+  featured = false,
+} = Astro.props;
+
+const dateStr = pubDate.toLocaleDateString("en-US", {
+  month: "short",
+  day: "numeric",
+  year: "numeric",
+});
+
+const FALLBACK = "https://images.unsplash.com/photo-1558642084-fd07fae5282e?w=800&q=80";
+---
+
+<a
+  href={`/${slug}`}
+  class="article-card group block no-underline"
+>
+  <!-- Image -->
+  <div class="aspect-[16/9] overflow-hidden bg-surface-container">
+    <img
+      src={image ?? FALLBACK}
+      alt={imageAlt ?? title}
+      loading="lazy"
+      decoding="async"
+      class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 opacity-85 group-hover:opacity-100"
+    />
+  </div>
+
+  <!-- Content -->
+  <div class="p-5 md:p-6">
+    <!-- Category + date -->
+    <div class="flex items-center gap-3 mb-3">
+      <span class="text-[10px] font-headline font-bold uppercase tracking-[0.2em] text-secondary">
+        {category}
+      </span>
+      {featured && (
+        <span class="glass-panel px-2.5 py-0.5 rounded-full text-[9px] font-bold tracking-widest uppercase text-secondary border-secondary/20">
+          Featured
+        </span>
+      )}
+      <span class="text-[10px] text-zinc-600 ml-auto">{dateStr}</span>
+    </div>
+
+    <!-- Title -->
+    <h3 class="font-headline font-bold text-lg md:text-xl leading-tight text-on-surface mb-2 group-hover:text-secondary transition-colors line-clamp-3">
+      {title}
+    </h3>
+
+    <!-- Excerpt -->
+    <p class="font-body text-sm text-zinc-400 leading-relaxed line-clamp-3">
+      {excerpt}
+    </p>
+
+    <!-- Byline -->
+    <div class="mt-4 flex items-center gap-2">
+      <span class="w-1 h-1 rounded-full bg-secondary/50"></span>
+      <span class="text-[11px] font-label text-zinc-500">{author}</span>
+    </div>
+  </div>
+</a>

@@ -1,0 +1,140 @@
+---
+/**
+ * Right Sidebar — Mini Calendar + Advertise CTA + Most Read articles
+ * Appears on homepage and article pages at xl breakpoint.
+ */
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  mostRead: CollectionEntry<"news">[];
+}
+const { mostRead } = Astro.props;
+
+// ── Mini Calendar ─────────────────────────────────────────────────────────────
+const now = new Date();
+const year  = now.getFullYear();
+const month = now.getMonth();
+const today = now.getDate();
+
+const monthName = now.toLocaleDateString("en-US", { month: "long" });
+const dayHeaders = ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"];
+
+const firstDow   = new Date(year, month, 1).getDay();   // 0–6
+const daysInMon  = new Date(year, month + 1, 0).getDate();
+
+// Build flat cell array: nulls for leading blanks, then 1–N
+const cells: (number | null)[] = [
+  ...Array<null>(firstDow).fill(null),
+  ...Array.from({ length: daysInMon }, (_, i) => i + 1),
+];
+// Pad to complete last week
+while (cells.length % 7 !== 0) cells.push(null);
+
+// Split into weeks
+const weeks: (number | null)[][] = [];
+for (let i = 0; i < cells.length; i += 7) weeks.push(cells.slice(i, i + 7));
+---
+
+<aside class="flex flex-col gap-5 order-3 xl:order-none xl:w-[260px] xl:shrink-0 xl:sticky xl:top-[96px] xl:self-start">
+
+  <!-- ── Mini Calendar ─────────────────────────────────────────────── -->
+  <div class="glass-panel rounded-2xl p-5">
+    <div class="flex items-center justify-between mb-4">
+      <div class="flex items-center gap-2">
+        <span
+          class="material-symbols-outlined text-secondary text-[18px]"
+          style="font-variation-settings:'FILL' 1"
+        >calendar_month</span>
+        <h3 class="text-[10px] font-headline font-bold uppercase tracking-[0.25em] text-secondary">
+          {monthName} {year}
+        </h3>
+      </div>
+    </div>
+
+    <!-- Day headers -->
+    <div class="grid grid-cols-7 mb-1">
+      {dayHeaders.map((d) => (
+        <div class="text-center text-[9px] font-label font-semibold uppercase text-zinc-600 py-1">
+          {d}
+        </div>
+      ))}
+    </div>
+
+    <!-- Calendar grid -->
+    {weeks.map((week) => (
+      <div class="grid grid-cols-7">
+        {week.map((day) => (
+          <div
+            class={[
+              "text-center py-1.5 text-[11px] font-body rounded-lg transition-colors",
+              day === null
+                ? "text-transparent select-none"
+                : day === today
+                  ? "bg-secondary text-[#2a1700] font-bold"
+                  : "text-zinc-400 hover:text-white hover:bg-white/5 cursor-default",
+            ].join(" ")}
+          >
+            {day ?? "·"}
+          </div>
+        ))}
+      </div>
+    ))}
+  </div>
+
+  <!-- ── Advertise with Us CTA ─────────────────────────────────────── -->
+  <a
+    href="/advertise"
+    class="group block glass-panel rounded-2xl p-5 no-underline hover:bg-white/5 transition-all"
+  >
+    <div class="flex items-center gap-2 mb-3">
+      <span
+        class="material-symbols-outlined text-secondary text-[18px]"
+        style="font-variation-settings:'FILL' 1"
+      >ads_click</span>
+      <p class="text-[10px] font-headline font-bold uppercase tracking-[0.2em] text-zinc-500">
+        Advertise with Us
+      </p>
+    </div>
+    <p class="text-sm font-headline font-bold text-zinc-300 group-hover:text-white transition-colors leading-snug mb-4">
+      Put your brand in front of the rancher direct community.
+    </p>
+    <span class="metallic-gold inline-flex items-center gap-1.5 px-4 py-2 rounded-full text-[10px] font-headline font-bold uppercase tracking-widest">
+      Get Started
+      <span class="material-symbols-outlined text-[12px]">arrow_forward</span>
+    </span>
+  </a>
+
+  <!-- ── Most Read ─────────────────────────────────────────────────── -->
+  {mostRead.length > 0 && (
+    <div class="glass-panel rounded-2xl p-5">
+      <div class="flex items-center gap-2.5 mb-5">
+        <span class="w-5 h-[1px] bg-secondary shrink-0"></span>
+        <h3 class="text-[10px] font-headline font-bold uppercase tracking-[0.25em] text-secondary whitespace-nowrap">
+          Most Read
+        </h3>
+      </div>
+
+      <ol class="space-y-4">
+        {mostRead.map((article, i) => (
+          <li class="flex items-start gap-3">
+            <span class="text-[11px] font-headline font-bold text-secondary/40 w-4 shrink-0 pt-0.5">
+              {i + 1}
+            </span>
+            <a
+              href={`/${article.slug}`}
+              class="group block no-underline flex-1 min-w-0"
+            >
+              <p class="text-xs font-headline font-bold text-zinc-300 group-hover:text-secondary transition-colors leading-snug line-clamp-3">
+                {article.data.title}
+              </p>
+              <p class="text-[10px] text-zinc-600 mt-1 font-label">
+                {article.data.category}
+              </p>
+            </a>
+          </li>
+        ))}
+      </ol>
+    </div>
+  )}
+
+</aside>

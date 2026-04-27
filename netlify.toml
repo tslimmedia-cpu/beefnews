@@ -1,0 +1,36 @@
+[build]
+  # Run the partner RSS sync THEN build the site.
+  # New partner articles are written to src/content/news/ during the sync,
+  # then baked in by the Astro build.
+  command       = "npm run sync && npm run build"
+  publish       = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Redirect bare domain → www (or remove this block if you prefer www → bare)
+# [[redirects]]
+#   from   = "https://www.beefnews.org/*"
+#   to     = "https://beefnews.org/:splat"
+#   status = 301
+#   force  = true
+
+# Netlify Forms — no extra config needed; the advertise form uses
+# data-netlify="true" so Netlify picks it up automatically.
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options        = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy        = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/fonts/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/_astro/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"

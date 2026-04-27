@@ -1,0 +1,47 @@
+---
+/**
+ * AdSlot — reusable ad container that renders a labelled placeholder
+ * until a real ad tag is injected.
+ *
+ * Props:
+ *   size   — "leaderboard" (728×90) | "billboard" (970×250) | "sidebar" (300×250)
+ *            | "native" (fluid width card) | "inline" (fluid, paragraph-break)
+ *   id     — optional DOM id so ad networks can target it
+ *   class  — additional Tailwind classes
+ */
+
+type AdSize = "leaderboard" | "billboard" | "sidebar" | "native" | "inline";
+
+interface Props {
+  size: AdSize;
+  id?: string;
+  class?: string;
+}
+
+const { size, id, class: extra = "" } = Astro.props;
+
+const dims: Record<AdSize, { w: string; h: string; label: string }> = {
+  leaderboard: { w: "w-full max-w-[728px]",  h: "h-[90px]",  label: "728 × 90 — Top Leaderboard" },
+  billboard:   { w: "w-full max-w-[970px]",  h: "h-[250px]", label: "970 × 250 — Billboard" },
+  sidebar:     { w: "w-[300px] max-w-full",   h: "h-[250px]", label: "300 × 250 — Sidebar" },
+  native:      { w: "w-full",                 h: "min-h-[180px]", label: "Native / Sponsored Card" },
+  inline:      { w: "w-full",                 h: "h-[120px]", label: "In-Article Ad" },
+};
+
+const d = dims[size];
+---
+
+<a
+  {id}
+  href="/advertise"
+  class={`ad-slot ${d.w} ${d.h} mx-auto flex flex-col items-center justify-center gap-2 no-underline group hover:border-secondary/30 hover:bg-secondary/3 transition-all duration-300 ${extra}`}
+  aria-label="Advertise with BeefNews.org"
+>
+  <span class="material-symbols-outlined text-zinc-700 group-hover:text-secondary transition-colors text-[20px]" style="font-variation-settings:'FILL' 1">campaign</span>
+  <span class="text-[10px] font-label font-semibold uppercase tracking-[0.25em] text-zinc-600 group-hover:text-zinc-400 transition-colors">
+    Advertise Here
+  </span>
+  <span class="text-[9px] font-label text-zinc-700 group-hover:text-secondary/60 transition-colors tracking-widest">
+    {d.label}
+  </span>
+</a>

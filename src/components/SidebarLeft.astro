@@ -1,0 +1,120 @@
+---
+/**
+ * Left Sidebar — Beef News Reads (partner articles, on-site) + Advertise Here CTA
+ * Appears on homepage and article pages at xl breakpoint.
+ *
+ * Partner articles are imported into the content collection via:
+ *   npm run sync
+ * They link to internal pages (not out to partner sites).
+ */
+import { getCollection } from "astro:content";
+import { PARTNERS } from "@/data/partners";
+
+// Pull all partner articles from the content collection
+const allNews = await getCollection("news");
+const partnerArticles = allNews.filter((a) => a.data.partner);
+
+// For each partner, grab their most recent article
+const byPartner = new Map<string, (typeof partnerArticles)[0]>();
+for (const article of partnerArticles.sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+)) {
+  const name = article.data.partnerName ?? "";
+  if (name && !byPartner.has(name)) byPartner.set(name, article);
+}
+
+// Ordered by most-recently-published
+const reads = [...byPartner.values()].sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+function relDate(d: Date): string {
+  const diff = Date.now() - d.getTime();
+  const days = Math.floor(diff / 86_400_000);
+  if (days === 0) return "Today";
+  if (days === 1) return "Yesterday";
+  if (days < 7)  return `${days}d ago`;
+  if (days < 30) return `${Math.floor(days / 7)}w ago`;
+  return d.toLocaleDateString("en-US", { month: "short", day: "numeric" });
+}
+---
+
+<aside class="flex flex-col gap-5 order-2 xl:order-none xl:w-[260px] xl:shrink-0 xl:sticky xl:top-[96px] xl:self-start">
+
+  <!-- ── Beef News Reads ─────────────────────────────────────────────── -->
+  <div class="glass-panel rounded-2xl p-5">
+    <div class="flex items-center gap-2.5 mb-5">
+      <span class="w-5 h-[1px] bg-secondary shrink-0"></span>
+      <h3 class="text-[10px] font-headline font-bold uppercase tracking-[0.25em] text-secondary whitespace-nowrap">
+        Beef News Reads
+      </h3>
+    </div>
+
+    {reads.length === 0 ? (
+      <p class="text-xs text-zinc-600 font-label">
+        Run <code class="text-secondary">npm run sync</code> to import partner articles.
+      </p>
+    ) : (
+      <div class="space-y-5">
+        {reads.map((article) => (
+          <a
+            href={`/${article.slug}`}
+            class="group block no-underline"
+          >
+            <div class="flex items-center gap-1.5 mb-1.5">
+              <span class="w-1 h-1 rounded-full bg-secondary/60 shrink-0"></span>
+              <span class="text-[9px] font-headline font-bold uppercase tracking-[0.2em] text-secondary/70 truncate">
+                {article.data.partnerName}
+              </span>
+              <span class="text-[9px] text-zinc-700 ml-auto shrink-0">
+                {relDate(article.data.pubDate)}
+              </span>
+            </div>
+            <p class="text-sm font-headline font-bold text-zinc-200 group-hover:text-secondary transition-colors leading-snug line-clamp-3">
+              {article.data.title}
+            </p>
+          </a>
+        ))}
+      </div>
+    )}
+
+    <!-- Partner links -->
+    <div class="mt-5 pt-4 border-t border-white/5 space-y-1.5">
+      {PARTNERS.map((p) => (
+        <a
+          href={p.site}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="flex items-center gap-2 text-[10px] font-label text-zinc-600 hover:text-secondary transition-colors no-underline"
+        >
+          <span class="material-symbols-outlined text-[12px]">open_in_new</span>
+          {p.name}
+        </a>
+      ))}
+    </div>
+  </div>
+
+  <!-- ── Advertise Here ─────────────────────────────────────────────── -->
+  <a
+    href="/advertise"
+    class="group block glass-panel rounded-2xl p-5 no-underline hover:bg-white/5 transition-all"
+  >
+    <div class="flex items-center gap-2 mb-3">
+      <span
+        class="material-symbols-outlined text-secondary text-[18px]"
+        style="font-variation-settings:'FILL' 1"
+      >campaign</span>
+      <p class="text-[10px] font-headline font-bold uppercase tracking-[0.2em] text-zinc-500">
+        Your Ad Here
+      </p>
+    </div>
+    <p class="text-sm font-headline font-bold text-zinc-300 group-hover:text-white transition-colors leading-snug mb-4">
+      Reach engaged ranchers &amp; beef enthusiasts.
+    </p>
+    <span class="metallic-gold inline-flex items-center gap-1.5 px-4 py-2 rounded-full text-[10px] font-headline font-bold uppercase tracking-widest">
+      Advertise with Us
+      <span class="material-symbols-outlined text-[12px]">arrow_forward</span>
+    </span>
+  </a>
+
+</aside>

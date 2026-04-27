@@ -1,0 +1,109 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import ArticleCard from "@/components/ArticleCard.astro";
+import AdSlot from "@/components/AdSlot.astro";
+import { categorySlug, slugToCategory, CATEGORY_ICONS } from "@/lib/category";
+
+export async function getStaticPaths() {
+  const allNews = await getCollection("news");
+
+  // Collect unique categories
+  const cats = [...new Set(allNews.map((a) => a.data.category))];
+
+  return cats.map((cat) => ({
+    params: { category: categorySlug(cat) },
+    props: { categoryName: cat },
+  }));
+}
+
+const { categoryName } = Astro.props;
+
+const allNews = (await getCollection("news"))
+  .filter((a) => a.data.category === categoryName)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const icon = CATEGORY_ICONS[categoryName] ?? "folder";
+---
+
+<BaseLayout
+  title={`${categoryName} — Beef News`}
+  description={`All Beef News stories in the ${categoryName} category.`}
+>
+
+  <!-- ── Category header ───────────────────────────────────────────────── -->
+  <div class="relative overflow-hidden border-b border-white/5">
+    <!-- Atmospheric backdrop -->
+    <div class="absolute inset-0 bg-gradient-to-br from-secondary/5 via-transparent to-transparent pointer-events-none"></div>
+
+    <div class="max-w-7xl mx-auto px-6 md:px-10 py-16 md:py-20 flex flex-col md:flex-row md:items-end gap-6">
+      <div class="w-16 h-16 glass-panel rounded-2xl flex items-center justify-center shrink-0">
+        <span
+          class="material-symbols-outlined text-secondary text-[32px]"
+          style="font-variation-settings:'FILL' 1"
+        >{icon}</span>
+      </div>
+
+      <div>
+        <p class="text-xs font-headline font-bold uppercase tracking-[0.3em] text-secondary mb-2">
+          Category
+        </p>
+        <h1 class="font-headline font-bold text-4xl md:text-6xl tracking-tighter text-white">
+          {categoryName}
+        </h1>
+        <p class="text-zinc-500 font-label text-sm mt-2">
+          {allNews.length} {allNews.length === 1 ? "story" : "stories"}
+        </p>
+      </div>
+
+      <div class="md:ml-auto">
+        <a
+          href="/"
+          class="flex items-center gap-2 text-sm font-headline font-bold text-zinc-400 hover:text-secondary transition-colors uppercase tracking-widest"
+        >
+          <span class="material-symbols-outlined text-[16px]">arrow_back</span>
+          All Categories
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Article grid ──────────────────────────────────────────────────── -->
+  <div class="max-w-7xl mx-auto px-6 md:px-10 py-12 md:py-16">
+
+    <!-- Top inline ad -->
+    <div class="mb-10 flex justify-center">
+      <AdSlot size="leaderboard" id="ad-cat-top" />
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
+      {allNews.map((article, i) => (
+        <>
+          <ArticleCard
+            title={article.data.title}
+            excerpt={article.data.excerpt}
+            slug={article.slug}
+            image={article.data.image}
+            imageAlt={article.data.imageAlt}
+            category={article.data.category}
+            pubDate={article.data.pubDate}
+            author={article.data.author}
+            featured={article.data.featured}
+          />
+          {/* Mid-grid ad every 12 cards */}
+          {(i + 1) % 12 === 0 && (
+            <div class="md:col-span-2 xl:col-span-3">
+              <AdSlot size="native" id={`ad-cat-mid-${i}`} />
+            </div>
+          )}
+        </>
+      ))}
+    </div>
+
+    <!-- Bottom ad -->
+    <div class="mt-12 flex justify-center">
+      <AdSlot size="leaderboard" id="ad-cat-bottom" />
+    </div>
+  </div>
+
+</BaseLayout>

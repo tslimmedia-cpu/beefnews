@@ -1,0 +1,43 @@
+name: Sync Partner Posts
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour on the hour
+  workflow_dispatch:        # manual trigger from GitHub Actions UI
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write       # needed to push new .md files
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install Python deps
+        run: pip install requests beautifulsoup4 markdownify
+
+      - name: Sync partner posts
+        id: sync
+        run: |
+          python3 scripts/sync-partners.py
+          # Count new files so we know whether to commit
+          NEW=$(git status --porcelain src/content/news/ | grep "^?" | wc -l | tr -d ' ')
+          echo "new_posts=$NEW" >> "$GITHUB_OUTPUT"
+          echo "New posts found: $NEW"
+
+      - name: Commit and push new posts
+        if: steps.sync.outputs.new_posts != '0'
+        run: |
+          git config user.name  "BeefNews Bot"
+          git config user.email "bot@beefnews.org"
+          git add src/content/news/
+          git commit -m "chore: sync ${{ steps.sync.outputs.new_posts }} new partner post(s)"
+          git push

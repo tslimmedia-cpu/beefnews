@@ -1,0 +1,246 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import AdSlot from "@/components/AdSlot.astro";
+import SidebarLeft from "@/components/SidebarLeft.astro";
+import SidebarRight from "@/components/SidebarRight.astro";
+import { categorySlug } from "@/lib/category";
+
+export async function getStaticPaths() {
+  const newsEntries = await getCollection("news");
+  const radarEntries = await getCollection("radar");
+  return [
+    ...newsEntries.map((entry) => ({ params: { slug: entry.slug }, props: { entry, collection: "news" as const } })),
+    ...radarEntries.map((entry) => ({ params: { slug: entry.slug }, props: { entry, collection: "radar" as const } })),
+  ];
+}
+
+const { entry, collection } = Astro.props;
+const { Content } = await entry.render();
+
+const allNews = await getCollection("news");
+
+// 4 most-recent in the same category (excluding this article)
+const moreinCat = allNews
+  .filter((a) => a.slug !== entry.slug && a.data.category === entry.data.category)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 4);
+
+// Most read = top 6 most recent non-partner articles (excluding current)
+const mostRead = allNews
+  .filter((a) => !a.data.partner && a.slug !== entry.slug)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 6);
+
+const catSlug = categorySlug(entry.data.category);
+
+const dateStr = entry.data.pubDate.toLocaleDateString("en-US", {
+  weekday: "long",
+  month: "long",
+  day: "numeric",
+  year: "numeric",
+});
+---
+
+<BaseLayout
+  title={`${entry.data.title} — Beef News`}
+  description={entry.data.excerpt}
+  image={entry.data.image}
+  article
+>
+
+  <!-- ── Article hero image ─────────────────────────────────────────────── -->
+  <div class="relative w-full overflow-hidden" style="max-height: 520px; min-height: 320px;">
+    {entry.data.image ? (
+      <>
+        <img
+          src={entry.data.image}
+          alt={entry.data.imageAlt ?? entry.data.title}
+          class="w-full h-full object-cover opacity-60"
+          style="max-height: 520px; min-height: 320px;"
+          loading="eager"
+        />
+        <div class="absolute inset-0 bg-gradient-to-t from-background via-background/60 to-transparent"></div>
+      </>
+    ) : (
+      <div class="bg-surface-container-low" style="height: 320px;"></div>
+    )}
+  </div>
+
+  <!-- ── 3-COLUMN LAYOUT ───────────────────────────────────────────────── -->
+  <div class="max-w-[1480px] mx-auto px-4 md:px-8 -mt-24 relative z-10 pb-20 flex flex-col xl:flex-row gap-8 xl:gap-6 xl:items-start">
+
+    <!-- LEFT SIDEBAR -->
+    <SidebarLeft />
+
+    <!-- ARTICLE BODY -->
+    <article class="flex-1 min-w-0 order-1 xl:order-none">
+
+      <!-- Header -->
+      <header class="mb-8 md:mb-10">
+        <div class="flex items-center gap-3 mb-4">
+          <span class="glass-panel px-4 py-1.5 rounded-full text-[10px] font-headline font-bold uppercase tracking-[0.25em] text-secondary">
+            {entry.data.category}
+          </span>
+          {entry.data.sponsored && (
+            <span class="glass-panel px-3 py-1.5 rounded-full text-[10px] font-label text-zinc-400 tracking-wider">
+              Sponsored · {entry.data.sponsorName}
+            </span>
+          )}
+          {entry.data.partner && entry.data.partnerName && (
+            <a
+              href={entry.data.partnerSite}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="glass-panel px-3 py-1.5 rounded-full text-[10px] font-headline font-bold uppercase tracking-wider text-secondary hover:text-secondary/70 transition-colors no-underline flex items-center gap-1.5"
+            >
+              <span class="w-1.5 h-1.5 rounded-full bg-secondary"></span>
+              Via {entry.data.partnerName}
+            </a>
+          )}
+        </div>
+
+        <h1 class="font-headline font-bold text-3xl md:text-5xl lg:text-6xl leading-[1.05] text-white mb-5 animate-drop-in">
+          {entry.data.title}
+        </h1>
+
+        <p class="font-body text-lg md:text-xl text-zinc-400 leading-relaxed mb-6 max-w-3xl animate-fade-up">
+          {entry.data.excerpt}
+        </p>
+
+        <div class="flex items-center gap-3 text-sm font-label text-zinc-500 border-b border-zinc-800 pb-6">
+          <span class="material-symbols-outlined text-[16px] text-secondary">person</span>
+          <span class="text-zinc-300">{entry.data.author}</span>
+          <span class="text-zinc-700">·</span>
+          <time datetime={entry.data.pubDate.toISOString()}>{dateStr}</time>
+        </div>
+      </header>
+
+      <!-- In-article ad -->
+      <div class="my-8">
+        <AdSlot size="inline" id="ad-inline-top" />
+      </div>
+
+      <!-- Republication notice (partner articles only) -->
+      {entry.data.partner && entry.data.canonicalUrl && (
+        <div class="flex items-start gap-3 glass-panel rounded-xl px-5 py-4 mb-8 border-l-2 border-secondary/50">
+          <span class="material-symbols-outlined text-secondary text-[18px] shrink-0 mt-0.5" style="font-variation-settings:'FILL' 1">handshake</span>
+          <p class="text-sm font-label text-zinc-400 leading-relaxed">
+            Republished with permission from{" "}
+            <a
+              href={entry.data.canonicalUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="text-secondary hover:text-secondary/70 transition-colors font-semibold underline underline-offset-2"
+            >
+              {entry.data.partnerName ?? entry.data.partnerSite}
+            </a>.
+            {" "}Original article published on{" "}
+            <a
+              href={entry.data.partnerSite}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="text-zinc-400 hover:text-secondary transition-colors"
+            >
+              {entry.data.partnerSite?.replace(/^https?:\/\//, "")}
+            </a>.
+          </p>
+        </div>
+      )}
+
+      <!-- Article content -->
+      <div class="prose prose-lg max-w-none">
+        <Content />
+      </div>
+
+      <!-- Mid-article ad -->
+      <div class="my-10">
+        <AdSlot size="inline" id="ad-inline-mid" />
+      </div>
+
+      <!-- Tags -->
+      {entry.data.tags.length > 0 && (
+        <div class="flex flex-wrap gap-2 mt-10 pt-8 border-t border-zinc-800">
+          {entry.data.tags.map((tag) => (
+            <span class="glass-panel px-3 py-1 rounded-full text-[11px] font-label text-zinc-400 uppercase tracking-wider">
+              #{tag}
+            </span>
+          ))}
+        </div>
+      )}
+
+      <!-- More in Category -->
+      {moreinCat.length > 0 && (
+        <section class="mt-14 pt-10 border-t border-zinc-800">
+          <div class="flex items-center justify-between mb-6">
+            <div class="flex items-center gap-4">
+              <span class="w-8 h-[1px] bg-secondary"></span>
+              <h2 class="text-base font-headline font-bold uppercase tracking-widest text-zinc-300">
+                More in {entry.data.category}
+              </h2>
+            </div>
+            <a
+              href={`/category/${catSlug}`}
+              class="text-xs font-headline font-bold uppercase tracking-widest text-secondary hover:text-secondary/70 transition-colors flex items-center gap-1.5"
+            >
+              Browse all
+              <span class="material-symbols-outlined text-[14px]">arrow_forward</span>
+            </a>
+          </div>
+
+          <ul class="divide-y divide-zinc-800/60">
+            {moreinCat.map((article) => {
+              const d = article.data.pubDate.toLocaleDateString("en-US", {
+                month: "short", day: "numeric", year: "numeric",
+              });
+              return (
+                <li>
+                  <a
+                    href={`/${article.slug}`}
+                    class="group flex items-center gap-5 py-4 no-underline hover:bg-white/2 -mx-2 px-2 rounded-xl transition-colors"
+                  >
+                    {article.data.image && (
+                      <img
+                        src={article.data.image}
+                        alt=""
+                        class="w-14 h-14 rounded-xl object-cover shrink-0 opacity-80 group-hover:opacity-100 transition-opacity"
+                        loading="lazy"
+                      />
+                    )}
+                    <div class="min-w-0 flex-1">
+                      <p class="font-headline font-bold text-sm text-zinc-200 group-hover:text-white transition-colors leading-snug line-clamp-2">
+                        {article.data.title}
+                      </p>
+                      <p class="text-[11px] text-zinc-600 mt-1 font-label">{d} · {article.data.author}</p>
+                    </div>
+                    <span class="material-symbols-outlined text-zinc-700 group-hover:text-secondary transition-colors text-[18px] shrink-0">
+                      chevron_right
+                    </span>
+                  </a>
+                </li>
+              );
+            })}
+          </ul>
+
+          <div class="mt-6">
+            <a
+              href={`/category/${catSlug}`}
+              class="glass-panel inline-flex items-center gap-2 px-6 py-3 rounded-full font-headline text-sm font-bold uppercase tracking-widest text-zinc-300 hover:text-secondary hover:bg-white/5 transition-all"
+            >
+              <span class="material-symbols-outlined text-[16px]">folder_open</span>
+              All {entry.data.category} stories
+            </a>
+          </div>
+        </section>
+      )}
+
+    </article>
+    <!-- /ARTICLE BODY -->
+
+    <!-- RIGHT SIDEBAR -->
+    <SidebarRight mostRead={mostRead} />
+
+  </div>
+  <!-- /3-COLUMN LAYOUT -->
+
+</BaseLayout>

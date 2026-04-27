@@ -1,0 +1,88 @@
+---
+interface Props {
+  title: string;
+  excerpt: string;
+  slug: string;
+  image?: string;
+  imageAlt?: string;
+  category: string;
+  pubDate: Date;
+  author?: string;
+}
+
+const {
+  title,
+  excerpt,
+  slug,
+  image,
+  imageAlt,
+  category,
+  pubDate,
+  author = "BeefNews Staff",
+} = Astro.props;
+
+const dateStr = pubDate.toLocaleDateString("en-US", {
+  month: "long",
+  day: "numeric",
+  year: "numeric",
+});
+
+const FALLBACK = "https://images.unsplash.com/photo-1605489087860-d46c3d8b4d3e?w=1600&q=85";
+---
+
+<a
+  href={`/${slug}`}
+  class="group relative block w-full overflow-hidden rounded-3xl atmospheric-shadow no-underline"
+  style="min-height: 480px;"
+>
+  <!-- Background image -->
+  <div class="absolute inset-0 z-0">
+    <img
+      src={image ?? FALLBACK}
+      alt={imageAlt ?? title}
+      class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-[1.03] opacity-70"
+      loading="eager"
+      decoding="async"
+    />
+    <!-- Cinematic gradient overlay -->
+    <div class="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent"></div>
+    <div class="absolute inset-0 bg-gradient-to-r from-black/60 via-transparent to-transparent"></div>
+  </div>
+
+  <!-- Content -->
+  <div class="relative z-10 flex flex-col justify-end h-full p-8 md:p-12" style="min-height: 480px;">
+    <!-- Category badge -->
+    <div class="flex items-center gap-3 mb-4">
+      <span class="glass-panel px-4 py-1.5 rounded-full text-[10px] font-headline font-bold uppercase tracking-[0.25em] text-secondary">
+        {category}
+      </span>
+      <span class="glass-panel px-3 py-1.5 rounded-full text-[10px] font-label text-zinc-300 tracking-wider">
+        Featured Story
+      </span>
+    </div>
+
+    <!-- Headline -->
+    <h2 class="font-headline font-bold text-2xl md:text-4xl lg:text-5xl leading-tight text-white mb-4 max-w-3xl animate-drop-in">
+      {title}
+    </h2>
+
+    <!-- Excerpt -->
+    <p class="font-body text-zinc-300 text-sm md:text-base leading-relaxed max-w-2xl mb-6 line-clamp-3 animate-fade-up">
+      {excerpt}
+    </p>
+
+    <!-- Footer meta + CTA -->
+    <div class="flex items-center gap-6 flex-wrap">
+      <div class="flex items-center gap-2 text-xs text-zinc-400 font-label">
+        <span class="material-symbols-outlined text-[14px] text-secondary">person</span>
+        {author}
+        <span class="text-zinc-600 mx-1">·</span>
+        {dateStr}
+      </div>
+
+      <span class="metallic-gold px-6 py-2.5 rounded-full font-headline text-[12px] font-bold uppercase tracking-wider group-hover:scale-[1.04] active:scale-95 transition-transform inline-block">
+        Read Story →
+      </span>
+    </div>
+  </div>
+</a>
