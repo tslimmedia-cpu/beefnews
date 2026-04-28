@@ -28,3 +28,4 @@ public/wp-content/
 # Temp sync files
 scripts/midwesterner-raw.json
 scripts/midwesterner-clean.json
+*.xml
