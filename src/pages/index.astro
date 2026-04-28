@@ -9,9 +9,11 @@ import SidebarRight from "@/components/SidebarRight.astro";
 import { categorySlug, CATEGORY_ICONS } from "@/lib/category";
 
 // ── Fetch & sort content ─────────────────────────────────────────────────────
-const allNews = (await getCollection("news")).sort(
-  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
-);
+// Partner articles (Beef News Reads) are EXCLUDED from all main content areas.
+// They only appear in the Beef News Reads sidebar section.
+const allNews = (await getCollection("news"))
+  .filter((a) => !a.data.partner)
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const radarItems = (await getCollection("radar"))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
@@ -27,10 +29,10 @@ const radarItems = (await getCollection("radar"))
 
 const featured = allNews.find((a) => a.data.featured) ?? allNews[0];
 
-// Most read = top 6 most recent non-partner articles
-const mostRead = allNews.filter((a) => !a.data.partner).slice(0, 6);
+// Most read = top 6 most recent Beef News articles (partners already excluded above)
+const mostRead = allNews.slice(0, 6);
 
-// ── Build category tiles ─────────────────────────────────────────────────────
+// ── Build category tiles (Beef News articles only) ───────────────────────────
 const catCounts = new Map<string, { count: number; latest: (typeof allNews)[0] }>();
 for (const article of allNews) {
   const cat = article.data.category;

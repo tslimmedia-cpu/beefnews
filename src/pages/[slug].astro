@@ -18,17 +18,18 @@ export async function getStaticPaths() {
 const { entry, collection } = Astro.props;
 const { Content } = await entry.render();
 
-const allNews = await getCollection("news");
+// Partner articles (Beef News Reads) are EXCLUDED from all main content areas.
+const allNews = (await getCollection("news")).filter((a) => !a.data.partner);
 
-// 4 most-recent in the same category (excluding this article)
+// 4 most-recent Beef News articles in the same category (excluding this article)
 const moreinCat = allNews
   .filter((a) => a.slug !== entry.slug && a.data.category === entry.data.category)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 4);
 
-// Most read = top 6 most recent non-partner articles (excluding current)
+// Most read = top 6 most recent Beef News articles (excluding current)
 const mostRead = allNews
-  .filter((a) => !a.data.partner && a.slug !== entry.slug)
+  .filter((a) => a.slug !== entry.slug)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
   .slice(0, 6);
 
@@ -40,14 +41,63 @@ const dateStr = entry.data.pubDate.toLocaleDateString("en-US", {
   day: "numeric",
   year: "numeric",
 });
+
+const siteUrl = "https://beefnews.org";
+const articleUrl = `${siteUrl}/${entry.slug}`;
+
+// ── JSON-LD: NewsArticle ──────────────────────────────────────────────────────
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": entry.data.partner ? "Article" : "NewsArticle",
+  "@id": articleUrl,
+  "headline": entry.data.title,
+  "description": entry.data.excerpt,
+  "url": articleUrl,
+  ...(entry.data.image ? {
+    "image": {
+      "@type": "ImageObject",
+      "url": entry.data.image,
+    }
+  } : {}),
+  "datePublished": entry.data.pubDate.toISOString(),
+  "dateModified": (entry.data.updatedDate ?? entry.data.pubDate).toISOString(),
+  "author": {
+    "@type": "Person",
+    "name": entry.data.author,
+  },
+  "publisher": {
+    "@id": `${siteUrl}/#organization`,
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": articleUrl,
+  },
+  "articleSection": entry.data.category,
+  "keywords": entry.data.tags.join(", "),
+  "inLanguage": "en-US",
+  ...(entry.data.canonicalUrl ? { "sameAs": entry.data.canonicalUrl } : {}),
+  "isPartOf": {
+    "@id": `${siteUrl}/#website`,
+  },
+  "about": [
+    { "@type": "Thing", "name": "Beef Industry" },
+    { "@type": "Thing", "name": "Rancher Direct Markets" },
+    { "@type": "Organization", "name": "Beef Initiative", "url": "https://beefmaps.com" },
+  ],
+};
 ---
 
 <BaseLayout
   title={`${entry.data.title} — Beef News`}
   description={entry.data.excerpt}
   image={entry.data.image}
+  publishedTime={entry.data.pubDate.toISOString()}
+  author={entry.data.author}
+  keywords={[entry.data.category, ...entry.data.tags]}
   article
 >
+  <!-- JSON-LD: NewsArticle (injected into <head> via Astro head slot) -->
+  <script slot="head" type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 
   <!-- ── Article hero image ─────────────────────────────────────────────── -->
   <div class="relative w-full overflow-hidden" style="max-height: 520px; min-height: 320px;">

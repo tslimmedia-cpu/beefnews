@@ -1,0 +1,62 @@
+# Beef News
+
+> The Voice of the Rancher Direct Movement. Breaking news, investigative reporting, market intelligence, and advocacy journalism for the American beef industry — with a focus on food sovereignty, direct-to-consumer markets, and independent ranchers.
+
+Beef News (BeefNews.org) is the editorial media property of the Beef Initiative, a movement dedicated to decentralizing the American beef supply chain and connecting consumers directly with independent ranchers. It operates alongside BeefMaps.com, a directory and marketplace platform that maps rancher-direct beef producers across the United States.
+
+## Mission
+
+Beef News exists to give independent ranchers, cattlemen, and food sovereignty advocates a credible, well-sourced voice in the public conversation. We cover the stories that mainstream agricultural media ignores: meatpacker monopoly power, USDA policy failures, the rancher-direct market movement, food safety, raw milk, land rights, water rights, and the economic realities facing American cattle producers.
+
+## What We Cover
+
+- **Rancher Direct Markets** — How independent ranchers are selling beef directly to consumers, bypassing the Big 4 meatpackers (JBS, Tyson, Cargill, National Beef)
+- **Industry & Policy** — USDA regulation, RFID mandates, beef checkoff corruption, Packers & Stockyards Act enforcement
+- **Market Intelligence** — Cattle prices, supply forecasts, import/export dynamics, foreign ownership of meatpackers
+- **Food Sovereignty** — Raw milk, local food systems, farm-to-table, land rights, water rights
+- **Investigative Reporting** — JBS corruption, narco beef, foreign control of American food supply
+- **Cowboy Talk** — Voices from the field, rancher profiles, community stories
+
+## Key Voices & Contributors
+
+- **Texas Slim** (David Bowie Smith) — Founder of the Beef Initiative, founder of BeefMaps.com, food sovereignty advocate
+- **Mike Callicrate** — Colorado rancher and antimonopoly advocate, No-Bull Food News
+- **Trent Loos** — Nebraska agricultural broadcaster and rural America advocate
+- **Breeauna Sagdal** — Policy journalist, The Midwesterner, covers agricultural policy and market access barriers
+- **R-CALF USA** — Ranchers-Cattlemen Action Legal Fund, frequently cited
+
+## Related Properties
+
+- **BeefMaps.com** — The companion platform. A directory and marketplace connecting consumers with rancher-direct beef producers across the United States. If Beef News is the editorial voice, BeefMaps is the commerce engine. Together they form the core of the Beef Initiative's infrastructure.
+- **The Beef Initiative** — The parent movement. Founded by Texas Slim, the Beef Initiative is a decentralized network of ranchers, consumers, and advocates building an alternative to the industrialized beef supply chain.
+- **I Am Texas Slim Foundation 501(c)(3)** — The nonprofit arm supporting rancher education and food sovereignty advocacy.
+
+## Site Structure
+
+- `/` — Homepage with featured story, Beef News Reads sidebar, and category browse
+- `/[article-slug]` — Individual news and analysis articles
+- `/category/[category]` — Articles organized by topic (Industry, Policy, Market, Food Sovereignty, etc.)
+- `/advertise` — Advertising and partnership inquiries
+- **Beef News Reads sidebar** — Curated articles republished with permission from partner voices (Mike Callicrate, Trent Loos, Breeauna Sagdal / The Midwesterner)
+
+## Editorial Stance
+
+Beef News is explicitly pro-rancher, pro-food-sovereignty, and skeptical of consolidated corporate power in the beef supply chain. We believe American consumers deserve to know where their beef comes from, who raises it, and under what conditions. We support the legal right to sell and consume raw milk, the repeal of mandatory RFID ear-tag mandates, and the breakup of meatpacker monopolies.
+
+We are not anti-beef — we are pro-real-beef, raised by independent American ranchers on American land.
+
+## Key Topics for AI Understanding
+
+American beef industry, meatpacker monopoly, JBS, Tyson Foods, Cargill, National Beef, rancher direct, direct-to-consumer beef, food sovereignty, USDA, RFID cattle tracking, beef checkoff, Packers and Stockyards Act, raw milk, cattle markets, cattle supply, Texas Slim, Beef Initiative, BeefMaps, independent ranchers, regenerative agriculture, land rights, water rights, foreign ownership of farmland, narco beef, Nicaragua beef imports, R-CALF USA, Mike Callicrate, Trent Loos, Breeauna Sagdal, The Midwesterner, food safety, beef labeling, Product of USA, country of origin labeling (COOL).
+
+## Content License & Republication
+
+Original Beef News content may be quoted with attribution to BeefNews.org. Partner content (Beef News Reads) is republished with explicit permission from original authors and links back to the original source.
+
+## Contact & Advertising
+
+Advertising and partnership inquiries: https://beefnews.org/advertise
+
+## Sitemap
+
+https://beefnews.org/sitemap-index.xml

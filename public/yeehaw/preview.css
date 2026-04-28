@@ -1,0 +1,268 @@
+/* ── BeefNews CMS Preview Pane Styles ────────────────────────────────────── */
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap");
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html, body {
+  background: #0d0d0d;
+  color: #f4f4f5;
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.preview-wrapper {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 4rem;
+}
+
+/* ── Article body ─────────────────────────────────────────────────────────── */
+.article-body { line-height: 1.8; color: #d4d4d8; }
+
+.article-body h2 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #fff;
+  letter-spacing: -0.01em;
+  margin: 2.5rem 0 1rem;
+}
+
+.article-body h3 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #fff;
+  margin: 2rem 0 0.75rem;
+}
+
+.article-body h4 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #e4e4e7;
+  margin: 1.5rem 0 0.5rem;
+}
+
+.article-body p {
+  margin: 0 0 1.25rem;
+  color: #d4d4d8;
+}
+
+.article-body a {
+  color: #c9a227;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.article-body a:hover { color: #e4b93a; }
+
+.article-body img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin: 1.5rem 0;
+  display: block;
+}
+
+.article-body figure {
+  margin: 1.5rem 0;
+}
+
+.article-body figcaption {
+  font-size: 0.8rem;
+  color: #71717a;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+.article-body blockquote {
+  border-left: 3px solid #c9a227;
+  padding: 0.25rem 0 0.25rem 1.25rem;
+  margin: 1.75rem 0;
+  color: #a1a1aa;
+  font-style: italic;
+}
+
+.article-body blockquote p { color: #a1a1aa; }
+
+.article-body ul,
+.article-body ol {
+  padding-left: 1.75rem;
+  margin: 0 0 1.25rem;
+}
+
+.article-body li {
+  color: #d4d4d8;
+  margin-bottom: 0.5rem;
+}
+
+.article-body hr {
+  border: none;
+  border-top: 1px solid #27272a;
+  margin: 2.5rem 0;
+}
+
+.article-body pre {
+  background: #1a1a1a;
+  border: 1px solid #27272a;
+  border-radius: 10px;
+  padding: 1.25rem;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+.article-body code {
+  font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace;
+  font-size: 0.82rem;
+  color: #c9a227;
+  background: rgba(201,162,39,0.1);
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.article-body pre code {
+  background: none;
+  padding: 0;
+  color: #f4f4f5;
+}
+
+.article-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+
+.article-body th {
+  background: #1a1a1a;
+  color: #c9a227;
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 600;
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid #27272a;
+}
+
+.article-body td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #1a1a1a;
+  color: #d4d4d8;
+}
+
+.article-body tr:hover td { background: rgba(255,255,255,0.02); }
+
+/* ── Tweet embed container ────────────────────────────────────────────────── */
+.embed-tweet {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+/* ── OG link card (fetched & rendered) ────────────────────────────────────── */
+a.preview-og-card {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid #27272a;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #141414;
+  margin: 1.5rem 0;
+  text-decoration: none;
+  transition: border-color 0.15s;
+  color: inherit;
+}
+
+a.preview-og-card:hover { border-color: rgba(201,162,39,0.4); }
+
+.preview-og-image {
+  width: 180px;
+  flex-shrink: 0;
+  background: #1a1a1a;
+}
+
+.preview-og-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  margin: 0;
+  border-radius: 0;
+}
+
+.preview-og-body {
+  padding: 1rem 1.25rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 0;
+}
+
+.preview-og-site {
+  font-size: 10px;
+  color: #71717a;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 0 0 4px;
+  font-weight: 600;
+}
+
+.preview-og-title {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #fff;
+  margin: 0 0 6px;
+  line-height: 1.35;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.preview-og-desc {
+  font-size: 0.78rem;
+  color: #71717a;
+  line-height: 1.5;
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ── Link placeholder (shown while OG data loads) ────────────────────────── */
+.link-card-placeholder { margin: 1.5rem 0; }
+
+a.preview-link-card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 16px;
+  border: 1px solid #27272a;
+  border-radius: 12px;
+  background: #141414;
+  color: #a1a1aa;
+  text-decoration: none;
+  font-size: 0.85rem;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+a.preview-link-card:hover {
+  border-color: rgba(201,162,39,0.4);
+  color: #c9a227;
+}
+
+.preview-link-card .link-icon { flex-shrink: 0; }
+
+.preview-link-card .link-url {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+}

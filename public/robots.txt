@@ -1,0 +1,89 @@
+# BeefNews.org — robots.txt
+# The Voice of the Rancher Direct Movement
+# We WELCOME AI crawlers. Our content is intended to inform, educate,
+# and advocate for American ranchers, food sovereignty, and direct beef markets.
+
+User-agent: *
+Allow: /
+
+# ── OpenAI / ChatGPT ──────────────────────────────────────────────────────────
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# ── Anthropic / Claude ────────────────────────────────────────────────────────
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# ── Google — Gemini + AI Overviews ────────────────────────────────────────────
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+# ── Microsoft / Bing Copilot ──────────────────────────────────────────────────
+User-agent: bingbot
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+# ── Perplexity ────────────────────────────────────────────────────────────────
+User-agent: PerplexityBot
+Allow: /
+
+# ── Meta AI ───────────────────────────────────────────────────────────────────
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# ── Apple Intelligence ────────────────────────────────────────────────────────
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# ── Common Crawl (powers many AI training sets) ───────────────────────────────
+User-agent: CCBot
+Allow: /
+
+# ── You.com ───────────────────────────────────────────────────────────────────
+User-agent: YouBot
+Allow: /
+
+# ── Amazon Alexa / Amazonbot ──────────────────────────────────────────────────
+User-agent: Amazonbot
+Allow: /
+
+# ── Diffbot (powers knowledge graph AI) ──────────────────────────────────────
+User-agent: Diffbot
+Allow: /
+
+# ── Bytespider (ByteDance) ────────────────────────────────────────────────────
+User-agent: Bytespider
+Allow: /
+
+# ── Internet Archive ──────────────────────────────────────────────────────────
+User-agent: ia_archiver
+Allow: /
+
+# ── Sitemaps ──────────────────────────────────────────────────────────────────
+Sitemap: https://beefnews.org/sitemap-index.xml

@@ -6,9 +6,10 @@ import AdSlot from "@/components/AdSlot.astro";
 import { categorySlug, slugToCategory, CATEGORY_ICONS } from "@/lib/category";
 
 export async function getStaticPaths() {
-  const allNews = await getCollection("news");
+  // Partner articles (Beef News Reads) are excluded from category pages.
+  const allNews = (await getCollection("news")).filter((a) => !a.data.partner);
 
-  // Collect unique categories
+  // Only generate pages for categories that have actual Beef News articles
   const cats = [...new Set(allNews.map((a) => a.data.category))];
 
   return cats.map((cat) => ({
@@ -19,8 +20,9 @@ export async function getStaticPaths() {
 
 const { categoryName } = Astro.props;
 
+// Partner articles excluded — category pages show Beef News articles only
 const allNews = (await getCollection("news"))
-  .filter((a) => a.data.category === categoryName)
+  .filter((a) => !a.data.partner && a.data.category === categoryName)
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const icon = CATEGORY_ICONS[categoryName] ?? "folder";

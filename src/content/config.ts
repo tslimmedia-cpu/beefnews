@@ -38,7 +38,21 @@ const radarCollection = defineCollection({
   }),
 });
 
+const authorsCollection = defineCollection({
+  type: "data",
+  schema: z.object({
+    name: z.string(),
+    role: z.string().default(""),
+    bio: z.string().optional(),
+    avatar: z.string().optional(),
+    twitter: z.string().optional(),
+    email: z.string().optional(),
+    active: z.boolean().default(true),
+  }),
+});
+
 export const collections = {
   news: newsCollection,
   radar: radarCollection,
+  authors: authorsCollection,
 };

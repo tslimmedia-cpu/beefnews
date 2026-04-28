@@ -1,0 +1,67 @@
+---
+/**
+ * LinkCard.astro
+ *
+ * Renders a rich link-preview card (OG card). Use in MDX articles for
+ * explicit card embeds. Standalone bare URLs are handled automatically
+ * by the remark-embeds plugin — this component is for explicit MDX usage.
+ *
+ * Usage in MDX:
+ *   import LinkCard from '@/components/LinkCard.astro';
+ *   <LinkCard
+ *     url="https://example.com/article"
+ *     title="Article Title"
+ *     description="Optional description override"
+ *     image="https://example.com/image.jpg"
+ *     siteName="Example.com"
+ *   />
+ */
+
+interface Props {
+  url: string;
+  title?: string;
+  description?: string;
+  image?: string;
+  siteName?: string;
+}
+
+const { url, title, description, image, siteName } = Astro.props;
+
+// Derive domain for fallback site name
+let domain = siteName || url;
+try { domain = new URL(url).hostname.replace(/^www\./, ""); } catch {}
+
+const displayTitle    = title    || domain;
+const displaySiteName = siteName || domain;
+---
+
+<a
+  href={url}
+  target="_blank"
+  rel="noopener noreferrer"
+  class="not-prose group flex flex-col sm:flex-row my-6 rounded-xl border border-zinc-800 hover:border-secondary/40 overflow-hidden bg-black transition-colors no-underline"
+>
+  {image && (
+    <div class="sm:w-48 sm:shrink-0 overflow-hidden bg-zinc-900">
+      <img
+        src={image}
+        alt=""
+        class="w-full h-36 sm:h-full object-cover opacity-75 group-hover:opacity-100 transition-opacity"
+        loading="lazy"
+      />
+    </div>
+  )}
+  <div class="p-4 flex-1 min-w-0 flex flex-col justify-center">
+    <p class="text-[10px] text-zinc-500 uppercase tracking-widest mb-1">
+      {displaySiteName}
+    </p>
+    <h3 class="font-headline font-bold text-white text-sm leading-snug mb-1.5 line-clamp-2 group-hover:text-secondary transition-colors">
+      {displayTitle}
+    </h3>
+    {description && (
+      <p class="text-zinc-400 text-xs leading-relaxed line-clamp-2">
+        {description}
+      </p>
+    )}
+  </div>
+</a>

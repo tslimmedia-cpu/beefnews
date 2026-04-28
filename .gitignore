@@ -18,3 +18,13 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# Local Netlify folder
+.netlify
+
+# WordPress media library (5.8 GB — deployed via Netlify CLI from local machine)
+public/wp-content/
+
+# Temp sync files
+scripts/midwesterner-raw.json
+scripts/midwesterner-clean.json

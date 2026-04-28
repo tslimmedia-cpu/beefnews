@@ -1,0 +1,26 @@
+---
+/**
+ * TweetEmbed.astro
+ *
+ * Embeds a tweet by URL. Use in MDX articles when you want to manually
+ * embed a specific tweet. Standalone bare URLs are handled automatically
+ * by the remark-embeds plugin — this component is for explicit MDX usage.
+ *
+ * Usage in MDX:
+ *   import TweetEmbed from '@/components/TweetEmbed.astro';
+ *   <TweetEmbed url="https://twitter.com/user/status/123456789" />
+ */
+
+interface Props {
+  url: string;
+}
+
+const { url } = Astro.props;
+---
+
+<div class="not-prose my-8 flex justify-center">
+  <blockquote class="twitter-tweet" data-theme="dark" data-dnt="true">
+    <a href={url}>Loading tweet…</a>
+  </blockquote>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>

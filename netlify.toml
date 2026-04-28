@@ -8,6 +8,10 @@
 [build.environment]
   NODE_VERSION = "20"
 
+# Netlify Functions (OG proxy for CMS preview pane)
+[functions]
+  directory = "netlify/functions"
+
 # Redirect bare domain → www (or remove this block if you prefer www → bare)
 # [[redirects]]
 #   from   = "https://www.beefnews.org/*"

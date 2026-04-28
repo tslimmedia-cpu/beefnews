@@ -32,9 +32,9 @@ export const PARTNERS: Partner[] = [
   },
   {
     name: "Breeauna Sagdal",
-    tagline: "Policy Journalist — The Midwesterner.",
-    site: "https://midwesterner.substack.com",
-    feed: "https://midwesterner.substack.com/feed",
+    tagline: "Investigative Journalist — The Midwesterner.",
+    site: "https://www.themidwesterner.news/author/breeaunasagdal/",
+    feed: "", // scraped via scripts/sync-midwesterner.mjs (Cloudflare-protected)
     limit: 2,
   },
 ];

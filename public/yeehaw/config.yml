@@ -1,0 +1,142 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# ── Media uploads ─────────────────────────────────────────────────────────────
+# Writers can upload images directly in the editor. Files land in public/images/uploads/
+# and are served at /images/uploads/<filename>.
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+site_url: https://beefnews.org
+display_url: https://beefnews.org
+
+# ── Collections ───────────────────────────────────────────────────────────────
+collections:
+
+  # ── News Articles ────────────────────────────────────────────────────────────
+  - name: "news"
+    label: "News Articles"
+    label_singular: "Article"
+    folder: "src/content/news"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    summary: "{{title}} — {{pubDate}}"
+    sortable_fields: ["pubDate", "title", "author", "category"]
+    view_filters:
+      - label: "Featured"
+        field: featured
+        pattern: true
+      - label: "Sponsored"
+        field: sponsored
+        pattern: true
+    fields:
+      - { label: "Title", name: "title", widget: "string", hint: "Headline — aim for under 90 characters" }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, default: "" }
+      - label: "Author"
+        name: "author"
+        widget: "string"
+        default: "BeefNews Staff"
+        hint: "Displayed byline. Use full name."
+      - { label: "Excerpt", name: "excerpt", widget: "text", hint: "1–2 sentence summary shown in cards and meta tags. Keep under 200 characters." }
+      - label: "Hero Image"
+        name: "image"
+        widget: "image"
+        required: false
+        hint: "Upload or paste a URL. Displayed at top of article and in link cards."
+        media_library:
+          config:
+            multiple: false
+      - { label: "Image Alt Text", name: "imageAlt", widget: "string", required: false, hint: "Describe the image for screen readers." }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Industry",          value: "Industry" }
+          - { label: "Markets",           value: "Markets" }
+          - { label: "Policy",            value: "Policy" }
+          - { label: "Science",           value: "Science" }
+          - { label: "Rancher Spotlight", value: "Rancher Spotlight" }
+          - { label: "Cowboy Talk",       value: "Cowboy Talk" }
+          - { label: "Platform",          value: "Platform" }
+          - { label: "Opinion",           value: "Opinion" }
+      - { label: "Tags", name: "tags", widget: "list", default: [], hint: "Keywords: grass-fed, USDA, markets, supply-chain …" }
+      - { label: "Featured Story", name: "featured", widget: "boolean", default: false, hint: "Pin to the hero slot on the homepage." }
+      - { label: "Sponsored Content", name: "sponsored", widget: "boolean", default: false }
+      - { label: "Sponsor Name", name: "sponsorName", widget: "string", required: false, hint: "Shown as 'Sponsored by …' when Sponsored is enabled." }
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        hint: >
+          Paste X/Twitter post URLs on their own line → they auto-embed as tweets.
+          Paste any other URL on its own line → it auto-renders as a link-preview card.
+          Both happen automatically at build time — no shortcodes needed.
+
+  # ── Radar (short-form intelligence) ─────────────────────────────────────────
+  - name: "radar"
+    label: "Beef News Radar"
+    label_singular: "Radar Item"
+    folder: "src/content/radar"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    summary: "{{title}} — {{pubDate}}"
+    fields:
+      - { label: "Headline", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false, default: "" }
+      - { label: "Author", name: "author", widget: "string", default: "Beef News Radar" }
+      - { label: "Summary", name: "excerpt", widget: "text", hint: "2–3 sentences — this IS the full copy for Radar cards." }
+      - label: "Thumbnail"
+        name: "image"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { label: "Image Alt Text", name: "imageAlt", widget: "string", required: false }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Industry Radar",  value: "Industry Radar" }
+          - { label: "Market Signal",   value: "Market Signal" }
+          - { label: "Policy Watch",    value: "Policy Watch" }
+          - { label: "Climate",         value: "Climate" }
+          - { label: "Platform",        value: "Platform" }
+          - { label: "International",   value: "International" }
+        default: "Industry Radar"
+      - { label: "Tags", name: "tags", widget: "list", default: [] }
+      - { label: "External Link (optional)", name: "externalUrl", widget: "string", required: false, hint: "If set, the radar card links here instead of a detail page." }
+      - label: "Body (optional)"
+        name: "body"
+        widget: "markdown"
+        required: false
+        hint: "Additional detail for the radar item's full page. Leave blank for card-only items."
+
+  # ── Writers & Staff ──────────────────────────────────────────────────────────
+  - name: "authors"
+    label: "Writers & Staff"
+    label_singular: "Author"
+    folder: "src/content/authors"
+    create: true
+    slug: "{{slug}}"
+    extension: "yml"
+    format: "yaml"
+    summary: "{{name}} — {{role}}"
+    fields:
+      - { label: "Full Name", name: "name", widget: "string" }
+      - { label: "Role / Title", name: "role", widget: "string", hint: "e.g. Staff Writer, Contributing Editor, Guest Contributor" }
+      - { label: "Bio", name: "bio", widget: "text", required: false, hint: "Short bio shown on author pages. 1–2 sentences." }
+      - label: "Avatar / Photo"
+        name: "avatar"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { label: "Twitter / X Handle", name: "twitter", widget: "string", required: false, hint: "Include the @ — e.g. @beefnewsorg" }
+      - { label: "Email", name: "email", widget: "string", required: false, hint: "Internal use only — not displayed publicly." }
+      - { label: "Active", name: "active", widget: "boolean", default: true, hint: "Inactive authors are hidden from public listings." }

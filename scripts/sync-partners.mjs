@@ -39,13 +39,8 @@ const PARTNERS = [
     category: "Cowboy Talk",
     limit:    20,
   },
-  {
-    name:     "Breeauna Sagdal",
-    site:     "https://midwesterner.substack.com",
-    feed:     "https://midwesterner.substack.com/feed",
-    category: "Policy",
-    limit:    20,
-  },
+  // Breeauna Sagdal is imported via scripts/sync-midwesterner.mjs
+  // (themidwesterner.news is Cloudflare-protected, requires real browser)
 ];
 
 // ── HTML → Markdown converter (zero dependencies) ────────────────────────────
