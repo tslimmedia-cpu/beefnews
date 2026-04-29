@@ -1,8 +1,10 @@
 ---
 title: "315 Visible. 160,000 Gone Quiet."
 pubDate: 2026-04-29
-author: "BeefNews Staff"
+author: "Beef News"
 excerpt: "The headline number is 315 — family farm Chapter 12 bankruptcies in 2025, a 46% jump from 2024. But between 2017 and 2024, more than 160,000 farms exited U.S. agriculture without a single court filing. No bankruptcy. No public record. No headline."
+image: "/images/315-farm-auction.jpg"
+imageAlt: "Land auction sign in an Iowa farm field"
 category: "Business"
 tags: []
 featured: false
