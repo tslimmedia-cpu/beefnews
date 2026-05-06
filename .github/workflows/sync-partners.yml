@@ -1,9 +1,7 @@
 name: Sync Partner Posts
 
 on:
-  schedule:
-    - cron: "0 * * * *"   # every hour on the hour
-  workflow_dispatch:        # manual trigger from GitHub Actions UI
+  workflow_dispatch:        # manual trigger only — scheduled sync disabled
 
 jobs:
   sync:
