@@ -4,7 +4,7 @@ pubDate: 2024-07-19
 author: "Beef News"
 excerpt: "Meet trailblazers like Texas Slim, Dennis Porter, Breeauna Sagdal, and Cole Bolton as they share insights on decentralized food systems, financial independence, and holistic health. Engage in dynamic discussions, savor the cleanest beef, and become part of a movement dedicated to sovereignty and community resilience. Don’t miss this unique event on July 26th-27th!"
 image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/fightforyourfreedom.jpg"
-category: "I Am Texas Slim Foundation 501(c)(3)"
+category: "Cowboy Talk"
 tags: []
 featured: false
 ---

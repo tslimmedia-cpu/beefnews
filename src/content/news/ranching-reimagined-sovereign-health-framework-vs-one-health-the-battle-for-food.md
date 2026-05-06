@@ -4,7 +4,7 @@ pubDate: 2025-03-06
 author: "Beef News"
 excerpt: "The battle for food sovereignty is heating up as the Sovereign Health Framework challenges the top-down control of the One Health Framework. In this critical discussion, Texas Slim, RS \"Ruffshot\" June, Breeauna Sagdal, and Dr. Kat Lindley expose how corporate monopolies are centralizing agriculture, medicine, and food policy—while offering a rancher-led, decentralized alternative. From fighting mRNA in livestock to restoring local beef supply chains, this is a roadmap to reclaiming health, self-reliance, and the future of food."
 image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-6.png"
-category: "I Am Texas Slim Foundation 501(c)(3)"
+category: "Cowboy Talk"
 tags: ["Bill Gates", "Breeauna Sagdal", "Dr. Kat Lindley", "Independent Medical Alliance", "Jeffrey Forrester", "One Health", "WHO"]
 featured: false
 ---

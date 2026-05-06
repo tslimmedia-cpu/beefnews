@@ -4,7 +4,7 @@ pubDate: 2024-04-06
 author: "Beef News"
 excerpt: "Seasoned veterinarians and livestock producers, alike, have been scratching their respective heads trying to understand the media's response to the avian flu. Headlines&nbsp; across every major news outlet &nbsp;warns…"
 image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/hero-flagmussolini-assumes-power-forms-cabinet.jpg"
-category: "Texas Slim's Community Newsletter"
+category: "Cowboy Talk"
 tags: []
 featured: false
 ---

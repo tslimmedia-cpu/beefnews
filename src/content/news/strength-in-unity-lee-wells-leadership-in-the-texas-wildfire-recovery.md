@@ -4,7 +4,7 @@ pubDate: 2024-04-30
 author: "Beef News"
 excerpt: "Future Visions and Collaborative Efforts for Texas Ranching: Lee Wells and the I Am Texas Slim Foundation's ongoing projects aim to educate the next generation and enhance disaster resilience, underlining the enduring spirit of the Texas Panhandle community."
 image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/leewells.jpg"
-category: "Texas Slim's Community Newsletter"
+category: "Cowboy Talk"
 tags: ["Cattle Mafia", "I Am Texas Slim Foundation", "Lee Wells", "Reach Out Worldwide", "Texas Wildfire Relief"]
 featured: false
 ---

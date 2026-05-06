@@ -4,7 +4,7 @@ pubDate: 2024-03-29
 author: "Beef News"
 excerpt: "In the heart of northern Florida, away from the sprawling ranches and vast agricultural landscapes, a young 9th grader named Emily set off on an unexpected journey into the world of ranching. With no family background…"
 image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/tscn112b-hero.webp"
-category: "Texas Slim's Community Newsletter"
+category: "Cowboy Talk"
 tags: []
 featured: false
 ---

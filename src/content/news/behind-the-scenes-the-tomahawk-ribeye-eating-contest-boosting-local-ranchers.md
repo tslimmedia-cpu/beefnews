@@ -4,7 +4,7 @@ pubDate: 2024-07-07
 author: "Beef News"
 excerpt: "Discover the incredible impact of the Tomahawk Ribeye Eating Contest as it fuels the dreams of young ranchers like Emily. Uncover how the I Am Texas Slim Foundation is transforming local agriculture through this unique and thrilling event."
 image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/emily-in-florida-hero-1.png"
-category: "I Am Texas Slim Foundation 501(c)(3)"
+category: "Cowboy Talk"
 tags: ["Adopt-A-Rancher", "Bitcoin Conference 2024", "Emily from Florida", "Tomahawk Ribeye Contest"]
 featured: false
 ---

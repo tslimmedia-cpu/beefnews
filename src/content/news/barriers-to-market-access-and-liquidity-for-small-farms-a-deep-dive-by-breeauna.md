@@ -4,7 +4,7 @@ pubDate: 2024-09-24
 author: "Beef News"
 excerpt: "Discover the urgent challenges facing small farmers as Breeauna Sagdal exposes the barriers to market access created by centralized regulations. Uncover how the USDA's grip on the certification process is driving up consumer costs and threatening food sovereignty. Learn how we can take back control and support local, independent producers before it's too late. Watch now!"
 image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/bree-chd2.jpg"
-category: "I Am Texas Slim Foundation 501(c)(3)"
+category: "Cowboy Talk"
 tags: ["Breeauna Sagdal", "Children's Health Defense", "Market Access"]
 featured: false
 ---

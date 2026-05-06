@@ -4,7 +4,7 @@ pubDate: 2024-04-07
 author: "Beef News"
 excerpt: "In today's agriculture and food systems, a blend of technological surveillance, centralized policies, and environmental and social agendas challenge traditional notions of food sovereignty and economic freedom. This…"
 image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/hero.jpg"
-category: "Texas Slim's Community Newsletter"
+category: "Cowboy Talk"
 tags: []
 featured: false
 ---

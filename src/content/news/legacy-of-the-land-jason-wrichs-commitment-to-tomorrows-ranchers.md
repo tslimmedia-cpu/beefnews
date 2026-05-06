@@ -4,7 +4,7 @@ pubDate: 2024-12-01
 author: "Beef News"
 excerpt: "Discover how Jason Wrich, a first-generation rancher in Colorado, is transforming regenerative agriculture through innovative practices and hands-on education. From launching an internship program funded by the I Am Texas Slim Foundation to offering premium pasture-raised beef and ranchhouse getaways, Jason’s vision blends tradition and sustainability. Explore the inspiring story of Wrich Ranches and learn how you can support this mission-driven rancher today."
 image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-1.png"
-category: "I Am Texas Slim Foundation 501(c)(3)"
+category: "Cowboy Talk"
 tags: []
 featured: false
 ---

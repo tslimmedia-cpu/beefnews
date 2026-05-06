@@ -4,7 +4,7 @@ pubDate: 2025-04-03
 author: "Beef News"
 excerpt: "The fight for health sovereignty begins with food. In this conversation with Health Revival Partners, ranchers and researchers reject the global One Health agenda and offer a grounded, local-first alternative. Sovereign Health is rising—from the soil to the soul."
 image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/image-1.png"
-category: "I Am Texas Slim Foundation 501(c)(3)"
+category: "Cowboy Talk"
 tags: ["Dr. Sabine Hazan", "Health Revival Partners", "Progenabiome"]
 featured: false
 ---

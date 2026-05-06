@@ -4,7 +4,7 @@ pubDate: 2024-05-14
 author: "Beef News"
 excerpt: "Breeauna Sagdal explores the dangers to self-custody and food security. The Beef Initiative Model presents a robust solution."
 image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/rfid-breeauna-1.jpg"
-category: "I Am Texas Slim Foundation 501(c)(3)"
+category: "Cowboy Talk"
 tags: []
 featured: false
 ---

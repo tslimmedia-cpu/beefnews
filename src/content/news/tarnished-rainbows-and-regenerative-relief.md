@@ -4,7 +4,7 @@ pubDate: 2024-04-22
 author: "Beef News"
 excerpt: "Texas Slim recently arrived in Washington State for the Libertarian Party's&nbsp; Unleashing Freedom convention . In Spokane, he was met with an environment starkly different from the Texas Panhandle yet connected by…"
 image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/unleashfreedom.jpeg"
-category: "Texas Slim's Community Newsletter"
+category: "Cowboy Talk"
 tags: []
 featured: false
 ---

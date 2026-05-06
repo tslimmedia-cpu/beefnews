@@ -4,7 +4,7 @@ pubDate: 2024-05-05
 author: "Breeauna Sagdal"
 excerpt: "From Roosevelt's 1933 National Industrial Recovery Act to today's surveillance of digital transactions and farm-to-table sales, the U.S. government has long manipulated markets under the guise of consumer protection."
 image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/tbi-model.jpg"
-category: "I Am Texas Slim Foundation 501(c)(3)"
+category: "Cowboy Talk"
 tags: ["Bitcoin", "Economic Fascism", "I Am Texas Slim Foundation", "Marijuana", "Microprocessing", "Self-Custody", "The Beef Initiative"]
 featured: false
 ---

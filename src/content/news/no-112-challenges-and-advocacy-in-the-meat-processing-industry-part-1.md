@@ -4,7 +4,7 @@ pubDate: 2024-03-24
 author: "Beef News"
 excerpt: "The meat processing industry is currently navigating a turbulent landscape, where small processors and growers find themselves disproportionately impacted by systemic challenges. At the heart of these challenges lies…"
 image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/tscn112-hero-slim-justin-scaled.jpeg"
-category: "Texas Slim's Community Newsletter"
+category: "Cowboy Talk"
 tags: []
 featured: false
 ---
