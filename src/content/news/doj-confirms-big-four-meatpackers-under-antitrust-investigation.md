@@ -1,5 +1,5 @@
 ---
-title: "The Government Just Said It Out Loud: DOJ Confirms Big Four Meatpackers Under Active Antitrust Investigation"
+title: "The Supply Shock Is Real. The 40-Year Cartel Is What Bloomberg Missed."
 pubDate: 2026-05-05T22:00:00-05:00
 author: "Beef News"
 excerpt: "The DOJ confirmed on May 4, 2026 that the Big Four meatpackers — controlling 85% of U.S. beef processing — are under active antitrust investigation, with 3 million documents reviewed and criminal tracks running parallel to civil. Bloomberg's supply-shock narrative explains today's prices. Forty years of structural concentration explains who pays for them tomorrow."
