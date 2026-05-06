@@ -3,7 +3,7 @@ title: "Michigan loses 100,000 acres of farmland — in 2024 alone!"
 pubDate: 2026-03-23
 author: "Breeauna Sagdal"
 excerpt: "State lost 670,000 acres of farmland between 2002 and 2022"
-image: "https://beefnews.org/wp-content/uploads/2026/03/image-16.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-16.png"
 category: "Farm Policy"
 tags: ["Michigan"]
 featured: false

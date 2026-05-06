@@ -3,7 +3,7 @@ title: "Tariffs? Please. JBS Already Bought Both Governments."
 pubDate: 2025-07-31
 author: "Beef News"
 excerpt: "A foreign meat giant just gamed Brazil’s courts, funded Trump’s inauguration, and got SEC approval. And we’re worried about labeling?"
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-147.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-147.png"
 category: "Business"
 tags: ["Brazil", "J&amp;F Investimentos", "JBS", "Pardons", "Trump"]
 featured: false
@@ -13,7 +13,7 @@ featured: false
 
 In [December 2023](https://www.transparency.org/en/press/transparency-international-deeply-concerned-over-brazilian-supreme-court-investigation-order), Brazil’s Supreme Court suspended a **$2 billion corruption fine** against JBS’s parent company, [J&F Investimentos](https://jfinvest.com.br/). Not through trial. Not through public hearing. Through **a secret, [single-justice decision](https://www.transparency.org/en/press/transparency-international-deeply-concerned-over-brazilian-supreme-court-investigation-order)** by **Dias Toffoli**—the same judge who later **voided evidence from the [Odebrecht plea deal](https://www.justice.gov/usao-edny/pr/panamanian-intermediary-pleads-guilty-his-role-international-bribery-and-money-1)** and targeted **Transparency International** for criticizing him.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-144.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-144.png)
 
 Brazilian Judge Dias Toffoli
 
@@ -21,7 +21,7 @@ The watchdog that helped expose JBS’s bribery was now being [**criminally inve
 
 **While the butcher boys walked free.**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-145-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-145-1024x576.png)
 
 *“The steak that never reached the people’s plate is still being served at the king’s table,"* said Beef Initiative's [Texas Slim.](https://iamtexasslim.org)
 
@@ -31,13 +31,13 @@ Now, it was getting **pardoned**—and subsidized.
 
 From January 2024 to May 2025, **JBS failed to pay R$8.52 billion in federal taxes**—more than 68% of its net profit. The money vanished, while Lula’s government pushed through [Provisional Measure 1,232](https://www.canalenergia.com.br/noticias/53292352/jf-assina-transferencia-da-amazonas-energia-pouco-antes-do-vencimento-da-mp-1232?utm_source=chatgpt.com)—clearing the way for JBS-owned [Âmbar](https://ambarenergia.com.br/en/the-ambar/) to take over Amazonas Energia and shift the burden of Brazil’s energy chaos onto everyday consumers.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Advertisement
 
 ###### **Bribes, Bailouts, and a $5M Political Cover Charge**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-146.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-146.png)
 
 Fast forward to 2025. Pilgrim’s Pride—JBS’s U.S. subsidiary—quietly [drops](https://www.reuters.com/world/us/us-senator-questions-brazilian-meatpacker-jbs-over-trump-inaugural-fund-2025-05-19/?utm_source=chatgpt.com) **$5 million** into the Trump-Vance Inaugural Fund.
 
@@ -57,7 +57,7 @@ Meanwhile, JBS and Pilgrim’s are still:
 
 ###### You’re Not Buying Beef. You’re Buying a Lie.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-149-1024x683.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-149-1024x683.png)
 
 Americans think they’re winning with tariffs.
 
@@ -80,7 +80,7 @@ It’s not justice. It’s the new meat monopoly model.
 
 ###### Solution?
 
-![JBS / Pilgrims Pride; Credit: Getty](https://beefnews.org/wp-content/uploads/2025/07/image-147-1024x533.png)
+![JBS / Pilgrims Pride; Credit: Getty](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-147-1024x533.png)
 
 Start here:
 

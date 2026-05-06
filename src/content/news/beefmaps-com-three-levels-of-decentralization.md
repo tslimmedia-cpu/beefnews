@@ -3,7 +3,7 @@ title: "BeefMaps.com - Three Levels of Decentralization"
 pubDate: 2025-03-27
 author: "Beef News"
 excerpt: "From bison snack sticks to smoked chuck roasts, this week’s Beef Maps X Spaces showcased the power of going direct. Ranchers, policy experts, and tech builders are carving out a new path—one handshake at a time. The cartel's days are numbered, and decentralized beef is rising."
-image: "https://beefnews.org/wp-content/uploads/2025/03/image-20.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-20.png"
 category: "Beef Maps"
 tags: ["JZ Meats", "Legacy Ranch", "Miller Bison", "Rattlesnake Meat Co."]
 featured: false
@@ -13,7 +13,7 @@ From ranching families in Colorado to first-generation beef producers in Illinoi
 
 What started as humble beginnings—like hamburger helper and weekend cattle chores—has grown into a groundswell of grassroots change. From Joe and Jenny’s [JZ Meats](https://jzmeats.com/pages/about-us), an intergenerational ranch, to Anthony Miller’s [grass-fed bison operation](https://millerbisonmeat.com/), and from Legacy Ranch’s [smoked chuck roasts](https://beefinitiative.com/products/lraw-the-cattlemen-bundle-box) to Rattlesnake Meats' [refusal to serve the cartel](https://www.rattlesnakemeats.com/shop/p/wholefreefreezer), each story reinforced a shared truth: food freedom begins with knowing your rancher.
 
-[![](https://beefnews.org/wp-content/uploads/2025/03/image-20-1024x768.png)](https://jzmeats.com/pages/about-us)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-20-1024x768.png)](https://jzmeats.com/pages/about-us)
 
 The Intergenerational [JZ Meats](https://jzmeats.com/pages/about-us) in Olath, CO\
 Click the image to view their website.

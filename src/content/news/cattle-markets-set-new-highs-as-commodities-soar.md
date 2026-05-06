@@ -3,13 +3,13 @@ title: "Cattle Markets Set New Highs as Commodities Soar"
 pubDate: 2025-04-25
 author: "Breeauna Sagdal"
 excerpt: "Cattle prices are surging as the market rebounds from years of artificial suppression and supply shocks. Texas Slim says this moment was inevitable—the cost of food has been propped up by government intervention for too long, and now the bubble has burst. With herd numbers at 73-year lows and 47 farms closing daily, Slim and others say buying a cow isn’t just smart economics—it’s a stand for freedom."
-image: "https://beefnews.org/wp-content/uploads/2025/04/image.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/image.jpeg"
 category: "Business"
 tags: ["cattlemarkets", "commodities", "economy", "liquidity", "tariffs", "Trump"]
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2025/04/image-1024x745.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/image-1024x745.jpeg)
 
 Domestic cattle prices have experienced a steady increase with futures setting new contract highs. While some are bearishly anticipating a double cap, long-term artificial suppression coupled with herd contractions and new leadership are far more likely to send commodities soaring across the board well into the future.
 

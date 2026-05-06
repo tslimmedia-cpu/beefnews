@@ -3,7 +3,7 @@ title: "\"Pesticide Immunity Is Built on a Lie\": Dr. Alexandra Muñoz on the Hi
 pubDate: 2025-09-07
 author: "Beef News"
 excerpt: "The EPA doesn’t test pesticides—it trusts the companies that make them. And when those companies have a history of falsifying data, the label isn’t science. It’s marketing."
-image: "https://beefnews.org/wp-content/uploads/2025/09/image-19.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-19.png"
 category: "Health"
 tags: ["Alexandra Muñoz PhD", "Breeauna Sagdal", "cancer lawsuits", "FIFRA", "Pesticide Immunity", "Section 453"]
 featured: false
@@ -25,7 +25,7 @@ That label? It’s not a scientific document. **It’s a liability shield.**
 
 **And now, Section 453 would make it untouchable.**
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Please support our partner.
 
@@ -48,7 +48,7 @@ Meanwhile, hundreds of scientific studies have shown that so-called "inert ingre
 - A 2014 study in [*BioMed Research International*](https://pmc.ncbi.nlm.nih.gov/articles/PMC3955666/) found that Roundup’s formulated product was up to 1,000x more toxic than glyphosate alone.
 - Surfactants like POEA (polyethoxylated tallowamine), commonly found in herbicides, [have been linked](https://www.researchgate.net/publication/337103871_The_surfactant_polyethoxylated_tallowamine_POEA_reduces_lifespan_and_inhibits_fecundity_in_Drosophila_melanogaster-_In_vivo_and_in_vitro_study) to **endocrine disruption, liver toxicity, and cell death.**
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-17-1024x660.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-17-1024x660.png)
 
 Source: [Archives of Toxicology](https://link.springer.com/article/10.1007/s00204-025-04076-2?utm_source=chatgpt.com)
 
@@ -56,7 +56,7 @@ Source: [Archives of Toxicology](https://link.springer.com/article/10.1007/s0020
 
 But the public never sees those ingredients. **They’re considered "trade secrets."**
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
 
 Please support our partner.
 
@@ -64,7 +64,7 @@ Please support our partner.
 
 If Section 453 becomes law, **it would block federal agencies from updating pesticide labels** unless those updates align with the EPA’s original assessments.
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-15.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-15.png)
 
 Source: [Section 453](https://appropriations.house.gov/sites/evo-subsites/republicans-appropriations.house.gov/files/evo-media-document/fy26-interior%2C-environment%2C-and-related-agencies-bill-text.pdf)
 

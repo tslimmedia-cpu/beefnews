@@ -3,7 +3,7 @@ title: "The Illusion of Surplus: What the Senate's Land Sale Bill Really Does"
 pubDate: 2025-06-19
 author: "Beef News"
 excerpt: "The Senate’s version of H.R.1 proposes selling up to 3.3 million acres of public land across 11 Western states, while quietly making over 250 million acres eligible for nomination by private interests—with no requirement for public input or affordable housing. Data shows that less than 2% of these lands are suitable for development, and the bill includes no safeguards to ensure public benefit. Though pitched as a housing solution, the bill aligns with a long-standing agenda to privatize federal lands."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-43.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-43.png"
 category: "Beef Maps"
 tags: ["BLM", "Land Use", "Mike Lee"]
 featured: false
@@ -25,4 +25,4 @@ As of June 19, 2025, the Senate has not yet voted on the bill. The House version
 
 ***Looking to protect real land from disappearing maps and disappearing rights? Find rancher-direct beef—and the ground it’s raised on—at [BeefMaps.com](https://beefmaps.com).***
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-42-1024x892.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-42-1024x892.png)

@@ -3,7 +3,7 @@ title: "Road Diaries: Texas Slim's 5,000-Mile Journey through America's Heartlan
 pubDate: 2024-06-09
 author: "Beef News"
 excerpt: "From dust storms and droughts to grassroots agricultural movements, Texas Slim chronicles the current state of American soil, community-driven food systems, and the quest for clean food."
-image: "https://beefnews.org/wp-content/uploads/2024/06/ep23-reflections.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/06/ep23-reflections.png"
 category: "Video"
 tags: ["Local Food Systems", "Travel"]
 featured: false

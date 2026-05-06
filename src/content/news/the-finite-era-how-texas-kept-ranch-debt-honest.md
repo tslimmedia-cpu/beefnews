@@ -3,7 +3,7 @@ title: "The Finite Era: How Texas Kept Ranch Debt Honest"
 pubDate: 2025-11-21
 author: "Texas Slim"
 excerpt: "Before the Federal Reserve, the cow—not the bank—called the tune."
-image: "https://beefnews.org/wp-content/uploads/2025/11/image-1.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/image-1.png"
 category: "Business"
 tags: []
 featured: false
@@ -27,7 +27,7 @@ For twenty-three years, from roughly 1890 to the signing of the [Federal Reserve
 
 Cattle-loan defaults stayed under two percent across the state — not because ranchers were perfect, but because failure meant public loss of your brand, your cattle, and your standing as a man.
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](HTTPS://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](HTTPS://iamtexasslim.org)
 
 Please support our partner.
 
@@ -35,7 +35,7 @@ Please support our partner.
 
 Texas law made one thing crystal clear: cattle weren’t background scenery. They were personal property and primary collateral.
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0460-1024x951.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0460-1024x951.jpeg)
 
 <https://texashistory.unt.edu/ark:/67531/metapth743549/m1/2>
 
@@ -43,7 +43,7 @@ Chattel mortgages on cattle had to be filed in the same county where the brand w
 
 Beside your brand mark, anyone could see the note: who you owed, how much, and on what herd.
 
-![](https://beefnews.org/wp-content/uploads/2025/11/image-1.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/image-1.png)
 
 A Cattle Brand Book
 
@@ -62,7 +62,7 @@ It was brutal.\
 It was simple.\
 It was honest.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](HTTPS://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](HTTPS://westonaprice.org)
 
 Please support our partner.
 
@@ -76,7 +76,7 @@ There were no “infinite” operating lines.
 
 In Fort Worth, Amarillo, and other cattle hubs, you see the same pattern in [bank archives](https://www.txarchives.org/unt/finding_aids/00129.xml): short-term cattle paper, tied to brand inspection certificates and sale events. The money moved when the cattle moved. Not months later. Not “when markets improve.”
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](Https://betterfedfoods.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](Https://betterfedfoods.com)
 
 Please support our partner.
 
@@ -96,7 +96,7 @@ State school lands were typically sold on [long-term vendor liens](https://www.g
 
 At the bigger end of the spectrum, especially in the Panhandle, something else was happening.
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0464-1024x770.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0464-1024x770.jpeg)
 
 The [Matador Land and Cattle Company](https://swco-ir.tdl.org/handle/10605/62559), chunks of the old XIT empire, and a dozen other large outfits weren’t financed by local Texas banks at all. Their debt sat in Scottish and British hands: Dundee mortgage houses, debenture syndicates, private London capital.
 
@@ -111,7 +111,7 @@ Borrow against cows.\
 Pay with cows.\
 Reset.
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0467-1024x851.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0467-1024x851.jpeg)
 
 ###### **The Math of Less Than Two Percent**
 
@@ -129,7 +129,7 @@ Everyone talked about it.
 
 Your name traveled across rail depots, sale barns, and coffee counters as either a man who stood by his brand or a man who wrote checks he couldn’t cover.
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0469-1024x685.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0469-1024x685.jpeg)
 
 In that world, you didn’t casually roll debt forward.\
 You didn’t “manage” optics.\
@@ -144,7 +144,7 @@ Then December 23, 1913 hits the ledger like a quiet bomb.
 
 The Federal Reserve Act unlocks elastic money and new games with reserves. Over time, interest caps soften, rollovers become normal, and the line between “this year’s note” and “last year’s note” starts to blur.
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0470.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0470.jpeg)
 
 Debt stops being a season.\
 It becomes a lifestyle.

@@ -3,7 +3,7 @@ title: "Red, White, and Bullsh*t: How the WTO Turned ‘Product of USA’ Into a
 pubDate: 2025-07-28
 author: "Beef News"
 excerpt: "A WTO ruling killed Country-of-Origin Labeling, Congress caved, and now foreign meat gets a “Product of USA” label—while American ranchers get wiped out."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-126.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-126.png"
 category: "Business"
 tags: ["Defense Production Act", "Made in the USA", "MCOOL", "TBT", "WTO"]
 featured: false
@@ -16,7 +16,7 @@ But there’s one problem.
 The label doesn’t mean what you think it means.\
 And the reason has **nothing to do with American law**.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-125.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-125.png)
 
 Source: [Farm Action](https://farmaction.us/2024/03/11/farm-action-movement-wins-product-of-u-s-a-meat-label-reform/)
 
@@ -31,7 +31,7 @@ It’s not a loophole. It’s the rule. And it’s backed by the **World Trade O
 
 How did this happen? Simple: the WTO told us to stop labeling. And we obeyed.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Advertisement
 
@@ -48,7 +48,7 @@ Then came the hammer: in 2015, the [WTO authorized](https://apnews.com/general-n
 
 No public vote. No national security review. Just **capitulation**.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-127-1024x535.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-127-1024x535.png)
 
 ###### **Trump’s “Made in the USA” Directive Can’t Touch Meat**
 
@@ -78,7 +78,7 @@ Ranchers can’t compete against a lie.
 
 ###### **Consumers Want It. Congress Won’t Deliver It.**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-123-1024x563.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-123-1024x563.png)
 
 Source: [ConsumerFed.org](https://consumerfed.org/pdfs/COOL-poll-results-May-2013.pdf)
 
@@ -90,7 +90,7 @@ COOL wasn’t killed by public debate—it was executed by a **trade court in Ge
 
 ###### **The Label Is a Lie. The Fight Isn’t Over.**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-124.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-124.png)
 
 “Product of USA” is the food industry’s most effective act of consumer fraud. **And everyone in Washington knows it.**
 

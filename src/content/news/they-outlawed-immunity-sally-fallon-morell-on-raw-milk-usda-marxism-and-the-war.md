@@ -3,7 +3,7 @@ title: "“They Outlawed Immunity”: Sally Fallon Morell on Raw Milk, USDA Marx
 pubDate: 2025-09-04
 author: "Beef News"
 excerpt: "Raw milk wasn’t banned for safety—it was banned to protect monopolies. In this interview, Sally Fallon Morell traces how pasteurization laws, price controls, and USDA policy wiped out small dairies—while states like North Dakota are now fighting back."
-image: "https://beefnews.org/wp-content/uploads/2025/09/outlawed-immunity.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/outlawed-immunity.jpg"
 category: "Business"
 tags: ["Pasturization", "Raw Milk", "Sally Fallon Morell", "Weston A. Price"]
 featured: false
@@ -13,13 +13,13 @@ In 1999, there were just **20 sources of raw milk** listed online in America. **
 
 Sally Fallon Morell is not chasing trends or political points. She’s the president of the [Weston A. Price Foundation](https://westonaprice.org), a grandmother, and a guiding voice in the modern food freedom movement. While USDA bureaucrats fed corporate lobbyists and Congress debated “dairy parity,” Fallon Morell quietly built a movement—one farm, one state, one gallon of raw milk at a time.
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/image-7.png)](https://www.amazon.com/Nourishing-Traditions-Challenges-Politically-Dictocrats/dp/0967089735)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-7.png)](https://www.amazon.com/Nourishing-Traditions-Challenges-Politically-Dictocrats/dp/0967089735)
 
 Sally Fallon Morell and her book "[Nourishing Traditions](https://www.amazon.com/Nourishing-Traditions-Challenges-Politically-Dictocrats/dp/0967089735)"
 
 **And now that movement is winning.**
 
-![Realmilk.com](https://beefnews.org/wp-content/uploads/2025/06/findrealmilkhere.png)
+![Realmilk.com](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/findrealmilkhere.png)
 
 Please support our partners.
 
@@ -31,7 +31,7 @@ The justification? Public health.
 
 The reality? **Monopoly protection**.
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-3.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-3.png)
 
 \
 Filling milk bottles, Briarcliff Farms, New York.\
@@ -43,7 +43,7 @@ https://youtu.be/1XqdPXCQtx8?t=176
 
 In [1908](https://www.researchgate.net/publication/30960565_Pure_Milk_Is_Better_Than_Purified_Milk_Pasteurization_and_Milk_Purity_in_Chicago_1908-1916), Chicago became the first city to mandate milk pasteurization—a reform often linked to the influence of John D. Rockefeller and his allies in public health. That same year, [Nathan Straus](https://www.sciencehistory.org/stories/magazine/the-lingering-heat-over-pasteurized-milk/?utm_source=chatgpt.com) began donating pasteurizers to urban centers—**conveniently wiping out small dairies in the process.**
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-4.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-4.png)
 
 Source: [USDA](https://ers.usda.gov/sites/default/files/_laserfiche/publications/98901/ERR-274.pdf?v=11513&utm_source=chatgpt.com)
 
@@ -55,13 +55,13 @@ https://youtu.be/1XqdPXCQtx8?t=165
 
 Today’s dairy system is a broken illusion of abundance. In [2022](https://www.ers.usda.gov/data-products/chart-gallery/chart-detail?chartId=106424&utm_source=chatgpt.com), America had just **24,082 dairy farms**, down **39% in five years**—even though milk output rose due to mega-farm “efficiency” . The price paid to farmers? About **$1.50 per gallon**, nearly unchanged since World War II.
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-5.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-5.png)
 
 Source: [USDA](https://www.ers.usda.gov/data-products/chart-gallery/chart-detail?chartId=106424&utm_source=chatgpt.com)
 
 Meanwhile, CAFOs (concentrated animal feeding operations) suck up [subsidies, no-interest loans, and grain programs](https://www.progressivepublish.com/downloads/2025/general/2024-pd-stats-lowres.pdf?utm_source=chatgpt.com). A **48,000-cow dairy** exists in Texas. Pollution from these operations is estimated to cause billions in environmental damage .
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-6.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-6.png)
 
 North Dumas Farms, a Texas mega-dairy permitted for 72,000 cows, uses tarp-covered manure lagoons to trap methane.\
 Source: Google Earth

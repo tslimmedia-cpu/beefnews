@@ -3,7 +3,7 @@ title: "Where’s the Beef From? D.C. Might Finally Tell You"
 pubDate: 2025-05-30
 author: "Beef News"
 excerpt: "A new bipartisan bill aims to reinstate Mandatory Country-of-Origin Labeling (COOL) for beef, forcing grocery stores to disclose where cattle were born, raised, and slaughtered. Since COOL was repealed in 2015, foreign beef has routinely been labeled “Product of USA” despite being imported—misleading consumers and undercutting American ranchers. The legislation marks a pivotal fight between food transparency and global meatpackers."
-image: "https://beefnews.org/wp-content/uploads/2025/05/image-1.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/05/image-1.jpeg"
 category: "Business"
 tags: []
 featured: false

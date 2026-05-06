@@ -3,7 +3,7 @@ title: "An Urgent Warning on mRNA Vaccines in Livestock"
 pubDate: 2024-12-11
 author: "Beef News"
 excerpt: "With the imminent introduction of veterinary mRNA-based vaccines like Sequivity in the UK, Dr. Max Thornsberry raises critical concerns about their safety, efficacy, and potential long-term consequences for animals and the human food chain. This article highlights the inherent risks of mRNA technology, including inflammatory lipid nanoparticles, genetic interference, and prion diseases. Dr. Thornsberry urges a cautious, evidence-based approach to safeguard both animal health and consumer safety."
-image: "https://beefnews.org/wp-content/uploads/2025/08/image.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image.png"
 category: "Farm Policy"
 tags: []
 featured: false

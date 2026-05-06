@@ -3,7 +3,7 @@ title: "JBS IS PLAYING WITH FIRE — AND CATTLE MARKETS KNOW IT"
 pubDate: 2026-03-09
 author: "Beef News"
 excerpt: "A 99% strike vote. Collapsed bargaining. A 7-day clock ticking toward midnight. The biggest meatpacking plant in Colorado is days away from going dark — and taking futures with it."
-image: "https://beefnews.org/wp-content/uploads/2026/03/image-2.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-2.png"
 category: "JBS"
 tags: ["Corbett Wall", "Feeder Flash", "Futures", "JBS"]
 featured: false

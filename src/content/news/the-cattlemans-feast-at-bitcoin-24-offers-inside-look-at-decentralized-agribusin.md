@@ -3,7 +3,7 @@ title: "The Cattleman’s Feast at Bitcoin ‘24 Offers Inside Look At Decentral
 pubDate: 2024-07-15
 author: "Beef News"
 excerpt: "Experience the Food Revolution at Nashville’s Premier Event: July 26-27! Join The Beef Initiative to taste the cleanest beef in the nation and discover how Bitcoin can save family farms. Don't miss out on food, fun, and groundbreaking insights into food sovereignty!"
-image: "https://beefnews.org/wp-content/uploads/2024/07/cf-promo-cover-1.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/cf-promo-cover-1.jpg"
 category: "I Am Texas Slim Foundation 501(c)(3)"
 tags: []
 featured: false

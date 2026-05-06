@@ -3,7 +3,7 @@ title: "New Jersey to Bulldoze 150-Year-Old Family Farm for Housing Mandate"
 pubDate: 2025-06-11
 author: "Beef News"
 excerpt: "A beloved 150-year-old family farm in Cranbury, NJ, is under threat of eminent domain as the township scrambles to meet state-mandated affordable housing quotas. Locals say the town chose “the most loved land in town” despite having other options—and delivered the eviction threat by mail without conversation. With the clock ticking toward a June 30 deadline, the Henry family is launching a last-ditch fight to save their legacy from concrete."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-21.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-21.png"
 category: "Business"
 tags: ["Cranberry", "Eminent Domain", "New Jersey"]
 featured: false
@@ -31,4 +31,4 @@ This 21-acre working farm has been rented to local livestock producers and is st
 
 To support Andy’s legal fight, visit the **[Save Andy’s Farm GoFundMe](https://www.gofundme.com/f/save-andys-family-farm-a-150year-legacy-at-risk)**. To help keep local ranchland out of developers’ hands across the country, explore real-time listings at **[BeefMaps.com](https://www.beefmaps.com/)**—where independent producers are defending their ground, one pasture at a time.
 
-[![](https://beefnews.org/wp-content/uploads/2025/06/image-19-1024x576.png)](https://beefmaps.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-19-1024x576.png)](https://beefmaps.com)

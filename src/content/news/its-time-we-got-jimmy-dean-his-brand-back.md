@@ -3,7 +3,7 @@ title: "It's time we got Jimmy Dean his Brand back."
 pubDate: 2024-05-27
 author: "Texas Slim"
 excerpt: "Join Texas Slim in Reviving the Legacy of Independent Cattlemen and Standing Against Corporate Takeover"
-image: "https://beefnews.org/wp-content/uploads/2024/05/jimmydean-pt1.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/jimmydean-pt1.jpg"
 category: "Culture"
 tags: ["Direct to consumer", "Jimmy Dean", "Market Access", "Rancher Direct"]
 featured: false
@@ -21,21 +21,21 @@ This tale isn't unique; it's echoed across the vast pastures of our industry. We
 
 But let me tell you, this ain’t just a story of loss and nostalgia. It's a rallying cry. It’s a call to all you hardworking ranchers and cowpokes who wake with the dawn and work with the land. It's a call to remember what our brands stand for—not just the cattle we raise, but the legacy we carry on. The brand of Jimmy Dean should be a lesson to us, a reminder that what we build can outlast the flicker of today's market trends. It's about planting our boots firm in the soil of tradition while reaching for the reins of innovation.
 
-![](https://beefnews.org/wp-content/uploads/2024/05/tyson-jd-929x1024.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/tyson-jd-929x1024.jpeg)
 
 So here's what we're going to do. We're going to take a page out of Jimmy’s book, but write our own ending. We're going to raise our cattle with pride, process our meats with the care they deserve, and sell products that are the embodiment of healthy, safe, and local. Our brands won’t be just marks on the hide; they’ll be symbols of our way of life, our commitment to our community, and our preservation of the cowboy spirit.
 
 # *Discover the freedom of the open range with The Beef Initiative's **Rancher-Direct** beef boxes. Break free from the corporate hold and savor beef that's raised with pride, processed with care, and delivered straight from our rancher's pastures to your plate. Embrace the cowboy spirit, support local ranchers, and taste the difference that tradition and innovation bring to every bite.*
 
-![](https://beefnews.org/wp-content/uploads/2024/05/image-18.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/image-18.png)
 
-![](https://beefnews.org/wp-content/uploads/2024/05/image-19.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/image-19.png)
 
-![](https://beefnews.org/wp-content/uploads/2024/05/image-20.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/image-20.png)
 
 I invested everything I’ve got to feed our community and uphold what we stand for. And I'm asking you to join me. Let's hitch our wagons to the star of independence and ride out this wave of consolidation. Let's show them that in the heart of America, the soul of the cattleman still beats strong.
 
-![](https://beefnews.org/wp-content/uploads/2024/05/image-17-1024x616.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/image-17-1024x616.png)
 
 We're more than the meats we sell; we're the guardians of a way of life. And as long as there's a Texas Slim, there's a way back to what made us great. Let’s keep those brands burning bright and hold fast to the cowboy way of life. Here’s to the horizon, and here's to us.
 

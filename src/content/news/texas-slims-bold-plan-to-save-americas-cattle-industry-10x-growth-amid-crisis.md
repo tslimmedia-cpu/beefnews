@@ -3,7 +3,7 @@ title: "Texas Slim's Bold Plan to Save America's Cattle Industry: 10x Growth Ami
 pubDate: 2024-08-04
 author: "Beef News"
 excerpt: "Discover how Texas Slim and The Beef Initiative are revolutionizing the cattle industry with innovative strategies, direct-to-consumer models, and the inspiring stories of young ranchers like Emily and Jesse. Can their bold vision turn the tide?"
-image: "https://beefnews.org/wp-content/uploads/2024/08/cf-recap-beefnews.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/cf-recap-beefnews.jpg"
 category: "Business"
 tags: ["beef maps", "Bitcoin 2024", "e-commerce", "Golden Ratio Beef", "Market Access"]
 featured: false
@@ -11,7 +11,7 @@ featured: false
 
 Fresh from the success of the Cattleman's Feast and Tomahawk Ribeye Contest, Texas Slim and The Beef Initiative are setting their sights on a bold goal: to 10x the population of cattle in an industry facing significant decline. In a recent conversation, Texas Slim discussed the current state of the cattle industry, market challenges, and innovative strategies to sustain and grow the industry.
 
-![](https://beefnews.org/wp-content/uploads/2024/08/image-2-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/image-2-1024x576.png)
 
 Johnny "Ol' Butch" Ochoa and K&C Cattle Co. cooked up over 1000lbs of regeneratively raised beef at the Cattleman's Feast in Nashville on July 27, 2024
 
@@ -21,7 +21,7 @@ Texas Slim began by discussing a recent report from [Graham Landing Cattle Co.](
 
 "We’re witnessing a reverse trend," Slim explained. "Record high prices at auction houses are plummeting because inventories are depleted. Everyone sold out to capitalize on high profits, leading to a collapse-like scenario."
 
-[![](https://beefnews.org/wp-content/uploads/2024/08/image-1-1024x682.png)](https://www.grahamfeedyard.com/)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/image-1-1024x682.png)](https://www.grahamfeedyard.com/)
 
 #### Causes and Implications
 
@@ -31,7 +31,7 @@ The conversation delved into the reasons behind this trend. With inventories at 
 
 #### The Beef Initiative's Response
 
-![](https://beefnews.org/wp-content/uploads/2024/08/image-6-1024x768.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/image-6-1024x768.png)
 
 Texas Slim and The Beef Initiative address a crowd of hundreds gathered for The Cattleman's Feast in Nashville July 27, 2024.
 
@@ -43,7 +43,7 @@ Despite the challenging outlook, Texas Slim is optimistic about the future, than
 
 Emily, a dedicated young rancher from northern Florida, was sponsored by the I Am Texas Slim Foundation through their Adopt-A-Rancher initiative. This sponsorship includes a $500 donation towards Emily’s next steer, demonstrating the foundation’s commitment to nurturing the next generation of ranchers. Emily's participation in the Tomahawk Ribeye Contest at the Bitcoin Conference 2024 Block Party helped raise awareness and funds to support her ranching endeavors.
 
-![](https://beefnews.org/wp-content/uploads/2024/08/image-3-1024x522.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/image-3-1024x522.png)
 
 Emily's journey into ranching began unexpectedly as a 9th grader with no family background in farming. She discovered The Beef Initiative through an online search while seeking resources to raise her second steer. The support she received has significantly boosted her confidence and integrated her into the world of regenerative agriculture. The $500 donation from the foundation will help cover feed costs and further her sustainable ranching practices. [Read more](https://beefnews.org/behind-the-scenes-the-tomahawk-ribeye-eating-contest-boosting-local-ranchers/).
 
@@ -51,7 +51,7 @@ Emily's journey into ranching began unexpectedly as a 9th grader with no family 
 
 Jesse Kostbade of [Kostbade Beef Stock and Golden Ratio Beef](https://kostbadebeefstock.org/golden-ratio-beef/), was supported in the Tomahawk Ribeye Contest with the help of Dr. Ken Berry. Golden Ratio Beef is committed to producing better local beef through regenerative agriculture, focusing on natural feeding and anti-parasitic regimens. Jesse's involvement with The Beef Initiative began with a $25/month listing on [beefmaps.com](http://beefmaps.com/), which quickly led to nearly $3000 in sales.
 
-![](https://beefnews.org/wp-content/uploads/2024/08/image-7-1024x540.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/image-7-1024x540.png)
 
 Jesse's commitment to regenerative ranching practices and his collaboration with The Beef Initiative have provided him with a platform to reach more consumers despite lacking an e-commerce setup. The partnership demonstrates how The Beef Initiative's brand identity can funnel customers to local producers, supporting their growth no matter how they want to sell beef. [Learn more](https://kostbadebeefstock.org/).
 

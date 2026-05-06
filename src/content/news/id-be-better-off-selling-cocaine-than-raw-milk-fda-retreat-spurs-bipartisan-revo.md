@@ -3,7 +3,7 @@ title: "“I’d Be Better Off Selling Cocaine Than Raw Milk”: FDA Retreat Spu
 pubDate: 2025-06-14
 author: "Beef News"
 excerpt: "North Carolina’s reversal of a raw milk ban has ignited a national debate over food freedom, pitting consumer demand against outdated federal control. As the FDA suspends milk safety testing amid workforce cuts, questions swirl about whether the government can regulate what it no longer monitors. And in a time where selling raw milk can bring harsher penalties than cocaine, many are asking: who is the real threat?"
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-27.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-27.png"
 category: "Business"
 tags: ["FDA", "Raw Milk"]
 featured: false
@@ -42,4 +42,4 @@ The convergence of **rising public demand**, **political cross‑party support**
 
 ***Want clean, local, unpasteurized milk from farmers who refuse to be regulated out of existence? Discover the raw truth and find your source at [RealMilk.com](https://www.realmilk.com) from Weston A. Price Foundation. Ready to take back your dairy?***
 
-[![RealMilk.com](https://beefnews.org/wp-content/uploads/2024/12/image-46-1024x341.png)](https://realmilk.com)
+[![RealMilk.com](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-46-1024x341.png)](https://realmilk.com)

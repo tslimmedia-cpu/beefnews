@@ -3,13 +3,13 @@ title: "The Promise of Healing Tribal Relationships and the Land Through BetterF
 pubDate: 2025-03-01
 author: "Beef News"
 excerpt: "BetterFedFoods (BFF) is pioneering regenerative solutions that enhance soil health, improve cattle fertility, and reduce emissions, backed by research from Kansas State University. Their new Pollock, South Dakota facility expands these benefits to tribal communities, testing BFF’s algae-based program on buffalo and beef while fostering economic growth. By improving genetics, boosting Omega-3 content in beef, and reducing pharmaceutical reliance, BFF is creating a healthier, more sustainable future for ranchers and consumers alike."
-image: "https://beefnews.org/wp-content/uploads/2025/03/image-5.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-5.png"
 category: "Business"
 tags: ["Bernie Hansen", "Better Fed Foods", "Brian Mussard", "Net Zero", "Reminisce Ranch"]
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2025/03/AD_4nXeSPujvi4Lw9X-4jRtm7GljbrehBi9wW-r5wym7uoaStWRNtVU6NSQFq35-1KBeVGMHgJOerAXNHOyKlUHiKUGgyvI85UKCPdJv9zoDitZPimpk3Y7X12vNABOddTTa-cGcoscH.jpg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/AD_4nXeSPujvi4Lw9X-4jRtm7GljbrehBi9wW-r5wym7uoaStWRNtVU6NSQFq35-1KBeVGMHgJOerAXNHOyKlUHiKUGgyvI85UKCPdJv9zoDitZPimpk3Y7X12vNABOddTTa-cGcoscH.jpg)
 
 The [research and data coming out of BetterFedFoods](https://betterfedfoods.com/) (BFF) offers a promising regenerative alternative to chemical, pharmaceutical, and the global [One Health/one-size-fits-all models](https://imahealth.org/sustainable-agriculture-and-health-sovereignty/). With the potential to not only heal depleted soils,  increase yields and fertility rates in cattle, BFF also offers an opportunity to heal strained tribal relations in the State of South Dakota.
 
@@ -21,7 +21,7 @@ These impressive preliminary results indicate that BFF could open European Union
 
 Moreover,  the BetterFedFoods program is helping to increase fertility rates in cattle while also reducing producer reliance on pharmaceutical interventions.
 
-![](https://beefnews.org/wp-content/uploads/2025/03/image-1024x571.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-1024x571.png)
 
 Mountain Valley Ranchers: The Story of Reminisce Angus from [Nicole Shanahan's Podcast on YouTube](https://youtu.be/cYglSVJ2rcc)
 
@@ -31,7 +31,7 @@ Bryan Mussard, of [Reminisce Angus](https://www.remangus.com/index.html), has be
 
 The Reminisce Ranch hosts [an annual bull sale in early March](https://www.remangus.com/index.html). Known for top quality genetics and high rates of fertility, Mussard says they've also seen a fifteen point jump since adding Great O to their bulls’ diets.
 
-[![](https://beefnews.org/wp-content/uploads/2025/03/image-1-795x1024.png)](https://drive.google.com/file/d/1hKxy4WQYLyB7NaGFG5kMPxszaA9tAw3G/view)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-1-795x1024.png)](https://drive.google.com/file/d/1hKxy4WQYLyB7NaGFG5kMPxszaA9tAw3G/view)
 
 “When tested prior to our annual bull sale, our bulls have always tested high for fertility rates, but with the Great O added to their diet we've seen average scores jump by fifteen points with fewer retests required.”
 
@@ -47,7 +47,7 @@ Bernie Hansen, Chairman of BetterFedFoods says that the relationships being cult
 
 “We're working with Tribal communities and in doing so, we believe our work provides an important opportunity to not only heal the land,  but also heal the rift between government-to-government relationships,” Hansen said. “BetterFedFoods is working with Dairy Farmers of America to repurpose the Pollock, SD cheese plant into a production and research facility for our algae-based land and feed products. This is an exciting opportunity for all involved to help local ranchers expand into new markets, and heal both the land and the animals that sustain life.”
 
-[![](https://beefnews.org/wp-content/uploads/2025/03/image-2-1024x473.png)](https://betterfedfoods.com/)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-2-1024x473.png)](https://betterfedfoods.com/)
 
 With the new South Dakota facility, BetterFedFoods is blazing a new path to better genetics, healthier cattle, and best stewardship practices that could help bring the MAHA vision to life.
 

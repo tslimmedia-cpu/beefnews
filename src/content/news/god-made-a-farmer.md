@@ -3,7 +3,7 @@ title: "God Made a Farmer"
 pubDate: 2024-11-03
 author: "Texas Slim"
 excerpt: "Explore the enduring spirit of America's farmers through Texas Slim’s heartfelt reflection on heritage, grit, and the call to preserve our agricultural roots. This piece takes you back to a time when farmers were the backbone of a nation and reminds us that less than 2% of Americans can claim that legacy today. Discover what it truly means when Paul Harvey said, 'And God Made a Farmer.'"
-image: "https://beefnews.org/wp-content/uploads/2024/11/image-5.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-5.png"
 category: "Cowboy Talk"
 tags: []
 featured: false
@@ -13,7 +13,7 @@ featured: false
 
 *God said, I need somebody willing to get up before dawn, milk cows, work all day in the fields, milk cows again, eat supper, then go to town and stay past midnight at a school board meeting.*
 
-![](https://beefnews.org/wp-content/uploads/2024/11/image-1-1024x768.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-1-1024x768.png)
 
 *(West Texas Sunset at the end of “Freedom Rd.”)*
 
@@ -25,7 +25,7 @@ featured: false
 
 *God said, I need somebody strong enough to clear trees and heave bales, yet gentle enough to yean lambs, wean pigs, and tend to pink-combed pullets. Somebody who will stop his mower for an hour to splint the broken leg of a meadowlark.*
 
-![](https://beefnews.org/wp-content/uploads/2024/11/image-2-1024x682.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-2-1024x682.png)
 
 *(Generations of ranchers, producers, operators, wildlife experts, farmers...Texas Fire Relief - “We’re Here” documentary)*
 
@@ -41,7 +41,7 @@ This is what America used to hear in the morning on AM radio as moms and grandma
 
 My grandfather was everything this message embodies. Each of you likely has someone in your family history who could proudly say the same.
 
-![](https://beefnews.org/wp-content/uploads/2024/11/image-3-1024x768.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-3-1024x768.png)
 
 *(West Texas Sunset at the end of “Freedom Rd.”)*
 
@@ -53,7 +53,7 @@ My grandfather had a dirt road, a two-party phone line, an AM radio, and people 
 
 Today, my family will begin to tell you the story of what it truly means when Paul Harvey once told a nation, *“And God Made a Farmer,”* and a nation listened.
 
-![](https://beefnews.org/wp-content/uploads/2024/11/image-4-768x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-4-768x1024.png)
 
 *(And God Made a Farmer)*
 

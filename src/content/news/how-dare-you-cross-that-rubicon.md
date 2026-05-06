@@ -3,7 +3,7 @@ title: "How Dare You Cross That Rubicon!"
 pubDate: 2024-10-13
 author: "Texas Slim"
 excerpt: "Texas Slim shares his no-holds-barred journey from the belly of the industrial cattle beast to leading a new vision for America’s ranchers and health. Learn how the Beef Initiative is battling corporate control, protecting independent ranchers, and healing the next generation. Are you ready to join the fight and refuse to cross the rubicon?"
-image: "https://beefnews.org/wp-content/uploads/2024/10/rubicon.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/rubicon.jpg"
 category: "Cowboy Talk"
 tags: ["beef maps", "Market Access", "Rubicon"]
 featured: false
@@ -19,7 +19,7 @@ Well, here we are. It’s time for this old cowboy to start talkin’.
 
 I’ve had a muzzle on for about four years, and that was by design.
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-18-683x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-18-683x1024.png)
 
 *(4 years off the road, back to the dirt roads of West Texas - Freedom Road)*
 
@@ -35,7 +35,7 @@ We call it the desert High Plains. We call it the Llano Estacado.
 
 Hereford, Texas—*The Beef Capital of the World*—and for damn good reason. Back in the ’40s and ’50s, we were proud of that.
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-19-1024x768.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-19-1024x768.png)
 
 *(Thousands of miles of native grasslands and dirt roads in West Texas)*
 
@@ -53,7 +53,7 @@ My family suffered from the completely overhauled, debt-ridden system installed 
 
 My grandfather came to the Texas Panhandle in a covered wagon.
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-20-1024x768.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-20-1024x768.png)
 
 *(My Actual Lineage, The Texas Panhandle)*
 
@@ -77,7 +77,7 @@ I’m not a religious man, but I know this for sure—it’s one of my Slim-isms
 
 I think Jesus Christ was the baddest outlaw that ever existed, and I gave myself permission to become an outlaw in the same spirit.
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-21-1024x826.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-21-1024x826.png)
 
 *(AJ Photography – The Texas Panhandle)*
 
@@ -95,7 +95,7 @@ So before you look at old Slim, thinking I’m being a hard-ass or that I’ve g
 
 Us cowboys, we come from the dirt. We’re tough as hell, and we’re tired of the bullshit because we grew up smelling it, and we know the true aroma.
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-22-1024x686.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-22-1024x686.png)
 
 *(When men were men)*
 
@@ -103,7 +103,7 @@ Growing up, we used to say it smelt like money. These days, it smells more like 
 
 When I started this whole Beef Initiative movement, I knew I couldn’t go to these cattle associations that represent the U.S. commercial cattle industry because I knew they’d laugh and cuss at me. And at that time, my *Cowboy Talk* didn’t even rhyme in their ears. My pattern language has different tones, meanings, and triggers.
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-23-1024x672.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-23-1024x672.png)
 
 *(4 years of shaking ranchers’ hands and building relationships turned into [BeefMaps.com](https://beefmaps.com))*
 
@@ -117,7 +117,7 @@ Many people are about to cross a rubicon in the next election cycle. A lot of pe
 
 As I write this, the [I Am Texas Slim Foundation](http://iamtexasslimfoundation.org) is once again running relief efforts. Not only here in Texas, where we’re facing the largest wildfire in our state’s history, but we’re also monitoring what’s going on in Florida. We’re tracking the Wyoming wildfires but focusing heavily on [Appalachian rancher relief efforts](https://beefnews.org/helene/). We’ve got boots on the ground. We’ve got tactical airlift command center connections and contacts. We have drop zones, staging areas, and cowboys who are now *Cowboy Talkin’* our way into this relief. We dare not cross the same rubicons that led to past mistakes.
 
-[![](https://beefnews.org/wp-content/uploads/2024/10/image-24-932x1024.png)](https://beefnews.org/helene/)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-24-932x1024.png)](https://beefnews.org/helene/)
 
 *(Join the Movement – [Appalachian Rancher Relief](https://beefnews.org/helene/))*
 
@@ -141,7 +141,7 @@ This is a Great American Health Initiative led by the Great American Rancher.
 
 We make no apologies. I now lead from the mountaintop. I know my *why*, and I know how this nation is under attack, and I know what you need to do.
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-25-768x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-25-768x1024.png)
 
 *(Cowboys & Dreamers)*
 

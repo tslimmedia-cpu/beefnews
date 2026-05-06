@@ -3,7 +3,7 @@ title: "The Big Beautiful Land Grab: Technocrats Stand To Profit As 250 Million 
 pubDate: 2025-06-20
 author: "Beef News"
 excerpt: "The Senate’s new reconciliation bill isn’t just about selling public land—it’s about stripping local communities of control. A little-known provision bans states and counties from regulating “AI Systems” for a full decade, opening the door to opaque development far beyond housing. From data centers to deed-restricted zones, this bill rewrites who gets a say in the future of American land."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-46.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-46.png"
 category: "Farm Policy"
 tags: ["Endangered Species", "ESA", "HR 1"]
 featured: false
@@ -21,7 +21,7 @@ But lawsuits are only half the story. The other half is what happens after the l
 
 https://twitter.com/Breeauna9/status/1935792549572092288
 
-[![RealMilk.com](https://beefnews.org/wp-content/uploads/2024/12/image-46-1024x341.png)](https://www.westonaprice.org/)
+[![RealMilk.com](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-46-1024x341.png)](https://www.westonaprice.org/)
 
 Advertisement
 
@@ -29,7 +29,7 @@ Advertisement
 
 On one side, the **Senate Reconciliation Bill** ([H.R.1](https://www.congress.gov/bill/119th-congress/house-bill/1/text)) proposes to sell **2.2 to 3.3 million acres** of BLM and Forest Service land—roughly **0.5% to 0.75%** of Western federal holdings. But buried in the fine print is something more dangerous: the bill makes **over 250 million acres** eligible for private nomination, **with no public input, no affordability mandates**, and **no obligation to reveal who buys the land**.
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-47.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-47.png)
 
 <https://www.wilderness.org/articles/media-resources/250-million-acres-public-lands-eligible-sale-senr-bill>
 
@@ -47,7 +47,7 @@ Said plainly: the bill doesn’t just **sell** the land. It **preempts** local c
 
 ### The Lawsuit Economy
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-45-1024x550.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-45-1024x550.png)
 
 *Photo by Mountain Journal*
 
@@ -103,4 +103,4 @@ A risky unknown, pending future election results.
 
 ***Want to know who still answers to the people? Find your local, independent rancher at [BeefMaps.com](https://www.beefmaps.com)—where land use still means feeding families, not feeding the grid.***
 
-[![BeefMaps.com](https://beefnews.org/wp-content/uploads/2025/06/image-42-1024x892.png)](https://beefmaps.com)
+[![BeefMaps.com](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-42-1024x892.png)](https://beefmaps.com)

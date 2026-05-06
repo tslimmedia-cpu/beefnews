@@ -3,7 +3,7 @@ title: "The Lock-In: Why Chemical Farming Survives 40 Years of Contrary Evidence
 pubDate: 2026-02-22
 author: "Beef News"
 excerpt: "For decades, we’ve assumed modern food production requires chemical intensity. The evidence suggests the real constraint isn’t the soil — it’s the system."
-image: "https://beefnews.org/wp-content/uploads/2026/02/img_1353.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/02/img_1353.png"
 category: "Business"
 tags: ["Chemical Ag", "Glyphosate", "Insurance", "Monocropping", "Organic", "Regenerative", "Rodale Institute"]
 featured: false
@@ -29,7 +29,7 @@ When markets signal growth and acreage contracts, the constraint is unlikely to 
 
 The obstacle is not whether farmers can grow differently — it’s whether the system is built to let them.
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](HTTPS://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](HTTPS://iamtexasslim.org)
 
 Please support our partner.
 

@@ -3,7 +3,7 @@ title: "Plains on Fire: March 30, 2026 National Field Report"
 pubDate: 2026-03-30
 author: "Texas Slim"
 excerpt: "A real-time accounting of who is hurting, where the pressure is coming from, and where support needs to land before more operations liquidate."
-image: "https://beefnews.org/wp-content/uploads/2026/03/image.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image.jpeg"
 category: "I Am Texas Slim Foundation 501(c)(3)"
 tags: ["Field report", "Fires", "Nebraska", "R-CALF"]
 featured: false

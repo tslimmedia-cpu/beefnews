@@ -3,7 +3,7 @@ title: "Break Up the Bottleneck: Washington Finally Notices the Meat Cartel — 
 pubDate: 2026-03-07
 author: "Beef News"
 excerpt: "America’s cattle herd is at a 75-year low—right as Washington finally decides to confront the meatpacking cartel. When supply collapses and four companies control the kill floor, the bottleneck becomes the market."
-image: "https://beefnews.org/wp-content/uploads/2026/03/image-1.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-1.png"
 category: "Farm Policy"
 tags: ["Big 4 Packers", "Chuck Schumer", "Greeley", "JBS", "Labor strike", "Senate Democrats"]
 featured: false

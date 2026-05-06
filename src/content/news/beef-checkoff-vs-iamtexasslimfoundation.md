@@ -3,7 +3,7 @@ title: "The Beef Checkoff vs. I Am Texas Slim Foundation: How The Beef Initiativ
 pubDate: 2024-11-09
 author: "Beef News"
 excerpt: "Explore the Beef Checkoff vs. I Am Texas Slim Foundation debate and discover how this nonprofit offers a game-changing alternative. While the Beef Checkoff program centralizes funds that often support industrial imports, the I Am Texas Slim Foundation reinvests every dollar directly into American ranchers, strengthens local food security, and fosters the next generation of sustainable agriculture"
-image: "https://beefnews.org/wp-content/uploads/2024/11/image-6.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-6.png"
 category: "Business"
 tags: ["Beef Checkoff", "Market Access", "NCBA"]
 featured: false
@@ -13,7 +13,7 @@ featured: false
 
 ### **Beef Checkoff Program: The Industrial Trap**
 
-[![](https://beefnews.org/wp-content/uploads/2024/11/image-6-1024x576.png)](https://www.beefboard.org/checkoff/frequently-asked-questions/who-pays-into-the-beef-checkoff/)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-6-1024x576.png)](https://www.beefboard.org/checkoff/frequently-asked-questions/who-pays-into-the-beef-checkoff/)
 
 The Beef Checkoff was initially envisioned as a resource for American beef, but it has become a mechanism that frequently works against independent ranchers. Primarily administered by the National Cattlemen’s Beef Association ([NCBA](https://www.ncba.org/)), a group closely connected to industrial beef corporations, this program ***requires*** ranchers [to pay into a system that](https://www.beefboard.org/checkoff/frequently-asked-questions/who-pays-into-the-beef-checkoff/), controversially, promotes both domestic and imported beef.
 
@@ -25,7 +25,7 @@ In essence, the Beef Checkoff has shifted from a supportive resource to one that
 
 ### **The I Am Texas Slim Foundation: A Path Back to the Land**
 
-![](https://beefnews.org/wp-content/uploads/2024/11/image-7-1024x571.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-7-1024x571.png)
 
 In contrast, the I Am Texas Slim Foundation—an initiative born from The Beef Initiative—provides a **grassroots model** designed to support local, independent ranchers directly. **Funded by tax-deductible donations** rather than mandatory fees, the Foundation redirects resources straight to ranchers, enabling them to sustain their practices, enhance food resilience, and reconnect with consumers who value quality.
 
@@ -38,23 +38,23 @@ The Foundation emphasizes **investment in the future of ranching** through educa
 
 - **Grants and Hands-On Programs**: By funding hands-on learning, the Foundation teaches new ranchers regenerative practices and land stewardship.
 
-[![](https://beefnews.org/wp-content/uploads/2024/11/image-8-1024x887.png)](https://beefinitiative.com/pages/i-am-texas-slim-foundation)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-8-1024x887.png)](https://beefinitiative.com/pages/i-am-texas-slim-foundation)
 
 - Herdshare Programs: Programs like [herdshares](https://www.dirt.com/the-beef-initiative-and-herdshare/) empower families to invest in local beef directly, fostering food security and keeping dollars within their communities. This is a stark contrast to the Beef Checkoff’s support of synthetic meat alternatives through corporate partnerships.
 
-[![](https://beefnews.org/wp-content/uploads/2024/11/image-9-1024x411.png)](https://beefinitiative.com/pages/i-am-texas-slim-foundation)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-9-1024x411.png)](https://beefinitiative.com/pages/i-am-texas-slim-foundation)
 
 ### **Reclaiming Sovereignty through Food Intelligence**
 
 The I Am Texas Slim Foundation advocates for **greater awareness of food systems** and consumer choice. Led by Texas Slim and [Breeauna Sagdal](http://knowyourcow.org), its research and advocacy efforts challenge policies that undermine food sovereignty. They encourage communities to understand the forces shaping their food and to reclaim control over their health.
 
-[![](https://beefnews.org/wp-content/uploads/2024/11/image-10-1024x462.png)](https://beefinitiative.com/pages/i-am-texas-slim-foundation)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-10-1024x462.png)](https://beefinitiative.com/pages/i-am-texas-slim-foundation)
 
 This work moves beyond profit margins, providing an option to **step away from an industrial food complex** that prioritizes scale over quality.
 
 ### **The Two Pathways: Industry Control vs. Community Empowerment**
 
-![](https://beefnews.org/wp-content/uploads/2024/11/image-11-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-11-1024x576.png)
 
 Ultimately, the choice between the Beef Checkoff and the I Am Texas Slim Foundation is a choice between two paths:
 

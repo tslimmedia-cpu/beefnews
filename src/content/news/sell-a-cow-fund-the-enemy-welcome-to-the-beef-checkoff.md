@@ -3,7 +3,7 @@ title: "\"Sell a Cow, Fund the Enemy\": Welcome to the Beef Checkoff"
 pubDate: 2025-07-30
 author: "Beef News"
 excerpt: "Inside the Beef Checkoff scam that taxes U.S. ranchers to promote foreign beef, bankroll packers, and erase American producers from their own land."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-128.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-128.png"
 category: "Business"
 tags: ["Beef Checkoff", "Beef Long Range Plan", "NCBA", "Perdue", "RCALF", "USDA"]
 featured: false
@@ -15,19 +15,19 @@ That’s the [Beef Checkoff](https://www.beefboard.org/checkoff/).
 
 A mandatory $1-per-head fee on every sale, [passed in 1985](https://www.ams.usda.gov/sites/default/files/media/Beef%20Act.pdf) with promises of unity and growth. But four decades later, it’s become a multimillion-dollar machine of blurred lines, contractor capture, and institutional silence. And for many small producers, it feels less like promotion—**and more like theft.**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-129-1024x845.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-129-1024x845.png)
 
 Source: [USDA](https://www.ers.usda.gov/data-products/chart-gallery/chart-detail?chartId=58268)
 
 Since the Beef Checkoff began in 1985, America has lost over **665,000 beef cattle farms and ranches**—more than **half** of all producers. That’s not progress. That’s a purge. Between 2017 and 2022 alone, we lost nearly **107,000 more**, while the national herd shrank to its lowest point since **1951**. The survivors? Forced to fund the very system that replaced them.
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
 
 Advertisement
 
 And while producers were going under, the Beef Checkoff elite were drafting a [**Long Range Plan**](https://www.beeflongrangeplan.com/) to “align production systems” and control the future of beef—**without ranchers at the table.** It’s a corporate blueprint to standardize the supply chain, rewrite what counts as “sustainable,” and drown out anyone who doesn’t comply.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-133-1024x620.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-133-1024x620.png)
 
 Source: [BeefLongRangePlan.com](https://www.beeflongrangeplan.com/)
 
@@ -47,7 +47,7 @@ Officially, the [Cattlemen’s Beef Board](https://www.beefboard.org/) oversees 
 
 But this wasn’t just bureaucratic creep—it was engineered. In states like Illinois, every cattle sale triggers a **forced deduction** from the seller’s check, collected by market agents and enforced by law. Failure to pay is treated as a **personal debt**, with a 10% penalty, civil action, and possible license suspension for markets that don’t comply ([505 ILCS 25/9](https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1676&ChapterID=40)). You pay at the point of sale—or you pay in court. This is **state-enforced wealth transfer** from working ranchers to a self-governed, unaccountable marketing regime.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-134-1024x350.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-134-1024x350.png)
 
 Source: [Beef Checkoff](https://www.beefboard.org/checkoff/committees/beef-promotion-operating-committee/#:~:text=The%20Beef%20Promotion%20Operating%20Committee,industry%20information%2C%20foreign%20marketing%20and)
 
@@ -57,7 +57,7 @@ And NCBA wins—**again and again**.
 
 In [**2023 alone**](https://www.beefboard.org/wp-content/uploads/2019/04/CBB-2023-Annual-Report.pdf), NCBA received **$38.2 million in checkoff contracts**, controlling over **68% of all national spending**. The same group that lobbies against Country-of-Origin Labeling and supports increased imports also dominates the very system that claims to promote American beef.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](https://westonaprice.org)
 
 Advertisement
 
@@ -65,7 +65,7 @@ Checkoff dollars can’t legally be used for lobbying—but NCBA doesn’t need 
 
 *"Yes, the generic advertising of beef conducted by the beef checkoff program helps to increase overall beef sales,"* said RCALF's [Bill Bullard](https://www.r-calfusa.com/weekly-commentary-beef-checkoff-harms-producers/?utm_source=chatgpt.com). *"But the question producers should ask is whether those increased sales benefit cattle producers?"*
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-132-674x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-132-674x1024.png)
 
 ###### **Who Pays, Who Profits**
 
@@ -77,7 +77,7 @@ Here’s what they leave out:
 - **Small producers don’t get a say**, don’t get direct returns, and don’t see their values reflected in the marketing.
 - Legal battles—like [**R-CALF USA v. Perdue**](https://www.r-calfusa.com/wp-content/uploads/2020/09/2020-09-11-FINAL-9th-Circuit-Opinion.pdf)—argue the program violates the First Amendment by forcing ranchers to fund speech they oppose.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-131-986x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-131-986x1024.png)
 
 Source: [Justia](https://law.justia.com/cases/federal/appellate-courts/ca9/17-35669/17-35669-2018-04-09.html)
 

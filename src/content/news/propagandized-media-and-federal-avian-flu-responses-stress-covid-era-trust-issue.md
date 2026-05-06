@@ -3,7 +3,7 @@ title: "“PROPAGANDIZED?” Media and Federal Avian Flu Responses Stress Covid-
 pubDate: 2024-08-11
 author: "Breeauna Sagdal"
 excerpt: "Avian Flu hits dairy cattle, causing economic and genetic losses as dairy farmers struggle with outdated infrastructure and inadequate government responses. Misleading media reports and strict biosecurity measures exacerbate the crisis, while concerns grow over the push for mRNA vaccines in livestock and humans. Dive into the full story to uncover the urgent challenges facing the livestock industry."
-image: "https://beefnews.org/wp-content/uploads/2024/08/propogandized.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/propogandized.jpg"
 category: "Farm Policy"
 tags: ["APHIS", "Avian Flu", "FDA", "H5N1", "mRNA", "R-Calf USA", "Vaccines"]
 featured: false

@@ -3,7 +3,7 @@ title: "Branded in the Rainforest: How Conflict Beef from Nicaragua Infiltrates 
 pubDate: 2025-11-26
 author: "Beef News"
 excerpt: "Branded in a rainforest, passed through forged papers, and sold as “Product of USA”—this is how conflict beef ends up in your burger."
-image: "https://beefnews.org/wp-content/uploads/2025/11/img_0486.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0486.jpeg"
 category: "Health"
 tags: []
 featured: false
@@ -15,7 +15,7 @@ This isn’t a story about loopholes. **It’s a story about design.**
 
 The [**Bosawás Biosphere Reserve**](https://en.unesco.org/biosphere/lac/bosawas), one of the most ecologically critical and heavily invaded forest regions in Central America, is under siege. Specifically, the **Mayangna Sauni Bas Indigenous territory** within Bosawás has become the front line of Nicaragua’s conflict beef crisis. **Armed settlers—*****colonos*****—are driving Indigenous families off their land**, clearing forest with fire, and setting up clandestine pastures.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](HTTPS://iamtexasslim.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](HTTPS://iamtexasslim.org)
 
 Please support our partner.
 
@@ -25,19 +25,19 @@ In one region called Guzma, investigators **photographed branded bulls raised on
 
 **Every animal had a paper trail. Every paper trail was a lie.**
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](Https://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](Https://iamtexasslim.org)
 
 Please support our partner.
 
 ###### Welcome to Guzma: Ground Zero for Conflict Beef
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0484-1024x907.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0484-1024x907.jpeg)
 
 The Nicaraguan government insists its cattle can be traced from “farm to fork.” **The truth is closer to** ***forest to fiction.***
 
 The traceability system—SNTG—isn’t electronic. **It’s paper-based.** Ranchers and intermediaries fill out handwritten “guías de movilización” (transport guides), which can be **purchased, forged, or borrowed**. There is **no real-time tracking**. **No satellite verification.** **No public audit of cattle movements**—as the [**IPSA agency itself demonstrates**](https://www.ipsa.gob.ni/).
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](Https://BetterFedFoods.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](Https://BetterFedFoods.com)
 
 Please support our partner.
 
@@ -45,7 +45,7 @@ That’s how **three bulls born in a UNESCO-protected biosphere** ended up on th
 
 In one case, a bull **photographed in Guzma**, its brand clear and verified, was moved using documents that **claimed it came from a legal farm**. The buyer, **Eliseo Ibarra**, transferred the animal to a municipal market in **Siuna**—just outside the protected zone. **IPSA**, the government agency responsible for animal health and traceability, **accepted the paperwork without question**.
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0494-1024x671.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0494-1024x671.jpeg)
 
 Another bull followed the same route, sold to **Mateo Cárcamo**, who rerouted it through **Samaria**—a known hotspot for laundering cattle. In both cases, the slaughterhouse **issued receipts** that show the animals were **processed for export**.
 
@@ -55,7 +55,7 @@ Another bull followed the same route, sold to **Mateo Cárcamo**, who rerouted i
 
 ###### From Burned Land to U.S. Shelves
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0493-1024x664.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0493-1024x664.jpeg)
 
 That model has consequences far beyond Nicaragua.
 
@@ -65,7 +65,7 @@ While the forest burned, **cattle from these same zones flowed into the U.S. bee
 
 The method of import makes tracing impossible. **Lean trimmings—especially prized from grass-fed animals—are imported in bulk and blended into domestic ground beef.** Once blended, there is **no label. No trace. No legal obligation to declare origin.** Under current USDA rules, **that burger can be sold as “Product of USA.”**
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0497-1024x600.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0497-1024x600.jpeg)
 
 The most explosive development came in the form of a **parasite**.
 
@@ -95,7 +95,7 @@ Meanwhile, over **$400 million in Nicaraguan beef** is flowing into the U.S. ann
 
 **And the same companies that preach sustainability are sourcing from slaughterhouses with verified ties to deforestation.**
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0507-1024x575.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0507-1024x575.png)
 
 ###### **America’s Beef System Has Blood on Its Hands**
 

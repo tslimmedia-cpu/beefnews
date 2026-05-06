@@ -3,7 +3,7 @@ title: "The Harvest of Deception: Rebuilding America’s Health and Agriculture 
 pubDate: 2024-10-02
 author: "Texas Slim"
 excerpt: "Texas Slim exposes the deep-rooted issues in America’s food system, from failing soils to the metabolic health crisis in our children. His journey of healing leads to solutions for restoring ranching, empowering independent producers, and saving the next generation. Learn how to take action and be part of the movement to transform America’s food future."
-image: "https://beefnews.org/wp-content/uploads/2024/10/theharvestofdeception-returns.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/theharvestofdeception-returns.png"
 category: "Cowboy Talk"
 tags: ["Agricultural Crisis", "Food Sovereignty", "Regenerative Agriculture"]
 featured: false

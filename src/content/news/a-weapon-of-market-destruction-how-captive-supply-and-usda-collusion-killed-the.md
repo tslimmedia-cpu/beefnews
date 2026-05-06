@@ -3,7 +3,7 @@ title: "“A Weapon of Market Destruction”: How Captive Supply and USDA Collus
 pubDate: 2025-08-02
 author: "Beef News"
 excerpt: "Tyson didn’t build a food system—they dismantled it. What began as IBP’s “Formula” for global dominance has ended with half of America’s cattle producers gone, Walmart controlling the shelves, and JBS waiting to feast on the remains."
-image: "https://beefnews.org/wp-content/uploads/2025/08/image-4.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-4.png"
 category: "Business"
 tags: ["Bob Peterson", "Dr. William Heffernan", "IBP", "JBS", "Mike Callicrate", "Tyson"]
 featured: false
@@ -15,19 +15,19 @@ Republished from [Mike Calicrate's NoBull](https://nobull.mikecallicrate.com/202
 
 In 2000, IBP president and CEO, Robert Peterson said, “Those who fight consolidation in the food industry will not be able to compete in world commerce.” A year later IBP sold to Tyson, a [transnational](https://nobull.mikecallicrate.com/2025/06/11/were-almost-there-and-with-a-little-help-from-the-american-angus-association/) conglomerate.
 
-![](https://beefnews.org/wp-content/uploads/2025/08/image-1-791x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-1-791x1024.png)
 
 Showing preference to certain cattle feeders who provided market depressing captive supplies disadvantaged smaller independent cattle feeders and provided market leader IBP with a weapon of market destruction – [The Formula](https://nobull.mikecallicrate.com/2022/01/29/the-defining-moment-when-big-chicken-bought-big-beef/)
 
 In 1996, [Dr. Heffernan warned](https://nobull.mikecallicrate.com/2025/06/11/were-almost-there-and-with-a-little-help-from-the-american-angus-association/) Bob Peterson, IBP wasn’t big enough to compete with transnational conglomerates.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](https://westonaprice.org)
 
 Advertisement
 
 https://youtu.be/rNFDPFFWAvQ?list=PLmT23RdkRk0oJbJ-7IlHmPBLgj40bDmt7
 
-![](https://beefnews.org/wp-content/uploads/2025/08/image-3-1024x128.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-3-1024x128.png)
 
 Jumping forward to today, Peterson’s “big is better” [model has failed](https://nobull.mikecallicrate.com/2023/02/21/how-can-something-so-obviously-flawed-still-exist/) to feed U.S. consumers on a reliable basis, while eliminating over half our cattle producers, reducing our nation’s cow herd to 1950’s levels and forcing us to be dependent on imports to eat.
 

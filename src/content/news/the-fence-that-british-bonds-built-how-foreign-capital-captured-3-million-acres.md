@@ -3,7 +3,7 @@ title: "The Fence That British Bonds Built: How Foreign Capital Captured 3 Milli
 pubDate: 2025-11-10
 author: "Texas Slim"
 excerpt: "In 1882, Texas traded three million acres of open range for a building made of stone. The Syndicate that took it didn’t ride horses. They moved gold across wires and wrapped barbed wire around the West. It was legal. It was brilliant. And it marked the beginning of the end for the frontier."
-image: "https://beefnews.org/wp-content/uploads/2025/11/img_0385.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0385.jpeg"
 category: "Business"
 tags: []
 featured: false
@@ -15,7 +15,7 @@ By 1882, the Texas Legislature had grown tired of delays. The Capitol in Austin 
 
 [Three million acres. Thirty cents an acre. Deeded directly to a group of out-of-state financiers in exchange for $3 million worth of Capitol construction.](https://www.tshaonline.org/handbook/entries/xit-ranch)
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](HTTPS://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](HTTPS://iamtexasslim.org)
 
 Please support our partner.
 
@@ -23,7 +23,7 @@ It was one of the largest land-for-infrastructure swaps in American history.
 
 But the deal didn’t begin in Austin. It began in Chicago—with Mathias Schnell and [the bond he filed to secure the first $250,000.](https://www.tshaonline.org/handbook/entries/xit-ranch) Within months, his stake flipped to Taylor, Babcock & Company. By spring, it was John V. Farwell’s turn. Backed by British capital and fueled by London debentures paying five percent, he incorporated the **Capitol Freehold Land and Investment Company, Ltd. [in London in late 1884](https://www.tshaonline.org/handbook/entries/capitol-freehold-land-and-investment-company)** and began fencing Texas before most Texans even knew what the word *syndicate* meant.
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0384.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0384.png)
 
 This wasn’t a cattle outfit—it was a British bond fund with a herd problem.
 
@@ -41,7 +41,7 @@ They fenced it to secure the bonds.
 
 The stock was tallied. The calves were branded. Prairie fires were logged, windmills inventoried, and every corner of the land grid was mapped—not for grazing, but for liquidation. The goal was to subdivide. The cattle just paid the bills in the meantime.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](Https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](Https://westonaprice.org)
 
 Please support our partner.
 
@@ -51,13 +51,13 @@ The debentures weren’t speculative—they were tied to acreage, livestock, and
 
 [When over 200 miles of fence were cut during the 1883–85 Fence Wars, only a handful of indictments followed. Of the fifteen prosecuted, zero were convicted.](https://www.tshaonline.org/handbook/entries/fence-cutting) XIT manager A.T. Campbell was removed in 1887 after a state investigation revealed evidence of mismanagement and rustler protection. [No further action was taken.](https://www.tshaonline.org/handbook/entries/xit-ranch)
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0385-1024x614.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0385-1024x614.jpeg)
 
 The books stayed open. The records stayed incomplete.
 
 Was it incompetence? Maybe. But there’s a pattern in the gaps.
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](Https://betterfedfoods.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](Https://betterfedfoods.com)
 
 Please support our partner.
 
@@ -75,7 +75,7 @@ But that’s when things get quiet.
 
 Texas Treasury audits between 1890 and 1909 show at least fifteen percent of bond redemptions listed as “untraced.” No single entry pins that gap to the XIT, but Farwell correspondence from Chicago references off-record land transfers. Meanwhile, county court filings in the ten Panhandle counties where the XIT operated show irregular deed trails—missing liens, delayed filings, and in some cases, parcel IDs without origin surveys.
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0386.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0386.jpeg)
 
 No fires were officially logged in Hartley or Dallam counties during that liquidation period. But [multiple courthouse fires across other ranch-heavy counties between 1880 and 1910 erased swaths of brand records, deed receipts, and chattel lien documentation.](https://texashistory.unt.edu/ark:/67531/metapth13224/)
 
@@ -105,7 +105,7 @@ https://beefnews.org/they-rigged-the-market-printed-the-money-then-blamed-the-ra
 
 ###### **A New Ledger Rides In**
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0387-1024x683.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0387-1024x683.jpeg)
 
 In 2021, a small nation in Central America passed a law.\
 It wasn’t about cattle. It was about sovereignty.

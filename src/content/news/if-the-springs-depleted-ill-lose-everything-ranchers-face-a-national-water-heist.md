@@ -3,7 +3,7 @@ title: "“If the Spring’s Depleted, I’ll Lose Everything”: Ranchers Face 
 pubDate: 2025-06-13
 author: "Beef News"
 excerpt: "A 66‑mile pipeline is poised to drain Pine Valley’s aquifer to quench booming Cedar Valley—a move ranchers fear will devastate springs, livestock, and heritage. This scheme echoes a growing national pattern of rural sacrifice, where inter-basin water transfers and municipal grabs hollow out farmland across the West. With expertise showing groundwater dries springs first, it’s time to ask: is urban growth worth rural extinction?"
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-24.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-24.png"
 category: "Climate"
 tags: ["Pine Valley", "Utah", "Water Rights"]
 featured: false
@@ -31,4 +31,4 @@ Learn more by visiting [Yanasa TV](https://youtu.be/udM_zx2Z05I) on Youtube.
 
 ***When water wars come for the land, [BeefMaps.com](https://beefmaps.com) helps you find and support the ranchers still standing their ground.***
 
-[![](https://beefnews.org/wp-content/uploads/2025/06/image-25-1024x576.png)](https://beefmaps.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-25-1024x576.png)](https://beefmaps.com)

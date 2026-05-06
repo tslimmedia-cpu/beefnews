@@ -3,7 +3,7 @@ title: "BREAKING: House Republicans Launch Investigation Into Point Reyes Ranch 
 pubDate: 2025-04-15
 author: "Beef News"
 excerpt: "Twelve historic ranching families were forced off Point Reyes under a controversial deal brokered by The Nature Conservancy.  Now, House Republicans have launched an investigation into what some are calling environmental overreach and quiet land grabs.  At the heart of it all is a growing fight to preserve America’s ranches—and the food security they provide."
-image: "https://beefnews.org/wp-content/uploads/2025/04/pointreyes3-1.webp"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/pointreyes3-1.webp"
 category: "Farm Policy"
 tags: ["Conservancy", "HouseGOP", "KeelyCovello", "LandGrabs", "Nature", "PointReyes", "UnWon"]
 featured: false
@@ -13,7 +13,7 @@ Republished from [UnWon Substack](https://www.americaunwon.com/p/breaking-house-
 
 By [Keely Covello](https://substack.com/@unwon)
 
-![](https://beefnews.org/wp-content/uploads/2025/04/image-9-768x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/image-9-768x1024.png)
 
 *The House Committee on Natural Resources will be investigating The Nature Conservancy and other environmental groups involved in the exit of 12 ranchers from Point Reyes National Seashore.*- Submitted photo
 
@@ -27,7 +27,7 @@ As [previously reported](https://www.americaunwon.com/t/point-reyes), in 2022 t
 
 “The committee is concerned not only with the lack of transparency surrounding the settlement but also with the environmental and legal consequences the settlement may impose,” writes Rep. Bruce Westerman, chairman of the committee.
 
-![](https://beefnews.org/wp-content/uploads/2025/04/image-8-1024x768.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/image-8-1024x768.png)
 
 *There is a long ranching history on Point Reyes*
 

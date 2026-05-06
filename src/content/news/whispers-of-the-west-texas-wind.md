@@ -3,7 +3,7 @@ title: "Whispers of the West Texas Wind"
 pubDate: 2024-08-25
 author: "Texas Slim"
 excerpt: "The Ogallala Aquifer is drying up, and land values are falling. Ranchers and local producers meet in Tulia to strategize. The fight for food sovereignty in West Texas continues."
-image: "https://beefnews.org/wp-content/uploads/2024/08/tsm-hero.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/tsm-hero.jpg"
 category: "Cowboy Talk"
 tags: []
 featured: false
@@ -57,4 +57,4 @@ The whisper that now is stamped into the history of time forever is…
 
 [“We’re Here!”](https://youtu.be/3g5OSbzHCmA?si=tPECM-h9qmtXxVKU)
 
-[![](https://beefnews.org/wp-content/uploads/2024/08/image-8-819x1024.png)](https://youtu.be/3g5OSbzHCmA?si=tPECM-h9qmtXxVKU)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/image-8-819x1024.png)](https://youtu.be/3g5OSbzHCmA?si=tPECM-h9qmtXxVKU)

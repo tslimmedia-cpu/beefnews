@@ -3,7 +3,7 @@ title: "Restoring the Gold Standard: Trump Slams the Door on Big Ag and Junk Sci
 pubDate: 2025-04-28
 author: "Breeauna Sagdal"
 excerpt: "Biden’s USDA funneled rural development funds into corporate carbon schemes, crippling domestic supply chains and empowering multinational monopolies. Now, under Trump’s leadership, the corporate welfare spigot is closing—and the junk science behind it is being dragged into the light. From carbon-neutral cattle to gut-driven cures for autism, real innovation is finally getting a fair shot."
-image: "https://beefnews.org/wp-content/uploads/2025/04/image-14.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/image-14.png"
 category: "Business"
 tags: []
 featured: false
@@ -11,7 +11,7 @@ featured: false
 
 When former president Joe Biden reallocated the USDA's credit line to implement a Voluntary Carbon Market, and prioritized Climate-Smart Agricultural practices, the largest privately owned food conglomerates were [subsidized with public funds](https://www.meatpoultry.com/articles/28755-cargill-introduces-gold-standard-approved-beef-methodology) for ideological outcomes—drastically reducing the funds available for rural development. As a result, domestic supply chains have contracted as the United States has become dependent upon foreign imports.
 
-![](https://beefnews.org/wp-content/uploads/2025/04/sdg_bs.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/sdg_bs.png)
 
 Under new leadership, and guided by DOGE, the Trump administration has begun cutting off the corporate welfare payments, promising to revamp not just agriculture, but also the science that guides regulations.
 
@@ -27,7 +27,7 @@ Despite stated efforts to detect pathogens, the EPA merely found nitrogen downst
 
 Regardless of claims made about climate change, or its causes, there's nothing scientific about special interests using regulatory intervention to create a new industry, new federal tax schemes, or advancing political agendas such as redistricting.
 
-![](https://beefnews.org/wp-content/uploads/2025/04/AD_4nXe56fyGj0m1JVa-1fgLiAlPBxFnCAaKqyF0qB3tUPqHKFIwPoAHIqEo-5Ij87nHast1uaLgu7anUso96p7Yiyf7s8dwvP2HSyPXdvpTNmpwCbWGaI2L2EgRAvcHidZhU7XXuHv9.jpg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/AD_4nXe56fyGj0m1JVa-1fgLiAlPBxFnCAaKqyF0qB3tUPqHKFIwPoAHIqEo-5Ij87nHast1uaLgu7anUso96p7Yiyf7s8dwvP2HSyPXdvpTNmpwCbWGaI2L2EgRAvcHidZhU7XXuHv9.jpg)
 
 *The 2021 Union of Concerned Scientists 990 shows the group spent $7.4 million on redistricting efforts.*
 

@@ -3,7 +3,7 @@ title: "“Let Them Strike\": The Tyson Walkout Could Be the Catalyst to Rebuild
 pubDate: 2025-07-06
 author: "Beef News"
 excerpt: "The Tyson strike isn’t just a labor dispute—it’s a pressure valve for a rigged system. While consumers brace for price hikes, the real play is federal intervention to protect the meat monopoly. This is cartel theater dressed up as crisis—and it’s time to fund the alternative."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-23.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-23.png"
 category: "Business"
 tags: ["Labor Disputes", "Strikes", "Tyson"]
 featured: false
@@ -15,17 +15,17 @@ Mainstream headlines are pitching this as a classic union showdown. But that fra
 
 ## A Shrinking Herd and a Fragile System
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-24.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-24.png)
 
 Source: [USDA](https://www.nass.usda.gov/Charts_and_Maps/Cattle/inv.php)
 
 America’s beef cattle herd has dropped to its lowest levels [since 1951](https://www.nass.usda.gov/Charts_and_Maps/Cattle/inv.php). Drought, high input costs, and market concentration are driving a long-term contraction. While ranchers face financial ruin, the Big Four meatpackers—Tyson, JBS, Cargill, and National Beef—control [more than 80%](https://www.ers.usda.gov/amber-waves/2024/january/concentration-in-u-s-meatpacking-industry-and-how-it-affects-competition-and-cattle-prices) of the slaughter pipeline.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Advertisement
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-25-1024x802.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-25-1024x802.png)
 
 Source: [USDA](https://www.ers.usda.gov/amber-waves/2024/january/concentration-in-u-s-meatpacking-industry-and-how-it-affects-competition-and-cattle-prices)
 
@@ -45,7 +45,7 @@ Trump’s **Executive Order 13917** gave legal cover to companies like Tyson to 
 
 ## Higher Prices for You, Market Share for Them
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-26-1024x680.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-26-1024x680.png)
 
 Here’s what happens next.
 
@@ -95,7 +95,7 @@ That’s the exit strategy.
 
 ## Don’t Wait for D.C.—Invest in What’s Working
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-28-1024x768.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-28-1024x768.png)
 
 A scene from community-based [Panhandle Meat Processing](https://www.panhandlemeatprocessing.com/) near Amarillo, TX
 

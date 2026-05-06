@@ -3,7 +3,7 @@ title: "“They Buried the Blueprint”: USDA’s 1998 Report Warned Us—Then W
 pubDate: 2025-06-29
 author: "Beef News"
 excerpt: "In 1998, the USDA published a report that warned America’s food system was on the brink of corporate capture. It called for decentralization, local processing, and land justice—but Washington buried it. Now, as biotech accelerates under both parties, that forgotten blueprint might be the last map back to food sovereignty."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-61.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-61.png"
 category: "Farm Policy"
 tags: ["1998 USDA", "A Time To Act", "Biotech", "Greg Gunthorp", "MAHA", "USDA"]
 featured: false
@@ -18,7 +18,7 @@ And it got buried.
 
 https://twitter.com/GGunthorp/status/1934695462008983832
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Advertisement
 

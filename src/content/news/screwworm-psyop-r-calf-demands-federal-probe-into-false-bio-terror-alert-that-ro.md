@@ -3,7 +3,7 @@ title: "Screwworm PsyOp? R-CALF Demands Federal Probe Into False Bio-Terror Aler
 pubDate: 2025-06-05
 author: "Beef News"
 excerpt: "A false report of New World screwworm in Missouri triggered a cattle market drop—and now R-CALF is demanding a federal investigation. The group says the hoax may have been used to manipulate futures markets and profit off panic. USDA and Missouri officials confirmed the claim was fake—but by then, the damage was done."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-10.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-10.png"
 category: "Business"
 tags: ["Market Manipulation", "R-CALF", "Screwworm"]
 featured: false
@@ -15,7 +15,7 @@ The claim was false. But the damage was real.
 
 Live cattle futures immediately dropped, and **millions of dollars in value were wiped out** in a matter of hours. While government agencies scrambled to deny the report, the story had already spread, fueling panic and speculation across ag finance circles.
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-11-1024x596.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-11-1024x596.png)
 
 Screenshot from [RFDTV](https://www.rfdtv.com/usda-confirms-reports-of-new-world-screwworm-in-the-u-s-are-false)
 

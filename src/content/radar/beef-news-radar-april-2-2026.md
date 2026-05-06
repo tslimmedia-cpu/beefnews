@@ -3,7 +3,7 @@ title: "Beef News Radar | April 2, 2026: The first meatpacking strike in 40 year
 pubDate: 2026-04-02
 author: "Beef News"
 excerpt: "The first meatpacking strike in 40 years just took 5% of U.S. beef offline — while mega-feedlots tighten their grip and Washington signs deals on 240 million federal acres. The cartel is consolidating."
-image: "https://beefnews.org/wp-content/uploads/2026/04/image-1.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/04/image-1.png"
 category: "Beef News Radar"
 tags: ["DOI", "Feedlots", "Grazing Action Plan", "JBS Greeley"]
 featured: false

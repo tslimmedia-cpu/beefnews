@@ -3,13 +3,13 @@ title: "Ranching Reimagined: Sovereign Health Framework vs. One Health—The Bat
 pubDate: 2025-03-06
 author: "Beef News"
 excerpt: "The battle for food sovereignty is heating up as the Sovereign Health Framework challenges the top-down control of the One Health Framework. In this critical discussion, Texas Slim, RS \"Ruffshot\" June, Breeauna Sagdal, and Dr. Kat Lindley expose how corporate monopolies are centralizing agriculture, medicine, and food policy—while offering a rancher-led, decentralized alternative. From fighting mRNA in livestock to restoring local beef supply chains, this is a roadmap to reclaiming health, self-reliance, and the future of food."
-image: "https://beefnews.org/wp-content/uploads/2025/03/image-6.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-6.png"
 category: "I Am Texas Slim Foundation 501(c)(3)"
 tags: ["Bill Gates", "Breeauna Sagdal", "Dr. Kat Lindley", "Independent Medical Alliance", "Jeffrey Forrester", "One Health", "WHO"]
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2025/03/image-6.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-6.png)
 
 What if the future of health wasn’t dictated by pharmaceutical corporations but by ranchers, scientists, and local food systems? That’s the vision behind the **Sovereign Health Framework**—an alternative to the **centralized, top-down One Health Framework** backed by global institutions like the WHO and Bill Gates. This approach, championed by the **I Am Texas Slim Foundation** and **The Beef Initiative**, prioritizes food as medicine, independent research, and direct relationships between ranchers and consumers.
 

@@ -3,13 +3,13 @@ title: "Trump’s Tariffs Are Just the Start: R-CALF and The Beef Initiative Cal
 pubDate: 2025-04-08
 author: "Beef News"
 excerpt: "With U.S. cattle volumes at historic lows and family ranches vanishing, R-CALF USA and The Beef Initiative are urging a bold new direction—starting with tariffs. In a powerful joint message, Bill Bullard and Texas Slim highlight how decades of zero-tariff policies have devastated domestic producers and paved the way for foreign monopolies to dominate America’s meat supply."
-image: "https://beefnews.org/wp-content/uploads/2025/04/image-4.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/image-4.png"
 category: "Business"
 tags: ["beef", "Bill Bullard", "economy", "R-CALF", "tariffs", "Texas Slim", "Trump"]
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2025/04/image-5-1024x541.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/image-5-1024x541.png)
 
 In a recent [YouTube video](https://youtu.be/WD_mKcyylV4?si=ZYTi4EP6Tkv_-HBo), R-CALF USA CEO Bill Bullard explained the group’s strong support for the 25% tariffs President Trump imposed on imports from Canada and Mexico.
 

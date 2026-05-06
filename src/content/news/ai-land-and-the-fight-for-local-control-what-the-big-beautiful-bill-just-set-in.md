@@ -3,7 +3,7 @@ title: "AI, Land, and the Fight for Local Control: What the “Big Beautiful Bil
 pubDate: 2025-06-08
 author: "Beef News"
 excerpt: "A 4.5 million square-foot data center in Alabama is just the beginning. Fueled by the “Big Beautiful Bill,” federal fast-track authority is stripping local communities of power as AI infrastructure swallows rural land and water. With $24 trillion in farmland poised to change hands, tech giants aren’t buying ranches—they’re replacing them."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-14.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-14.png"
 category: "Farm Policy"
 tags: []
 featured: false
@@ -24,7 +24,7 @@ This provision hands full control over AI infrastructure to federal agencies and
 
 https://twitter.com/repthomasmassie/status/1930642561124716866?s=61
 
-[![Weston A Price](https://beefnews.org/wp-content/uploads/2024/12/image-46-1024x341.png)](https://www.westonaprice.org/)
+[![Weston A Price](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-46-1024x341.png)](https://www.westonaprice.org/)
 
 Advertisement
 
@@ -61,4 +61,4 @@ The Big Beautiful Bill isn’t just about tech. It’s about control—of land, 
 
 **While Big Tech turns farmland into server hubs, America’s ranchers are holding the line. Find real producers who still own and work the land—visit [BeefMaps.com](https://www.beefmaps.com) and connect directly with ranchers near you.**
 
-[![beefmaps](https://beefnews.org/wp-content/uploads/2025/06/image-2-1024x676.png)](https://beefmaps.com)
+[![beefmaps](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-2-1024x676.png)](https://beefmaps.com)

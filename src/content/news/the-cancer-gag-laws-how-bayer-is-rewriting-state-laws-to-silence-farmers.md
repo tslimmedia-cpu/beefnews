@@ -3,7 +3,7 @@ title: "The Cancer Gag Laws: How Bayer is Rewriting State Laws to Silence Farmer
 pubDate: 2025-06-02
 author: "Beef News"
 excerpt: "Bayer is quietly rewriting state laws to shield itself from lawsuits, even when its products cause cancer. Backed by lobbyists, bills like Georgia’s SB 144 redefine “harm” to protect corporations over farmers and families. This is liability capture—where profit trumps accountability, and the courtroom door slams shut."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-3.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-3.png"
 category: "Farm Policy"
 tags: ["Bayer", "Cancer Gag Laws", "Syngenta"]
 featured: false

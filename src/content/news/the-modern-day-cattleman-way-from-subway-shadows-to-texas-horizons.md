@@ -3,7 +3,7 @@ title: "The Modern-Day Cattleman Way: From Subway Shadows to Texas Horizons"
 pubDate: 2024-09-24
 author: "RS June"
 excerpt: "Follow the compelling journey from urban survival to the heart of Texas cattle country, where traditions are revived, lives are transformed, and the future of American ranching is shaped. Support the movement through sponsorships and map listings on BeefMaps.com."
-image: "https://beefnews.org/wp-content/uploads/2024/09/image-31.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-31.png"
 category: "Cowboy Talk"
 tags: []
 featured: false
@@ -17,7 +17,7 @@ The city shaped me—teaching me the rules of survival, the need for resilience,
 
 But now, I found myself leaving behind the familiar streets that had defined my youth, stepping into the wide-open spaces of Texas.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-15-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-15-1024x576.png)
 
 Day 1 in Austin, TX
 
@@ -31,7 +31,7 @@ We were from different worlds, but I felt an immediate kinship. We were chasing 
 
 Traveling during such a sacred time wasn’t a decision I made lightly. I turned to the Quran for guidance and found solace in its teachings on ease and compassion, particularly during travel.
 
-[![](https://beefnews.org/wp-content/uploads/2024/09/image-16-1024x418.png)](https://quran.com/en/al-baqarah/183-187)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-16-1024x418.png)](https://quran.com/en/al-baqarah/183-187)
 
 [Surah Al-Baqarah 2:184](https://quran.com/en/al-baqarah/183-187)
 
@@ -39,7 +39,7 @@ Choosing to fast that first day felt like the right way to honor both my faith a
 
 ---
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-17-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-17-1024x576.png)
 
 Justin Trammel and Texas Slim outside the Texas State Capitol in Austin, Tx.
 
@@ -47,13 +47,13 @@ Justin Trammel and Texas Slim outside the Texas State Capitol in Austin, Tx.
 
 Standing on those historic steps, watching Justin and FARFA push for the rights of local farmers, I began to see just how deep this journey would go. It wasn’t just about the miles we’d travel, but about the connections we’d make, the battles we’d witness, and the legacy we hoped to build.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-18-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-18-1024x576.png)
 
 **The journey truly began with a stop** at Black’s BBQ in Lockhart, TX. After a day filled with recordings and introductions at the State Capitol, Texas Slim and Justin Trammell joined me in breaking my fast.
 
 It was one of the few times we dined out during the trip, which mostly consisted of us searching for our next steaks and cooking them on a camping burner in the back of Slim’s beat-up pickup truck.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-19-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-19-1024x576.png)
 
 Texas Slim showing me how to cook a steak on
 
@@ -61,7 +61,7 @@ We even made a habit of disabling motel fire alarms as we smoked out the rooms w
 
 That meal at Black’s was more than just food; it was a symbol of the road ahead—one filled with shared experiences, meals, and stories waiting to unfold.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-21-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-21-1024x576.png)
 
 **The next morning,** I woke up in a Holiday Inn Express, a stark reminder of how far I was from the familiar. As we hit the road, Texas stretched out before us—vast, open, and full of possibilities.
 
@@ -69,7 +69,7 @@ Each mile carried me further from the urban landscapes I knew, into a world that
 
 There was an unspoken understanding between Texas Slim and me as we drove. Despite our different backgrounds, we were united by a shared purpose, and that common goal made the miles feel less daunting.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-23-1024x577.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-23-1024x577.png)
 
 One of the many places I grew up in Kensington, Philadelphia
 
@@ -77,13 +77,13 @@ One of the many places I grew up in Kensington, Philadelphia
 
 For many years, I was her only line of support, the one she turned to when life became too much.
 
-[![](https://beefnews.org/wp-content/uploads/2024/09/image-24.png)](https://kensingtonblues.com/)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-24.png)](https://kensingtonblues.com/)
 
 Photo from the book “[Kensington Blues](https://kensingtonblues.com/)” about Kensington, Philadelphia
 
 Texas Slim taught me about the history of rural life before the industrialization of farming, I discovered how tallow once played a central role in traditional diets, how the rise of industrialization brought with it a wave of divorce, broken families, and widespread ill health, and how corporate food and media began to dominate urban centers. This understanding ignited an obsession within me—the cow, I realized, held the key to not just nourishing the body, but to healing the fractures in both rural and urban America.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-32-1024x768.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-32-1024x768.png)
 
 Me, Texas Slim, and Justin Trammel
 
@@ -95,7 +95,7 @@ This wasn’t just a road trip; it was a mission to restore something vital—ma
 
 It was in Austin that I first met Justin Trammell, a man whose quiet wisdom and deep connection to the land were clear from the start.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-26-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-26-1024x576.png)
 
 Justin Trammel outside of Hometown Meat Market in Luling, TX
 
@@ -103,7 +103,7 @@ Justin wasn’t just a rancher; he was a grass farmer, someone who understood th
 
 His knowledge of edible city plants like Yaupon Holly and Chickweed opened my eyes to the hidden resources thriving even in urban environments—a revelation that stuck with me long after we left the city behind.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-27-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-27-1024x576.png)
 
 **As we ventured into East Texas,** the landscape shifted. Concrete and steel gave way to rolling hills, dense forests, and grazing cattle—a world apart from the streets of Philadelphia.
 
@@ -113,7 +113,7 @@ The ranchers we met had a quiet strength and unassuming nature that reminded me 
 
 But here, that code was lived out in a different way, one that was deeply rooted in the land and the animals that sustained them.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-28-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-28-1024x576.png)
 
 Clyde Sommerlatte of 2 Bar C Ranch and Hometown Meat Market
 
@@ -137,7 +137,7 @@ This feeling was deepened by the spiritual journey of Ramadan that I was underta
 
 This journey through East Texas was more than just a physical one; it was a spiritual experience that touched the very core of my being.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-29-1024x682.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-29-1024x682.png)
 
 2 Bar C Ranch Auction Barn in Luling, TX
 
@@ -145,7 +145,7 @@ This journey through East Texas was more than just a physical one; it was a spir
 
 The sight of the bleachers, the staging area, and the large pen outside was entirely new to me. I could only imagine what it would be like to witness a live bull making its grand entrance, showing off its majestic presence in this unique setting.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-30-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-30-1024x576.png)
 
 Jason of 2 Bar C Ranch
 
@@ -161,7 +161,7 @@ The lessons I was learning were simple yet profound: respect the land, appreciat
 
 ---
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-33-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-33-1024x576.png)
 
 **As the journey continued,** I found myself increasingly connected to this new world. The days spent with cattlemen like Clyde and Justin, seeing their deep connection to the land and the animals, were reshaping my perspectives.
 

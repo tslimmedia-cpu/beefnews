@@ -3,7 +3,7 @@ title: "The MAHA Revolt: Two Movements Take Aim at the Food-Pharma Cartel"
 pubDate: 2025-06-04
 author: "Beef News"
 excerpt: "Two documents released in June—Farm Action’s policy roadmap and a viral open letter to RFK Jr.—are igniting a grassroots revolt against corporate control of food and medicine. Both demand an end to monopolies, liability-shielded mRNA injections, and USDA policies that serve Big Ag over families. What began as a health crisis has become a political realignment—from the ground up."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-9.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-9.png"
 category: "Farm Policy"
 tags: ["Farm Action", "MAHA Report"]
 featured: false

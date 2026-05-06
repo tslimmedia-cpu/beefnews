@@ -3,7 +3,7 @@ title: "Texas Fire Relief: Cattle Mafia, Unstoppable Community Resilience, and t
 pubDate: 2024-09-22
 author: "Texas Slim"
 excerpt: "Discover how Natalie Meeks of Cattle Mafia and others answered the call during Texas’s biggest wildfire. From the first responders to grassroots efforts, learn how community resilience and the power of service are reshaping our nation’s future."
-image: "https://beefnews.org/wp-content/uploads/2024/09/header.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/header.jpg"
 category: "Cowboy Talk"
 tags: ["Cattle Mafia", "I Am Texas Slim Foundation", "Natalie Meeks", "Texas Fire Relief"]
 featured: false
@@ -23,7 +23,7 @@ Natalie is like so many moms across this nation who’ve decided to take action 
 
 My article today isn’t about fanfare. It’s real simple. Natalie won my heart the first time I saw her in Amarillo, Texas, at one of the first fire relief fundraisers with Michael Martin Murphy and Lyle Lovett at the Big Texan Steakhouse and Starlight Ranch.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-7-764x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-7-764x1024.png)
 
 (Natalie Meeks of Cattle Mafia and Michael Martin Murphy)\
 
@@ -41,13 +41,13 @@ Within several hours, Natalie had a donated trailer and a full load and struck o
 
 No manuals, no scripts. Just a mom in her truck on a mission to serve.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-8-765x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-8-765x1024.png)
 
 Last year, me and Ruffshot did a 64-day tour around the United States. We produced a podcast on the road titled “Servant Leaders” (docuseries with [Crowdhealth Carnivore](https://www.joincrowdhealth.com/carnivore) coming soon). In that recording, we discussed the type of person who just has to serve. Their desire in life is to give first and foremost before they receive.
 
 I didn’t know anything about Cattle Mafia or Natalie Meeks back in the spring of 2023. Below is an introduction to Natalie and her family [taken from the Cattle Mafia website](https://cattlemafia.org/about-us/):
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-9-1024x720.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-9-1024x720.png)
 
 ### ***This Is A Family Business***
 
@@ -59,7 +59,7 @@ I didn’t know anything about Cattle Mafia or Natalie Meeks back in the spring 
 
 **P.S. they sell [cool cattle swag](https://cattlemafia.myshopify.com/) too!**
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-10-1024x789.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-10-1024x789.png)
 
 (Natalie Meeks Texas Journey in 2023)
 
@@ -81,7 +81,7 @@ Folks, there’s a casting call being broadcast across this nation. You don’t 
 
 There are generations of moms across this nation who aren’t asking for permission anymore, and they don’t care who judges them or what kind of back-biting might occur in the good ol' boy clubs.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-11-768x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-11-768x1024.png)
 
 (Louise Smith, Natalie Meeks, Sue Fatheree are cattlewomen, ranchers, fire victims and the Cattle Mafia)
 
@@ -113,7 +113,7 @@ This collaboration continues, and I couldn’t be happier right now because ther
 
 People like Natalie, Lee Wells, and everyone who’s been part of the relief and recovery efforts usually don’t ask for much permission.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-12-1024x681.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-12-1024x681.png)
 
 (Natalie Meeks & Lee Wells at the [We’re Here](https://wereheredoc.com/) premiere)
 

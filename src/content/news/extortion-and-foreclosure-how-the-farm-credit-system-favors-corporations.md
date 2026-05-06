@@ -3,7 +3,7 @@ title: "Extortion and Foreclosure: How the Farm Credit System Favors Corporation
 pubDate: 2024-06-14
 author: "Beef News"
 excerpt: "Dustin Kittle's lawsuit against the Biden administration reveals the harsh realities faced by small farmers. Despite federal rulings against Alabama Farm Credit's illegal practices, the lengthy investigation left Kittle financially devastated, a fate shared by many others in the agricultural community."
-image: "https://beefnews.org/wp-content/uploads/2024/06/kittle2.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/06/kittle2.jpg"
 category: "Farm Policy"
 tags: []
 featured: false

@@ -3,7 +3,7 @@ title: "\"We Seek The Truth\"- Industry-wide Call for Truth in Labeling mRNA Vac
 pubDate: 2024-08-18
 author: "Beef News"
 excerpt: "Dr. R. M. Thornsberry delves into the implications of mRNA technology in livestock genetics and public health. With decades of experience, he raises concerns about the safety and transparency of mRNA vaccines, particularly their impact on the food supply. Questioning the integration of RNA technologies into agribusiness models, Thornsberry expresses concern for the future of both humans and animals."
-image: "https://beefnews.org/wp-content/uploads/2024/08/mrna.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/mrna.jpg"
 category: "Farm Policy"
 tags: []
 featured: false

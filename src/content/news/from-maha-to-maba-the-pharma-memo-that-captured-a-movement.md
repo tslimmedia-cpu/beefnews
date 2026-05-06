@@ -3,7 +3,7 @@ title: "From MAHA to... Make American Biotech Accelerate? The Pharma Memo That C
 pubDate: 2025-07-02
 author: "Beef News"
 excerpt: "A leaked memo from the biotech lobby reveals a plan to neutralize RFK Jr.—not by confronting him, but by co-opting the language of reform. Now that same script is being deployed nationwide through biometric wearables, national security buzzwords, and behavioral scoring systems dressed up as public health. MAHA didn’t stop the Pharma cartel—it may have just scaled it."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-7.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-7.png"
 category: "Health"
 tags: ["BIO", "Brownstone", "RFK Jr.", "Wearables"]
 featured: false
@@ -13,7 +13,7 @@ featured: false
 
 ---
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-7.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-7.png)
 
 **In April, the vaccine cartel plotted to take down RFK Jr.** By July, he was running their playbook—only better.
 
@@ -38,7 +38,7 @@ But the system stayed right where it was.
 
 ---
 
-![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)
+![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)
 
 Advertisement
 
@@ -84,7 +84,7 @@ It wasn’t about debating Kennedy. It was about outflanking him.
 
 “The American public is tired of a healthcare system controlled by pharma and protected by a revolving door at our regulatory agencies,” she said. “People elected President Trump and support the MAHA agenda because they want accountability. So it’s no surprise to see pharma fighting back.”
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/image-6-1024x446.png)](https://beefpartnerships.com/products/dr-kat-s-beef-you-can-trust-box)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-6-1024x446.png)](https://beefpartnerships.com/products/dr-kat-s-beef-you-can-trust-box)
 
 She warned that the document reveals how far industry actors are willing to go to maintain power:
 
@@ -106,7 +106,7 @@ https://twitter.com/solari\_the/status/1925054082550575189?t=GFHz9WiPqeNgAi\_Xl2
 
 “Game over,” Fitts posted to X. “... this Administration is all in on the **INTERNET OF BODIES** - moving digital technology and the digital control grid into your body and mind."
 
-![](https://beefnews.org/wp-content/uploads/2025/07/ad_4nxesvz3mq85kh4k4g6sh6kmdhhplfql4rue6d945tqrf_bkvhuadqhzahqoakppphwchglsf9p7wv1g1sbnhor5tttlp1zhczguh9zfrokwhtly-k-wlkmm5rrer_cksqgwfm6bnew.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxesvz3mq85kh4k4g6sh6kmdhhplfql4rue6d945tqrf_bkvhuadqhzahqoakppphwchglsf9p7wv1g1sbnhor5tttlp1zhczguh9zfrokwhtly-k-wlkmm5rrer_cksqgwfm6bnew.png)
 
 ## **The Empire Rebranded**
 
@@ -140,4 +140,4 @@ From the outside, it looks like the strategy didn’t fail. **It went live.**
 
 ***Download the April 3, 2025 leaked BIO Meeting Notes below:***
 
-[BIO-Vaccine-Policy-Steering-Committee-April-3-2025.docx (2)](https://beefnews.org/wp-content/uploads/2025/07/bio-vaccine-policy-steering-committee-april-3-2025.docx-2.pdf)[Download](https://beefnews.org/wp-content/uploads/2025/07/bio-vaccine-policy-steering-committee-april-3-2025.docx-2.pdf)
+[BIO-Vaccine-Policy-Steering-Committee-April-3-2025.docx (2)](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/bio-vaccine-policy-steering-committee-april-3-2025.docx-2.pdf)[Download](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/bio-vaccine-policy-steering-committee-april-3-2025.docx-2.pdf)

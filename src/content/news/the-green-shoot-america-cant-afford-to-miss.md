@@ -3,7 +3,7 @@ title: "The Green Shoot America Can't Afford to Miss"
 pubDate: 2026-03-10
 author: "Beef News"
 excerpt: "The U.S. beef cow herd just flashed its first expansion signal since 2017. Here's why it won't matter — unless Washington acts in the next 18 months."
-image: "https://beefnews.org/wp-content/uploads/2026/03/image-8.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-8.png"
 category: "Farm Policy"
 tags: ["Biology", "Heifer Retention", "Senate Democrats"]
 featured: false

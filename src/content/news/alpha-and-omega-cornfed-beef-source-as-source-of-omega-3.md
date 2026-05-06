@@ -3,7 +3,7 @@ title: "Omega Upgrade: How One Kansas Feed Additive Could Save Cornfed Beef from
 pubDate: 2025-04-03
 author: "Beef News Wire"
 excerpt: "Cornfed beef delivers unmatched flavor and marbling—but it comes at a metabolic cost for both cattle and consumers. Now, a Kansas-based company claims it can rewrite that narrative with a simple feed additive that boosts omega-3s and lowers the inflammation tied to high-corn diets. If it works, it could be the breakthrough that saves feedlot beef from its own collapse—without giving up the taste America loves."
-image: "https://beefnews.org/wp-content/uploads/2025/04/image-2.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/image-2.png"
 category: "Business"
 tags: ["Bernie Hansen", "Better Fed Foods", "BetterFedFoods", "Omega 3", "Omega 6"]
 featured: false
@@ -17,7 +17,7 @@ The beef industry has an exceptional challenge in overcoming a stereotype about 
 
 A company out of Kansas could help producers change the fat profile of beef to include more omega-3 fatty acids by simply including a feed additive in cattle rations.
 
-![](https://beefnews.org/wp-content/uploads/2025/04/image-2-1024x768.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/image-2-1024x768.png)
 
 “We can make you a double-cheeseburger with more omega-3s than a piece of salmon,” said Bernie Hansen, chairman of [BetterFedFoods](https://betterfedfoods.com/) in Wamego, Kansas.
 

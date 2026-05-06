@@ -3,7 +3,7 @@ title: "The Digital Gulag Is Here: Catherine Austin Fitts Warns of Land Grabs, C
 pubDate: 2025-06-02
 author: "Beef News Wire"
 excerpt: "Catherine Austin Fitts warns that the most invasive tyranny in history is arriving through your dinner plate and digital wallet. In a wide-ranging interview with The Beef Initiative’s Breeauna Sagdal, Fitts links land grabs, food centralization, and Central Bank Digital Currencies (CBDCs) as coordinated tools of control. Her solution? Build real wealth by shaking your rancher’s hand and financing food freedom from the ground up."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-4.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-4.png"
 category: "Business"
 tags: []
 featured: false

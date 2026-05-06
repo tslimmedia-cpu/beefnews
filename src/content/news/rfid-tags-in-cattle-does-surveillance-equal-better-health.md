@@ -3,13 +3,13 @@ title: "RFID Tags in Cattle: Does Surveillance Equal Better Health?"
 pubDate: 2024-05-08
 author: "Breeauna Sagdal"
 excerpt: "USDA's RFID system in cattle fails post-processing, highlighting market manipulation and regulatory overreach."
-image: "https://beefnews.org/wp-content/uploads/2024/05/rfid-in-cattle.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/rfid-in-cattle.jpg"
 category: "I Am Texas Slim Foundation 501(c)(3)"
 tags: ["RFID", "Surveillance"]
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2024/05/dr.dasziak2-1024x568.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/dr.dasziak2-1024x568.jpeg)
 
 *Dr. Peter Daszak was called before the Select Committee on the Coronavirus Pandemic, Wednesday morning May 01, 2024, to answer for the actions of EcoHealth Alliance.*
 
@@ -36,7 +36,7 @@ However, a cursory review of these regulatory actions appears to reveal another 
 
 ### **RFID Ear Tags**
 
-![RFID tag on cow](https://beefnews.org/wp-content/uploads/2024/05/rfid_cow.jpg)
+![RFID tag on cow](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/rfid_cow.jpg)
 
 With few exceptions, the sales, trade, or purchase of all meat products require USDA certification. The USDA's tight grip on the certification program has led to an artificial consolidation of meat processing facilities. Approximately 85 percent of the processing facilities in the U.S. are owned by four multinational conglomerates.
 
@@ -68,7 +68,7 @@ Amid these massive shifts in priorities, the RFID ear tags will merely serve to 
 
 Without the July cattle report, industry experts have concerns that only those with access to the RFID ear tag data will know exactly where the cattle market sits. Similarly, Climate-Smart Commodities have been prioritized. An entire section of the USDA website now provides data specific to “Climate-Smart Commodities.” In an increasingly volatile market, access to data could shift liquidity risk ratios of lending institutions that prioritize Climate-Smart portfolios over traditional commodities.
 
-![](https://beefnews.org/wp-content/uploads/2024/05/image-1-1024x286.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/image-1-1024x286.png)
 
 *[H.R 4366 Rural Development and Appropriations Budget](https://www.congress.gov/bill/118th-congress/house-bill/4366/text)*
 

@@ -3,7 +3,7 @@ title: "America Says No to WHO: The Pandemic Power Grab Just Got Stopped Cold"
 pubDate: 2025-07-19
 author: "Beef News"
 excerpt: "The United States just rejected the World Health Organization’s pandemic rulebook. RFK Jr. called it a step away from censorship, surveillance, and unelected lockdown authority. This is the frontline of the new sovereignty war—and the WHO just lost a major battle."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-83.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-83.png"
 category: "Health"
 tags: ["Censorship", "Pandemic Treaty", "WHO"]
 featured: false
@@ -17,14 +17,14 @@ And behind that line lies the greatest battle of our age: the right to say no wh
 
 ###### A Treaty by Another Name
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-85.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-85.png)
 
 The 2024 amendments weren’t sold as a treaty. No Senate vote. No public referendum. No constitutional showdown. Just quiet negotiations in Geneva, with diplomats agreeing to redefine what constitutes a pandemic, who gets to declare it, and how fast the machinery of international “cooperation” must respond.
 
 At the heart of the proposal was a new term: **“pandemic emergency.”**\
 It would give the WHO broader powers to declare crisis across borders—not just when a virus spreads, but when health systems face “substantial disruption” requiring coordinated international action.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Advertisement
 
@@ -52,7 +52,7 @@ And behind the amendments? A blueprint for medical surveillance:
 
 ###### The Censorship Clause
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-86.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-86.png)
 
 Buried inside the WHO’s vision of pandemic coordination is something even more insidious than centralized policy: **centralized narrative.**
 
@@ -72,7 +72,7 @@ https://beefnews.org/from-maha-to-maba-the-pharma-memo-that-captured-a-movement/
 
 ###### Equity for Whom?
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-87.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-87.png)
 
 To be clear, the language of **“equity”** wasn’t a sidebar—it was the hook. Delegations from Africa, Asia, and Latin America rightly remembered how they were shut out during COVID. But what was framed as fairness contained a catch.
 
@@ -83,7 +83,7 @@ This isn’t solidarity. **It’s technocratic control cloaked in moral language
 
 ###### The Bigger Picture
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-88-1024x683.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-88-1024x683.png)
 
 Source: Reuters
 

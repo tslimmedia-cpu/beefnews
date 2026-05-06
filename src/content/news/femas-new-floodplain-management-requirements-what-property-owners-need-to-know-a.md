@@ -3,7 +3,7 @@ title: "FEMA’s New Floodplain Management Requirements: What Property Owners Ne
 pubDate: 2024-11-03
 author: "Beef News"
 excerpt: "On September 9, 2024, FEMA’s revised floodplain management regulations went into effect, significantly altering rebuilding possibilities for properties affected by hurricanes, floods, and other disasters. These stringent guidelines impact all structures within FEMA-designated flood zones, including agricultural lands, potentially rendering many properties unbuildable under the 1% and 500-year floodplain rules."
-image: "https://beefnews.org/wp-content/uploads/2024/11/image.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image.png"
 category: "Farm Policy"
 tags: ["FEMA", "Land Grabs"]
 featured: false

@@ -3,7 +3,7 @@ title: "Labeled Lies, Hidden Injections: The Quiet Corruption of America’s Mea
 pubDate: 2025-05-31
 author: "Beef News"
 excerpt: "Imported beef still masquerades as “Product of USA,” pink slime remains unlabeled, and carbon monoxide keeps rotting meat looking fresh. Behind the barcode, mRNA vaccine technology is already in use in commercial pork—with research accelerating in cattle, poultry, and even farmed fish—yet no consumer disclosure is required. While regulators claim there’s no risk, the truth is simpler: you’re eating in the dark."
-image: "https://beefnews.org/wp-content/uploads/2025/05/image-6.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/05/image-6.png"
 category: "Farm Policy"
 tags: ["Dr. Kat Lindley", "mRNA", "Product of USA"]
 featured: false

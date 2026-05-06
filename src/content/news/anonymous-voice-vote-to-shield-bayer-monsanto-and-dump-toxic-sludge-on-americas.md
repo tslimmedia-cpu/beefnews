@@ -3,7 +3,7 @@ title: "Anonymous Voice Vote to Shield Bayer-Monsanto—And Dump Toxic Sludge on
 pubDate: 2025-07-25
 author: "Beef News"
 excerpt: "They buried corporate immunity in the budget—and passed it without a single name on the record. Section 453 shields Bayer from lawsuits. Section 507 rebrands PFAS-laced sludge as \"fertilizer.\" The House Appropriations Committee approved both by voice vote. The public never saw it coming."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-117.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-117.png"
 category: "Farm Policy"
 tags: ["Bayer", "Immunity", "Monsanto", "Section 453", "Section 507"]
 featured: false
@@ -23,7 +23,7 @@ https://twitter.com/Breeauna9/status/1947891991552860605
 
 **Section 453** blocks federal funds from being used to update pesticide labels unless those changes align with the **EPA’s current risk assessments**. On the surface, it sounds like bureaucratic housekeeping. In reality, it’s a legal firewall: if the EPA hasn’t updated the label, you can’t sue the manufacturer—**even if the product causes cancer, birth defects, or neurological harm**.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Advertisement
 
@@ -39,7 +39,7 @@ Despite growing evidence of PFAS contamination, the EPA has failed to regulate s
 
 These provisions didn’t come out of nowhere. They were inserted quietly, after months of pressure from **chemical industry lobbyists**, most notably **Bayer**, **Corteva**, and the **biosolids disposal lobby**.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-116-1024x609.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-116-1024x609.png)
 
 Source: [OpenSecrets](https://www.opensecrets.org/federal-lobbying/clients/summary?cycle=2024&id=D000042363)
 
@@ -61,7 +61,7 @@ This isn’t the first time Congress has tried to bury liability shields in must
 
 [Moms Across America](https://www.momsacrossamerica.com/take_action_today) calls Section 453 “a betrayal of every parent who wants to keep their children safe.” The [Weston A. Price Foundation](https://www.westonaprice.org/urgent-natl-alert-stop-pesticide-immunity-shield-7-22-25-house-cmte-sec-453-appropriations-bill/#gsc.tab=0) said that "[language](https://appropriations.house.gov/sites/evo-subsites/republicans-appropriations.house.gov/files/evo-media-document/fy26-interior,-environment,-and-related-agencies-bill-text.pdf) of the bill is carefully crafted to avoid directly calling this “immunity”—but the effect is the same:"
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-115-1024x614.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-115-1024x614.png)
 
 Source: [OpenSecrets](https://www.opensecrets.org/members-of-congress/glenn-thompson/summary?cid=N00029736&cycle=2024)
 

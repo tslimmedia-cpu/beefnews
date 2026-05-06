@@ -3,7 +3,7 @@ title: "The Organic Lie: How Big Ag Hijacked a Label Meant to Protect Us"
 pubDate: 2025-06-05
 author: "Beef News"
 excerpt: "The USDA Organic label, intended to signify purity and adherence to strict standards, has been compromised by large agribusinesses exploiting regulatory loopholes and weak enforcement. From the use of genetically engineered vaccines in organic livestock to fraudulent grain imports and the contentious approval of synthetic coatings like Apeel's Organipeel, the integrity of organic certification is under threat. Consumers seeking genuine organic products should prioritize direct relationships with local producers to ensure transparency and trust."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-13.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-13.png"
 category: "Health"
 tags: ["Fraud", "Grain", "Jim Ferguson", "National Organic Standards Board", "Organic Eye"]
 featured: false

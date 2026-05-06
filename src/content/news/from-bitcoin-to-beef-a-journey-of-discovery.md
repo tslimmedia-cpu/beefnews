@@ -3,7 +3,7 @@ title: "From Bitcoin to Beef: A Journey of Discovery"
 pubDate: 2024-06-02
 author: "Captain Sidd"
 excerpt: "A Cross-Country Journey Unveils the Hidden Connections Between Bitcoin, Food, and Freedom"
-image: "https://beefnews.org/wp-content/uploads/2024/06/sidd-and-slim-pt1.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/06/sidd-and-slim-pt1.jpg"
 category: "Culture"
 tags: []
 featured: false
@@ -77,4 +77,4 @@ But that’s for the next part in this series.
 
 *Retrace a piece of Captain Sidd’s journey across America on the Ride of Passage American Heartland Tour, a thrilling 8-day motorcycle trip through the American Midwest. Dive into the heart of Bitcoin meetups, uncover the powerful link between sound money and nutrition, and explore the stories of those shaping a new frontier in health and freedom. Follow this journey and be inspired by the quest to rejuvenate America, one handshake at a time. To learn more visit the event page at <https://www.rideofpassage.live/american-heartland-tour> or by clicking the image below.*
 
-[![](https://beefnews.org/wp-content/uploads/2024/06/bitcoin-tour-aht-1-1024x1024.jpeg)](https://www.rideofpassage.live/american-heartland-tour)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/06/bitcoin-tour-aht-1-1024x1024.jpeg)](https://www.rideofpassage.live/american-heartland-tour)

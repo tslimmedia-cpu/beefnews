@@ -3,7 +3,7 @@ title: "JBS Hits Wall Street: How the World’s Most Corrupt Meatpacker Bought I
 pubDate: 2025-05-29
 author: "Beef News"
 excerpt: "Brazilian meat giant JBS, long plagued by corruption scandals and deforestation ties, has been approved to list on the New York Stock Exchange. With nearly 85% voting control retained by its founding family, the IPO grants JBS unprecedented access to U.S. capital while tightening its grip on the global protein supply. Critics warn the move rewards corporate crime and accelerates consolidation across American agriculture."
-image: "https://beefnews.org/wp-content/uploads/2025/05/image-5.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/05/image-5.png"
 category: "Business"
 tags: ["JBS", "NYSE"]
 featured: false

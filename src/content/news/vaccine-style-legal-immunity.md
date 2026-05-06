@@ -3,7 +3,7 @@ title: "“It’s Not Deregulation—It’s Indemnity”: The Agrochemical Carte
 pubDate: 2025-07-17
 author: "Beef News"
 excerpt: "While Bayer lobbies for immunity from 67,000 cancer lawsuits, Congress just introduced a pesticide liability shield that would freeze the EPA in time. Meanwhile, John Deere locks farmers out of their own tractors under a repair monopoly the FTC now calls antitrust. This isn’t just about chemicals or software—it’s a full-spectrum capture of the food system, and the fuse is lit."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-81.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-81.png"
 category: "Health"
 tags: ["John Deere", "Monsanto", "MTG", "Roundup", "Technology Use Agreements"]
 featured: false
@@ -17,13 +17,13 @@ https://twitter.com/RepMTG/status/1945080948355125568
 
 But this isn’t just a new fight. It’s the harvest of a decades-old seed—a corrupt agricultural regime rooted in Monsanto’s rise, glyphosate’s grip, and a corporate-government pact that turned farmers into tenants on their own land. If we’re going to save what’s left, we have to burn the roots—not just the leaves.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Advertisement
 
 ###### Roundup’s Last Stand
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-78-1024x683.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-78-1024x683.png)
 
 Since acquiring Monsanto in 2018, Bayer has faced a tidal wave of lawsuits over glyphosate, the active ingredient in Roundup. Courts have repeatedly found that long-term exposure can cause non-Hodgkin lymphoma. In May 2024, Bayer lost another $2.25 billion jury verdict. Now, facing **67,000 pending cases**, the company appears to be lobbying Congress for a backdoor bailout.
 
@@ -41,13 +41,13 @@ https://beefnews.org/playing-god-mtg-joins-efforts-to-ban-chemtrails-the-real-ma
 
 ###### From Pesticides to Platforms: The John Deere Model
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-79.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-79.png)
 
 While Bayer lobbies to freeze science, **John Deere has quietly frozen farmer autonomy**. According to [Farm Action’s 2025 consolidation report](https://farmaction.us/agriculture-consolidation-data-hub/), three companies—John Deere, CNH, and AGCO—control 95% of the large tractor market and 97% of combines. Deere alone holds 53% of tractors and 60% of combines.
 
 That dominance comes with a digital leash.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-80.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-80.png)
 
 Source: [Farm Action](https://farmaction.us/agriculture-consolidation-data-hub/)
 
@@ -92,7 +92,7 @@ The farmers know. The watchdogs know. The clock is ticking.
 
 And the fire’s just getting started.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-81.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-81.png)
 
 ### **Call These Members of Congress and Demand They Strike Section 453 from H.R. 9043**
 

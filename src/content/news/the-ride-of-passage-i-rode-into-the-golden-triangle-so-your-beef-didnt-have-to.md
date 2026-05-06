@@ -3,7 +3,7 @@ title: "THE RIDE OF PASSAGE: I RODE INTO THE GOLDEN TRIANGLE SO YOUR BEEF DIDN'T
 pubDate: 2026-03-10
 author: "Texas Slim"
 excerpt: "I went to the Golden Triangle in December 2023 because I needed to see the machine with my own eyes. By 2025, the world finally caught up."
-image: "https://beefnews.org/wp-content/uploads/2026/03/image-5.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-5.png"
 category: "Culture"
 tags: ["Captain Sidd", "Corruption", "Human Trafficking", "Kings Roman Casino", "Smuggling", "Thailnd"]
 featured: false
@@ -31,7 +31,7 @@ Then December 2025: Thailand's Central Investigation Bureau and Anti-Money Laund
 
 And threading through every indictment: Thai government officials.
 
-![](https://beefnews.org/wp-content/uploads/2026/03/image-6-768x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-6-768x1024.png)
 
 ---
 
@@ -77,7 +77,7 @@ This is why I went to Thailand.
 
 **This is why I secured Beef.com.**
 
-![](https://beefnews.org/wp-content/uploads/2026/03/image-5-1024x478.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-5-1024x478.png)
 
 ---
 
@@ -97,7 +97,7 @@ You cannot audit your way out of a corrupt checkpoint. You cannot regulate your 
 
 That is what we built.
 
-![](https://beefnews.org/wp-content/uploads/2026/03/image-7-768x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-7-768x1024.png)
 
 ---
 

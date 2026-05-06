@@ -3,7 +3,7 @@ title: "\"No Guardrails. None.\": How a Single SBA Size Standard Launders Big Ag
 pubDate: 2026-03-11
 author: "Beef News"
 excerpt: "How a single size standard launders Big Ag subsidies as small business aid — and why every \"fix\" without redefinition is theater."
-image: "https://beefnews.org/wp-content/uploads/2026/03/image-10.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-10.png"
 category: "Business"
 tags: ["Custom Processors", "Greg Gunthorp", "Meat Processing", "Panhandle Meat Processing", "Redbanks Beef Farm", "Tir Bluen", "USDA", "Walmart"]
 featured: false
@@ -15,7 +15,7 @@ It isn't bureaucratic inefficiency. It isn't underfunding. It isn't even regulat
 
 Greg Gunthorp has been saying this for years. Washington has been nodding and writing checks to the wrong plants.
 
-![](https://beefnews.org/wp-content/uploads/2026/03/image-9.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-9.png)
 
 ## **WHAT THE DEFINITION ACTUALLY DOES**
 
@@ -35,7 +35,7 @@ The definition had done its job.
 
 ## **GUNTHORP'S TAXONOMY — AND WHY WASHINGTON IGNORED IT**
 
-![](https://beefnews.org/wp-content/uploads/2026/03/image-10-1024x595.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-10-1024x595.png)
 
 In [2023 testimony before the House Judiciary Committee](https://www.govinfo.gov/content/pkg/CHRG-118hhrg52864/html/CHRG-118hhrg52864.htm) — *"Where's the Beef? Regulatory Barriers to Entry and Competition in Meat Processing"* — Gunthorp submitted a specific redefinition proposal. His language, verbatim from prepared testimony:
 
@@ -43,7 +43,7 @@ In [2023 testimony before the House Judiciary Committee](https://www.govinfo.gov
 
 This isn't abstract. Every bracket he proposed corresponds to an operational reality: the on-farm custom facility, the regional slaughter plant serving a county's independent producers, the mid-tier processor that might anchor a local supply chain. His tiers reflect how meat moves, how labor scales, and how markets actually function at the independent level. Washington's tiers reflect nothing except the lobbying power of whoever wrote them.
 
-[![](https://beefnews.org/wp-content/uploads/2026/03/image-11-1024x588.png)](https://x.com/GGunthorp/status/2026268412599558561?s=20)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-11-1024x588.png)](https://x.com/GGunthorp/status/2026268412599558561?s=20)
 
 The redefinition went nowhere. The grants kept flowing. Gunthorp has documented on X where they went: to a Walmart-connected facility that was "a HUGE recipient of processing grant and loan funds." To co-op slaughter plants that failed post-funding. To facilities that were already on the closure list, or that did nothing but value-add Big 4 boxed product and call themselves local. His posted USDA volume charts show the structural reality: roughly 37 hog plants account for 96 percent of volume; approximately 90 beef plants account for 98 percent or more. The "small" plants receiving federal support were, in most cases, operating inside that concentration — not against it.
 
@@ -63,7 +63,7 @@ None of it works without redefinition.
 
 The legislative and advocacy priority should be: lock the definition first. Before the next round of [USDA Meat and Poultry Processing Expansion grants](https://www.ams.usda.gov/services/grants/mppta), before the next SBA loan guarantee cycle, before the next processing announcement out of Washington — adopt Gunthorp's taxonomy across SBA and USDA simultaneously. Pair it with strict affiliation tests that exclude integrator-controlled or retailer-adjacent operations. Require independence proof and market utilization plans, not just construction timelines.
 
-[![](https://beefnews.org/wp-content/uploads/2026/03/image-12.png)](https://panhandlemeatprocessing.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-12.png)](https://panhandlemeatprocessing.com)
 
 Panhandle Meat Processing in Canyon, TX (owned by the Trammels of [Tir Bluen](https://www.beefmaps.com/?link=202)) has just a handful of employees.
 
@@ -71,7 +71,7 @@ Then pair the redefinition with what Gunthorp actually recommends funding: exist
 
 For the infrastructure layer that makes redefined "small" viable at scale, [BeefMaps](https://beefmaps.com) is mapping exactly this: the independent producers using independent processing facilities, the regional capacity, the geographic distribution of what remains of decentralized harvest infrastructure. Processing capacity search is coming to the map — and when it does, the argument becomes visual. Where capacity exists, it can be strengthened. Where it doesn't, the definition tells you why.
 
-![](https://beefnews.org/wp-content/uploads/2026/03/image-13-1024x688.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-13-1024x688.png)
 
 ## **THE BOTTOM LINE**
 

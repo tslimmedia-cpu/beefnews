@@ -3,7 +3,7 @@ title: "46 Groups Urge Congressional Action Against Electronic Eartag Mandate fo
 pubDate: 2024-10-01
 author: "Beef News"
 excerpt: "R-CALF USA, along with 45 farming and ranching groups, is calling on Congress to block the USDA’s new mandate requiring electronic ear tags for adult cattle and bison. In a letter to Congress, these groups warn that the mandate unfairly burdens small producers, consolidates the food supply, and threatens national food security. With widespread opposition from ranchers, R-CALF USA urges immediate action to stop this rule before it takes effect on November 5, 2024."
-image: "https://beefnews.org/wp-content/uploads/2024/10/rcalf-pr.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/rcalf-pr.png"
 category: "Farm Policy"
 tags: ["Market Access", "R-CALF", "RFID", "Surveillance"]
 featured: false

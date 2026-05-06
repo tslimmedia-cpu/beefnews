@@ -3,7 +3,7 @@ title: "Ranchers Demand Return Of Bull$hit Bezos Money To Reduce Cow Burps"
 pubDate: 2025-06-09
 author: "Beef News"
 excerpt: "A $4.85 million Bezos-funded methane genetics grant to the Angus Foundation has pushed ranchers to their limit—this isn’t efficiency, they say, it’s the start of climate regulation by stealth. Surprisingly, studies show wild bison emit as much methane as cattle, yet didn’t destabilize the climate. With genetic data growing and auctions looming, independent producers fear losing control of their herds."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-17.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-17.png"
 category: "Business"
 tags: ["Angus Association", "Bezos", "Cow Burps"]
 featured: false
@@ -51,4 +51,4 @@ The letter calls for a nationwide roundtable of Angus breeders—before the Asso
 
 **Support the ranchers holding the line—find and buy direct at [BeefMaps.com](https://www.beefmaps.com).**
 
-[![beefmaps](https://beefnews.org/wp-content/uploads/2025/06/image-2-1024x676.png)](https://beefmaps.com)
+[![beefmaps](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-2-1024x676.png)](https://beefmaps.com)

@@ -3,7 +3,7 @@ title: "Cattle Supply Cliff: Why U.S. Beef Production Faces a Multi-Year Decline
 pubDate: 2025-06-04
 author: "Beef News"
 excerpt: "The USDA’s 2025 outlook projects a nearly 2% decline in beef production, marking the third consecutive year of contraction. With the national cattle inventory at its lowest since 1951 and heifer retention rates plummeting, the industry faces a prolonged supply shortage. This downturn benefits large meatpackers and synthetic protein investors, while independent ranchers bear the brunt."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-6.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-6.png"
 category: "Business"
 tags: ["Cattle Supply Cliff", "USDA Outlook"]
 featured: false
@@ -35,4 +35,4 @@ This is the playbook of every cartel: reduce supply, maintain control, and manip
 
 [Support your local rancher directly by visiting BeefMaps.com](https://beefmaps.com)
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-7-1024x546.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-7-1024x546.png)

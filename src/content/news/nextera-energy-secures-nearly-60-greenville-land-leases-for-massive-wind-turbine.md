@@ -3,7 +3,7 @@ title: "NextEra Energy secures nearly 60 Greenville land leases for massive wind
 pubDate: 2026-03-23
 author: "Breeauna Sagdal"
 excerpt: "Questions remain after NextEra has declined to comment publicly on its plans, and no details have been released on the number of turbines, total capacity, timeline, or exact footprint."
-image: "https://beefnews.org/wp-content/uploads/2026/03/image-15.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-15.png"
 category: "Climate"
 tags: []
 featured: false

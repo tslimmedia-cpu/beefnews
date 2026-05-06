@@ -3,7 +3,7 @@ title: "USDA Cuts DEI &amp; Local Food Procurement Programs—A Win for Independ
 pubDate: 2025-06-01
 author: "Beef News"
 excerpt: "The USDA’s 2025 budget cuts eliminated two billion-dollar food programs that often funneled public dollars to corporate suppliers posing as “local.” Advocates for real food sovereignty welcomed the shift, calling it a necessary correction. When “local” gets hijacked by Big Food, the solution isn’t more funding—it’s more transparency."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-1.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-1.png"
 category: "Business"
 tags: ["DOGE", "USDA"]
 featured: false
@@ -23,7 +23,7 @@ Now, those programs are gone. And for many in the rancher-led food sovereignty m
 > - Ordered ID verification for SNAP\
 >   [Source »](https://x.com/WhiteHouse/status/1928508135490150790)
 
-[![](https://beefnews.org/wp-content/uploads/2025/06/image-1-1024x736.png)](https://x.com/WhiteHouse/status/1928508135490150790)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-1-1024x736.png)](https://x.com/WhiteHouse/status/1928508135490150790)
 
 While the mainstream media obsessed over diversity job titles and climate consultants, **independent ranchers noticed something else**: USDA was finally rolling back programs that failed to deliver real transparency or direct producer support.
 
@@ -39,4 +39,4 @@ This isn’t about cutting food access. It’s about cutting **the illusion** 
 
 [Support ranchers directly](HTTPS://beefmaps.com).
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-2-1024x676.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-2-1024x676.png)

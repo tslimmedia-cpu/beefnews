@@ -3,7 +3,7 @@ title: "The Bison Corridor: How We Defeated Extinction — and How We Can Again"
 pubDate: 2025-11-06
 author: "Texas Slim"
 excerpt: "History repeats when the people forget what they used to eat."
-image: "https://beefnews.org/wp-content/uploads/2025/11/img_0349.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0349.jpeg"
 category: "Business"
 tags: ["Bitcoin Historico", "Charles Goodnight", "El Salvador", "JA Ranch", "JBS"]
 featured: false
@@ -22,7 +22,7 @@ The Comanches fought for sovereignty through the soil. The government learned ho
 
 They took away the bison, and the people followed.
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](HTTPS://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](HTTPS://iamtexasslim.org)
 
 Please support our partner.
 
@@ -47,13 +47,13 @@ That was policy. That was precision. That was how you end a free people without 
 
 When they control your food, they control your fate.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](HTTPS://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](HTTPS://westonaprice.org)
 
 Please support our partner.
 
 ###### **Goodnight and Molly — Defiance on the Range**
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0350.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0350.jpeg)
 
 But one family refused to let extinction win.
 
@@ -77,7 +77,7 @@ He rebuilt trade through work, not war.
 Preservation was rebellion.\
 Stewardship was defiance.
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](HTTPS://betterfedfoods.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](HTTPS://betterfedfoods.com)
 
 Please support our partner.
 
@@ -105,7 +105,7 @@ Only now, I fight for the producers.
 
 ###### **Rebuilding the Corridor**
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0351.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0351.png)
 
 Panhandle Meat Processing is a local processor in the same Texas Panhandle where Goodnight established his ranch.
 
@@ -132,7 +132,7 @@ We’re bringing it back home.
 
 ###### **The Modern Trail**
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0352.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0352.jpeg)
 
 In November, I’ll ride a different kind of trail — to **El Salvador**, for the ***Bitcoin Histórico Conference*** — what I call the *Cattleman’s Feast.*
 

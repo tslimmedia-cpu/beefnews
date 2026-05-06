@@ -3,7 +3,7 @@ title: "From Bird Flu to Climate Snakes (Cull The Herd, Control The Supply)"
 pubDate: 2024-04-06
 author: "Beef News"
 excerpt: "Seasoned veterinarians and livestock producers, alike, have been scratching their respective heads trying to understand the media's response to the avian flu. Headlines&nbsp; across every major news outlet &nbsp;warns…"
-image: "https://beefnews.org/wp-content/uploads/2024/04/hero-flagmussolini-assumes-power-forms-cabinet.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/hero-flagmussolini-assumes-power-forms-cabinet.jpg"
 category: "Texas Slim's Community Newsletter"
 tags: []
 featured: false
@@ -17,11 +17,11 @@ While the source of Covid is hotly contested within the scientific community, th
 
 Amidst challenging shifts in food policy and production, the I Am Texas Slim Foundation 501(c)(3) stands as a beacon for agricultural sovereignty and consumer choice. Support our mission to advocate for transparency and diversity in food sources. Your contribution fuels vital research and education, helping to ensure that food freedom is not a concept of the past, but a living standard for our future. Stand with us—your donation is an investment in the right to choose what we eat.
 
-![Bill and Melinda Gates](https://beefnews.org/wp-content/uploads/2024/04/billandmelindagates-1024x577.webp)
+![Bill and Melinda Gates](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/billandmelindagates-1024x577.webp)
 
 In 2016, the Gates Foundation donated to the World Health Organization to create the OneHealth Initiative. Since 2020, the [CDC has adopted and implemented](https://www.cdc.gov/onehealth/index.html) the OneHealth Initiative to build a “collaborative, multisectoral, and transdisciplinary approach—working at the local, regional, national, and global levels—with the goal of achieving optimal health outcomes recognizing the interconnection between people, animals, plants, and their shared environment.”
 
-![One Health Initiative](https://beefnews.org/wp-content/uploads/2024/04/one-health-initiative-1024x106.jpeg)
+![One Health Initiative](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/one-health-initiative-1024x106.jpeg)
 
 In the aftermath of COVID-19, the OneHealth Initiative began taking shape, due largely in part to millions of tax dollars appropriated through ARP (American Rescue Plan) funding.
 
@@ -35,7 +35,7 @@ In other words, the federal government is using regulatory enforcement to interv
 
 ### Climate-Smart Commodities - Planning the Economy through Subsidized Intervention
 
-![Patnerships for climate-smart commodities project](https://beefnews.org/wp-content/uploads/2024/04/screenshot-2024-04-06-at-9.32.29-am-1024x596.jpg)
+![Patnerships for climate-smart commodities project](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/screenshot-2024-04-06-at-9.32.29-am-1024x596.jpg)
 
 Under the recently announced [Climate-Smart Commodities](https://www.usda.gov/climate-solutions/climate-smart-commodities) program, the USDA has appropriated $3.1B in tax subsidies to one hundred and forty-one new private Climate-Smart projects, ranging from carbon sequestration to Climate-Smart meat and forestry practices.
 
@@ -43,7 +43,7 @@ Private investors such as Amazon founder [Jeff Bezos](https://www.businessinsid
 
 ### Culling The Herd - Regulatory Intervention in the Marketplace
 
-![USDA APHIS logo](https://beefnews.org/wp-content/uploads/2024/04/usda_aphis_logo.jpg)
+![USDA APHIS logo](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/usda_aphis_logo.jpg)
 
 Meanwhile, the last vestiges of America’s food freedom and decentralized food sources, are quietly being targeted by the full force of the federal government.
 
@@ -77,7 +77,7 @@ With processing capabilities being the number one barrier to market for livestoc
 
 ### The Rise of Authoritarianism and Economic Fascism—Control the Supply
 
-![Mussolini assumes power forms cabinet](https://beefnews.org/wp-content/uploads/2024/04/hero-flagmussolini-assumes-power-forms-cabinet.jpg)
+![Mussolini assumes power forms cabinet](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/hero-flagmussolini-assumes-power-forms-cabinet.jpg)
 
 The United States, once a consumer-demand free market society, is currently witnessing the use of government force, and intervention tactics to steer and manipulate the marketplace. [Similar to 1930’s Italy](https://fee.org/articles/economic-fascism/), this is being achieved by the state within the state, through the use of selectionism, protectionism, and economic planning between public-private partnership agreements.
 

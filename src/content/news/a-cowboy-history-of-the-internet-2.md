@@ -3,7 +3,7 @@ title: "A Cowboy History of the Internet"
 pubDate: 2024-06-09
 author: "Beef News"
 excerpt: "Exploring the evolution of the internet from a West Texas cowboy's perspective, this video dives into the history, current landscape, and future of decentralized networks and digital innovation."
-image: "https://beefnews.org/wp-content/uploads/2024/06/ep26-cowboyhistory.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/06/ep26-cowboyhistory.jpg"
 category: "Video"
 tags: []
 featured: false

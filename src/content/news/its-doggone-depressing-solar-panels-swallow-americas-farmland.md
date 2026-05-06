@@ -3,7 +3,7 @@ title: "\"It’s Doggone Depressing\": Solar Panels Swallow America’s Farmland
 pubDate: 2025-06-11
 author: "Beef News"
 excerpt: "Across the heartland, farmland is being stripped, scraped, and sacrificed—not for food, but for solar arrays. Reuters confirms topsoil in Indiana’s corn belt has already been bulldozed and replaced with sand, rendering once-rich land useless. Farmers like Bryan “Tate” Mayo Jr. are watching centuries-old family farms vanish, asking: “If we lose this land, where will our food come from?"
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-23.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-23.png"
 category: "Business"
 tags: ["brooke rollins", "solar panels"]
 featured: false

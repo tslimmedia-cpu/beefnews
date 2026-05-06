@@ -3,7 +3,7 @@ title: "Behind the Scenes: The Tomahawk Ribeye Eating Contest Boosting Local Ran
 pubDate: 2024-07-07
 author: "Beef News"
 excerpt: "Discover the incredible impact of the Tomahawk Ribeye Eating Contest as it fuels the dreams of young ranchers like Emily. Uncover how the I Am Texas Slim Foundation is transforming local agriculture through this unique and thrilling event."
-image: "https://beefnews.org/wp-content/uploads/2024/07/emily-in-florida-hero-1.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/emily-in-florida-hero-1.png"
 category: "I Am Texas Slim Foundation 501(c)(3)"
 tags: ["Adopt-A-Rancher", "Bitcoin Conference 2024", "Emily from Florida", "Tomahawk Ribeye Contest"]
 featured: false
@@ -13,9 +13,9 @@ The Cattleman's Feast, the Food Freedom Event of the Summer, is happening at the
 
 As part of the event, the I Am Texas Slim Foundation is proud to sponsor Emily, a dedicated young rancher from northern Florida, through their Adopt-A-Rancher initiative. This sponsorship includes a $500 donation towards Emily's next steer, demonstrating the foundation's commitment to nurturing the next generation of ranchers.
 
-![](https://beefnews.org/wp-content/uploads/2024/07/image-2-789x1024.png)
-![](https://beefnews.org/wp-content/uploads/2024/07/image-1-762x1024.png)
-![](https://beefnews.org/wp-content/uploads/2024/07/image-662x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/image-2-789x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/image-1-762x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/image-662x1024.png)
 
 **Emily's Background**
 
@@ -37,10 +37,10 @@ Since receiving her steer in March, Emily has been diligently working to ensure 
 
 Her plans extend beyond just raising this steer. Emily is focused on breeding her registered Angus heifers and expanding her herd. “I’ve been able to buy more cattle and grow my herd. My goal is to breed them and have calves by next year,” she explained.
 
-![](https://beefnews.org/wp-content/uploads/2024/07/image-3-701x1024.png)
-![](https://beefnews.org/wp-content/uploads/2024/07/image-4-1024x739.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/image-3-701x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/image-4-1024x739.png)
 
-![](https://beefnews.org/wp-content/uploads/2024/07/image-5-1024x687.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/image-5-1024x687.png)
 
 **The Impact of Sponsorship**
 
@@ -58,7 +58,7 @@ Emily’s enthusiasm was palpable. “I’m really excited to learn and grow. Th
 
 Emily’s journey is a shining example of dedication and passion in the ranching community. The support from the I Am Texas Slim Foundation through the Adopt-A-Rancher Sponsorship and entertaining events like the [Tomahawk Ribeye Eating Contest](https://beefinitiative.com/pages/bitcoin2024) is a testament to their commitment to nurturing young talent. As Emily continues her work, she not only advances her own goals but also inspires others in the community.
 
-[![](https://beefnews.org/wp-content/uploads/2024/07/image-6-1024x576.png)](https://beefinitiative.com/pages/bitcoin2024)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/image-6-1024x576.png)](https://beefinitiative.com/pages/bitcoin2024)
 
 Join us in supporting Emily and all the ranchers being represented at the Tomahawk Ribeye Eating Contest in Nashville. Don’t miss the chance to meet and hear from special guests and contestants such as:
 

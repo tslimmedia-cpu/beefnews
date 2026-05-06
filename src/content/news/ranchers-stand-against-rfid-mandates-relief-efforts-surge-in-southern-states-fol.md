@@ -3,13 +3,13 @@ title: "Ranchers Stand Against RFID Mandates; Relief Efforts Surge in Southern S
 pubDate: 2024-10-05
 author: "Beef News"
 excerpt: "Join the fight as ranchers, led by the U.S. Cattlemen’s Association and R-CALF USA, oppose the USDA’s RFID mandate at the Livestock Producers Freedom Rally in South Dakota. Meanwhile, relief efforts coordinated by The I Am Texas Slim Foundation and FAFO Farms are underway in North Carolina, Tennessee, and Georgia, supporting communities with bitcoin donations. Discover how ranchers are stepping up for each other and read Breeauna Sagdal’s in-depth analysis on RFID surveillance in the cattle industry."
-image: "https://beefnews.org/wp-content/uploads/2024/10/rfid-helenerelief.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/rfid-helenerelief.jpg"
 category: "Farm Policy"
 tags: []
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image.png)
 
 **FOR IMMEDIATE RELEASE**
 
@@ -23,7 +23,7 @@ The USDA’s new rule requires RFID tags for sexually intact cattle over 18 mont
 
 **Relief Efforts in North Carolina, Tennessee, and Georgia**
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-2-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-2-1024x576.png)
 
 See more from @NYFarmer <https://x.com/NYFarmer/status/1842551267928776985>
 

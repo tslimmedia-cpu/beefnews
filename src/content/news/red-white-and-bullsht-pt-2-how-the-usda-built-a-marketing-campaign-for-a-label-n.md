@@ -3,7 +3,7 @@ title: "Red, White, and Bullsh*t Pt. 2: How the USDA Built a Marketing Campaign 
 pubDate: 2026-03-25
 author: "Beef News"
 excerpt: "The 2026 voluntary rule closed the lie — you can't call Argentine trimmings \"Product of USA\" anymore. But a packer who doesn't want to label simply doesn't, and right now 80,000 metric tons of foreign trimmings are flowing into your ground beef with no label required at all."
-image: "https://beefnews.org/wp-content/uploads/2026/03/image-18.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/image-18.png"
 category: "Business"
 tags: ["Argentina", "Rollins", "USDA", "WTO"]
 featured: false

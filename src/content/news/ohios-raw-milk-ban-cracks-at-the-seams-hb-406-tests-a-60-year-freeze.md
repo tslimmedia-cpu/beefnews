@@ -3,7 +3,7 @@ title: "Ohio’s Raw Milk Ban Cracks at the Seams: HB 406 Tests a 60-Year Freeze
 pubDate: 2025-08-24
 author: "Beef News"
 excerpt: "Ohio’s raw milk ban isn’t about safety—it’s about a 1965 licensing freeze baked into ORC §917.04 . HB 406 would finally break that lock, but unless regulators can enforce fairly, the law risks collapsing—or handing the market back to Big Dairy."
-image: "https://beefnews.org/wp-content/uploads/2025/08/ad_4nxdfno6p7oa3dt5bpuxrekoiwmiljmhob5zxe62bnbnspg0z14r4obhinlzyfgi3yfhx7o5hu1gvjrf1zgyuaff7tk-lhdzhjayx1asxdxicbwttioctlumpxr7_f9z2nt_mpkx_vg.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxdfno6p7oa3dt5bpuxrekoiwmiljmhob5zxe62bnbnspg0z14r4obhinlzyfgi3yfhx7o5hu1gvjrf1zgyuaff7tk-lhdzhjayx1asxdxicbwttioctlumpxr7_f9z2nt_mpkx_vg.png"
 category: "Business"
 tags: ["HB 406", "I Am Texas Slim Foundation", "Ohio", "Raw Milk", "RealMilk.com", "Weston A Price"]
 featured: false
@@ -19,7 +19,7 @@ Raw milk wasn’t always contraband. In the first half of the 20th century, Ohio
 
 Then came the hammer blow: the [1965 statute](https://codes.ohio.gov/ohio-revised-code/section-917.04). It didn’t just require pasteurization. It grandfathered in existing sellers and barred everyone else.
 
-![Realmilk.com](https://beefnews.org/wp-content/uploads/2025/06/findrealmilkhere.png)
+![Realmilk.com](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/findrealmilkhere.png)
 
 Please support our partners.
 
@@ -34,7 +34,7 @@ Public health is the stated rationale. And yes, the [CDC](https://www.fda.gov/fo
 
 But critics point to the selective use of risk. Leafy greens, peanut butter, and deli meat **cause more hospitalizations annually than raw milk.**
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
 
 Please support our partner.
 
@@ -48,7 +48,7 @@ https://beefnews.org/the-dairy-cartels-smear-machine-florida-just-framed-a-famil
 
 **Introduced August 5, 2025, HB**[**406**](https://www.legislature.ohio.gov/legislation/136/hb406) **would legalize direct farm sales of raw milk. The bill requires monthly pathogen testing, liability waivers, and labeling — a framework built to regulate, not deregulate.**
 
-![](https://beefnews.org/wp-content/uploads/2025/08/ad_4nxcjc8wryma9ovtn19zlwkyijwasjw0wnx098twect-8edej5ne7xh_youssvy3i5ewc9j1q-ygcxiwhnmzwfosha5qn-dh27zx5evqsoyhby577pelrrg61s0tws0nps2yt3mpdgw.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxcjc8wryma9ovtn19zlwkyijwasjw0wnx098twect-8edej5ne7xh_youssvy3i5ewc9j1q-ygcxiwhnmzwfosha5qn-dh27zx5evqsoyhby577pelrrg61s0tws0nps2yt3mpdgw.png)
 
 Source: [House Bill 406  | 136th General Assembly | Ohio Legislature (2025)](https://www.legislature.ohio.gov/legislation/136/hb406)Source: [House Bill 406  | 136th General Assembly | Ohio Legislature (2025)](https://www.legislature.ohio.gov/legislation/136/hb406)
 

@@ -3,7 +3,7 @@ title: "Eat Beef to Heal America: Texas Slim, Shawn Baker, and the Fight for Foo
 pubDate: 2025-03-13
 author: "Beef News"
 excerpt: "Beef isn’t just food—it’s the foundation of health, community, and sovereignty. At Speaker Salon, Texas Slim, Dr. Shawn Baker, RS \"Ruffshot\" June, and RanchMama Shanen expose the corporate takeover of food and why real change starts with knowing your rancher. The fight for Beef.com and direct-to-consumer beef is more than a movement—it’s a necessity."
-image: "https://beefnews.org/wp-content/uploads/2025/03/image-11.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-11.png"
 category: "Culture"
 tags: []
 featured: false

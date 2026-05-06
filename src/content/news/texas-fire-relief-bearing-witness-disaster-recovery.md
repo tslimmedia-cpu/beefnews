@@ -3,7 +3,7 @@ title: "Texas Fire Relief: Bearing Witness and the Fight for Disaster Recovery"
 pubDate: 2024-09-15
 author: "Texas Slim"
 excerpt: "From wildfires to cattle crises, do we know how to truly witness what's happening around us? It's time to pause, listen, and shake the hands of those who keep America fed. Discover the truth behind resilience, disaster, and our obligation to each other."
-image: "https://beefnews.org/wp-content/uploads/2024/09/werehere.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/werehere.jpeg"
 category: "Cowboy Talk"
 tags: []
 featured: false
@@ -12,7 +12,7 @@ featured: false
 \
 In my last article, I told y'all I'd be writing a 5-part series to highlight and showcase the largest wildfire in Texas history. Now, I'll start sharing my perspective from where I sit and stand.
 
-[![](https://beefnews.org/wp-content/uploads/2024/09/image-4.jpeg)](https://wereheredoc.com/)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-4.jpeg)](https://wereheredoc.com/)
 
 [We’re Here](https://wereheredoc.com/)
 
@@ -29,7 +29,7 @@ I see the innocence.\
 I see the corruption.\
 I see the man in the mirror.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-5.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-5.jpeg)
 
 Texas Slim stepping through the ashes outside of Pampa, TX - Smokehouse Creek Fire
 
@@ -59,7 +59,7 @@ Did the nation even pause when this disaster struck? To my understanding, and in
 Did thousands of individuals bear witness and react when this disaster occurred?\
 **YOU BET!**
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-6.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-6.jpeg)
 
 *Did you know the Beef Initiative has a 501c3? Through the I Am Texas Slim Foundation, you can support ranchers directly and help preserve our nation’s food sovereignty. Donate today at $1,000, $500, or $300 and be part of the mission to rebuild local food systems and protect independent ranching.*
 
@@ -80,7 +80,7 @@ I’ll tell you this today: there are people in this nation who stopped everythi
 
 They put their life on pause because they had to—for those who lost everything and even those who lost nothing. It’s in their core belief system to give back, first and foremost.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-9.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-9.jpeg)
 
 Lee Wells, Creator of We’re He’re, and Natalie Meeks of Cattle Mafia
 
@@ -100,7 +100,7 @@ I shared some reflections with Lee about what it’s like coming from the Texas 
 \
 This is the Desert High Plains, ya know… *smirk.*
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image.png)
 
 I’ve taken the day off to write today. It’s been over four years since I’ve taken a full day to write. I’ve been on the road for four years, and I’m road weary. I long for home, a place I can trust. I need some innocence.
 
@@ -112,7 +112,7 @@ It shouldn’t be so hard, as a society, to walk up to another man, look him in 
 
 Four years ago, I told a nation to [go shake a rancher’s hand](http://shakearanchershand.com) and ask him how you can help. Ask him what his pain points are, ask him about his family, buy some beef if he sells to the public. Ask if he does a [herd share](https://www.grazecart.com/blog/herdshare-program). Ask how you can serve him.
 
-[![](https://beefnews.org/wp-content/uploads/2024/09/image-1-1024x851.png)](http://welcometobeef.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-1-1024x851.png)](http://welcometobeef.com)
 
 Welcome to Beef
 

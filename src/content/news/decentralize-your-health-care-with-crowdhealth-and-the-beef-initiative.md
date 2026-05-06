@@ -3,7 +3,7 @@ title: "Decentralize Your Health Care with Crowdhealth and The Beef Initiative"
 pubDate: 2024-10-17
 author: "Beef News"
 excerpt: "Join Texas Slim and Andy Schoonover from CrowdHealth as they explore a revolutionary approach to healthcare and sustainable food. In this episode, discover how CrowdHealth offers a community-driven alternative to traditional insurance, while the Beef Initiative connects consumers directly with local ranchers, promoting regenerative practices and nutrient-dense beef. Learn how these two movements are empowering individuals to take control of their health and food choices through decentralized solutions. Ready to break free from broken systems? Tune in to transform your lifestyle today!"
-image: "https://beefnews.org/wp-content/uploads/2024/10/andy-crowdhealth.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/andy-crowdhealth.jpg"
 category: "Health"
 tags: ["beef maps", "crowdhealth", "decentralized healthcare"]
 featured: false

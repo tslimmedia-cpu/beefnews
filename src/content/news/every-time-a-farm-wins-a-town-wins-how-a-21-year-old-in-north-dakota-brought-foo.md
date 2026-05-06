@@ -3,7 +3,7 @@ title: "“Every Time a Farm Wins, a Town Wins”: How a 21-Year-Old in North Da
 pubDate: 2025-07-22
 author: "Beef News"
 excerpt: "At 21, Dawson Holle didn’t just change a law—he rewrote the future of food freedom in North Dakota. Backed by cows, commonsense, and coalition-building, he legalized raw milk and cream without corporate lobbying or culture war noise. This is how a farm kid outmaneuvered the bureaucracy—and lit a path every state can follow."
-image: "https://beefnews.org/wp-content/uploads/2025/07/ad_4nxfvw_8fylhpmsmk3ii-4pjbf6endehhzyxtxwrzawct5hw1iqmc_3lfmidrb0zi8xt72dgralhceb44zcvlia7wtlhzijwdfe-ich-kt5okwzf2ybibsziurwz11kuq5nw6hx6dfa.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxfvw_8fylhpmsmk3ii-4pjbf6endehhzyxtxwrzawct5hw1iqmc_3lfmidrb0zi8xt72dgralhceb44zcvlia7wtlhzijwdfe-ich-kt5okwzf2ybibsziurwz11kuq5nw6hx6dfa.png"
 category: "Business"
 tags: ["Dawson Holle", "North Dakota", "Raw Milk", "Real Milk"]
 featured: false
@@ -19,7 +19,7 @@ That’s not a campaign line. **That’s a farmer speaking through exhaustion an
 
 **He did it anyway.**
 
-[![Realmilk.com](https://beefnews.org/wp-content/uploads/2025/06/findrealmilkhere.png)](https://realmilk.com)
+[![Realmilk.com](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/findrealmilkhere.png)](https://realmilk.com)
 
 Advertisement
 
@@ -27,7 +27,7 @@ Advertisement
 
 Holle wasn’t supposed to win in 2022. He ran at 18 years old against a ten-year incumbent. But behind him stood a thousand-cow family operation hemorrhaging viability. North Dakota was losing two dairies a year. Of the few that remained, most were either selling out or consolidating. The cultural knowledge of raw milk—let alone the economic lifeline it could offer—was slipping away.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/ad_4nxfgqf66g6aps_z-qwykvpu4pgijssv3tg_ialdqgfefgjqf9mrbgwrygygqhh6kaiqmkff07s4hjzsrewgjgyq7xrtlafvond76ld_ij82y5flhnodqp-vxrh3aehqp5n1b19ufoa.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxfgqf66g6aps_z-qwykvpu4pgijssv3tg_ialdqgfefgjqf9mrbgwrygygqhh6kaiqmkff07s4hjzsrewgjgyq7xrtlafvond76ld_ij82y5flhnodqp-vxrh3aehqp5n1b19ufoa.png)
 
 Source: USDA
 
@@ -59,7 +59,7 @@ That wasn’t posturing. Holle still helps manage the cows. He still rotates log
 
 ###### **A Political Movement Without a Logo**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/ad_4nxffzbsrejere79erachn9yaixz9cdefhdg-w6ckwhsehvydhz2bxq6gppszfjzygorm_q_7ucobueuoftg9k0q4fw2d4sdzm74qof2_vfoa1pgxfkcrxqw1log2gum0aul_yu1-.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxffzbsrejere79erachn9yaixz9cdefhdg-w6ckwhsehvydhz2bxq6gppszfjzygorm_q_7ucobueuoftg9k0q4fw2d4sdzm74qof2_vfoa1pgxfkcrxqw1log2gum0aul_yu1-.png)
 
 What makes Holle different isn’t just his age. It’s that he’s not trying to sell ideology. There’s no “Raw Milk Freedom Caucus” or bumper sticker farm populism.
 
@@ -95,7 +95,7 @@ That’s the Holle model:
 
 **Don’t yell. Rewrite.****\****Don’t posture. Produce.****\****Don’t beg. Build.**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-99-1024x629.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-99-1024x629.png)
 
 “Every time a farm wins, a town wins.”
 

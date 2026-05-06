@@ -3,7 +3,7 @@ title: "The Hourglass Is a Noose: How the Big Four Choke America’s Ranchers"
 pubDate: 2025-06-27
 author: "Beef News"
 excerpt: "R-CALF USA just told the U.S. Senate what ranchers have known for years: the Big Four meatpackers control 80% of the fed cattle market, and they’ve turned it into a bottleneck. Family-scale producers are being driven out while consumers pay more for beef that’s often imported and deceptively labeled. R-CALF’s message is clear—this isn’t a functioning market, it’s a cartel."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-53.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-53.png"
 category: "Business"
 tags: ["MCOOL", "OFF Act", "Packers &amp; Stockyards Act", "R-CALF", "Senate"]
 featured: false
@@ -17,14 +17,14 @@ Everyone in the Food Freedom movement knows the meatpacking industry is dominate
 
 These four companies **command over 80% of the U.S. fed cattle market**—a level of consolidation that, in [Bill Bullard of R-Calf USA's words](https://www.youtube.com/watch?v=tUnhHNu_0Nk) at a recent Senate hearing, has transformed America’s beef system from a competitive market into a corporate chokehold. The result isn’t just fewer ranchers. It’s a **strategic bottleneck** that’s bleeding rural America dry while inflating food prices for everyone else.
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-54.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-54.png)
 
 “No one looking at this chart can say our cattle and beef markets are functioning fine. Ranchers at one end of the supply chain and consumers at the other are being exploited.”\
 — **Bill Bullard**, R-CALF USA CEO, testifying before the U.S. Senate
 
 ---
 
-![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)
+![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)
 
 *Advertisement*
 
@@ -40,7 +40,7 @@ For decades, these packers have benefited from what Bullard calls *“de facto d
 
 The result? **Over half of U.S. cattle ranchers have exited the industry**, the U.S. cattle herd is the smallest it’s been in seven decades, and nearly **two-thirds of sheep ranchers are gone**.
 
-[![](https://beefnews.org/wp-content/uploads/2025/06/image-52.png)](https://www.nass.usda.gov/Charts_and_Maps/Cattle/inv.php)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-52.png)](https://www.nass.usda.gov/Charts_and_Maps/Cattle/inv.php)
 
 <https://www.nass.usda.gov/Charts_and_Maps/Cattle/inv.php>
 
@@ -91,4 +91,4 @@ https://twitter.com/RCALFUSA/status/1938718369248878660
 
 ***Find your local rancher and cut the cartel out—visit [BeefMaps.com](https://beefmaps.com) to buy direct, eat honest, and break the bottleneck.***
 
-[![BeefMaps.com](https://beefnews.org/wp-content/uploads/2025/06/image-42-1024x892.png)](https://beefmaps.com)
+[![BeefMaps.com](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-42-1024x892.png)](https://beefmaps.com)

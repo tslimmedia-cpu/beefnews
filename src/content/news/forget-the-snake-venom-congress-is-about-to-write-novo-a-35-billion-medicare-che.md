@@ -3,13 +3,13 @@ title: "Forget the Snake Venom— Congress Is About to Write Novo a $35 Billion 
 pubDate: 2025-08-19
 author: "Beef News"
 excerpt: "Ozempic isn’t “reptile venom,” but the viral meme works as a smokescreen—masking the real fight in Congress over Medicare coverage that could funnel $35 billion to Novo Nordisk. The lawsuits are serious, but the taxpayer blindspot is bigger."
-image: "https://beefnews.org/wp-content/uploads/2025/08/ad_4nxerc4jodinqsad8r5kyllsobsqr5bcv5xcz0z2bdevkkrlkxioumson054mbl9mycwi9j5bnc_dlz87hueg4zwwwf3hq-ssl31g53kg1vjskzydsessxdplcrg_wyt0ms4dq52okw.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxerc4jodinqsad8r5kyllsobsqr5bcv5xcz0z2bdevkkrlkxioumson054mbl9mycwi9j5bnc_dlz87hueg4zwwwf3hq-ssl31g53kg1vjskzydsessxdplcrg_wyt0ms4dq52okw.png"
 category: "Business"
 tags: []
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2025/08/ad_4nxd3sg4lpgmi47oxojm8ttxdvfmojxe_dqbzrpa75af9cgbzddqrzfczuvfpsqjezzdibawotuionyk7a1egak-tvz4zk2lxhvqny3mvldz5krj1hcygg5f1p72p7nffh-yb2m8kpa.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxd3sg4lpgmi47oxojm8ttxdvfmojxe_dqbzrpa75af9cgbzddqrzfczuvfpsqjezzdibawotuionyk7a1egak-tvz4zk2lxhvqny3mvldz5krj1hcygg5f1p72p7nffh-yb2m8kpa.png)
 
 While headlines obsess over “reptile venom” conspiracies and viral Ozempic side-effect lawsuits, **the real policy bomb** **sits quietly in Congress**. The Treat and Reduce Obesity Act—known as TROA—would for the first time **allow Medicare to cover weight-loss drugs like Wegovy and Ozempic.** That’s not myth. That’s lawmaking.
 
@@ -17,7 +17,7 @@ https://twitter.com/thehealthb0t/status/1951260717715271740
 
 ###### **The Bill That Changes Everything**
 
-[![](https://beefnews.org/wp-content/uploads/2025/08/image-19-1024x777.png)](https://www.congress.gov/bill/118th-congress/house-bill/4818)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-19-1024x777.png)](https://www.congress.gov/bill/118th-congress/house-bill/4818)
 
 Source: [Congress](https://www.congress.gov/bill/118th-congress/house-bill/4818)
 
@@ -25,7 +25,7 @@ On [Congress.gov](https://www.congress.gov/bill/118th-congress/house-bill/4818),
 
 For twenty years, Medicare has been legally barred from paying for obesity drugs. **TROA would blow that door wide open**—and **funnel billions of taxpayer dollars** straight into Novo Nordisk’s pipeline.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Advertisement
 
@@ -42,7 +42,7 @@ The [Congressional Budget Office](https://www.cbo.gov/publication/60816) ran the
 
 Novo Nordisk isn’t leaving this to chance. According to [OpenSecrets](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000028050), the company has already spent **$3.38 million** lobbying in 2025—just in the first half of the year.
 
-![](https://beefnews.org/wp-content/uploads/2025/08/ad_4nxerc4jodinqsad8r5kyllsobsqr5bcv5xcz0z2bdevkkrlkxioumson054mbl9mycwi9j5bnc_dlz87hueg4zwwwf3hq-ssl31g53kg1vjskzydsessxdplcrg_wyt0ms4dq52okw.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxerc4jodinqsad8r5kyllsobsqr5bcv5xcz0z2bdevkkrlkxioumson054mbl9mycwi9j5bnc_dlz87hueg4zwwwf3hq-ssl31g53kg1vjskzydsessxdplcrg_wyt0ms4dq52okw.png)
 
 Source: [Open Secrets](https://www.opensecrets.org/federal-lobbying/clients/summary?id=D000028050)
 
@@ -51,7 +51,7 @@ Source: [Open Secrets](https://www.opensecrets.org/federal-lobbying/clients/summ
 
 This isn’t about patient “access.” It’s about **securing a government-guaranteed revenue stream** while lawsuits mount.
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
 
 Advertisement
 
@@ -59,7 +59,7 @@ Advertisement
 
 Meanwhile, in Illinois, [MDL No. 3094](https://www.jpml.uscourts.gov/pending-mdls-0) is growing fast—consolidating **over 2,000 lawsuits** alleging Ozempic and Wegovy caused blindness, gastroparesis, gallbladder disease, and other harms. Insiders report that plaintiffs now expect the first bellwether trials by 2026, with **damages projected in the billions**.
 
-![](https://beefnews.org/wp-content/uploads/2025/08/ad_4nxdgmojb7jvodujmg7tucmirntktdjpv4yejodpu3xxj91e0dovnpnaslktbsjb-ae39sqbmosisosikxnu55qyz_thjjnkevpdbnjcla_lxl9tycbeqpt17kaw9r7ngmco-j8df.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxdgmojb7jvodujmg7tucmirntktdjpv4yejodpu3xxj91e0dovnpnaslktbsjb-ae39sqbmosisosikxnu55qyz_thjjnkevpdbnjcla_lxl9tycbeqpt17kaw9r7ngmco-j8df.png)
 
 Novo Nordisk denies causality. But here’s the playbook: **secure Medicare coverage through TROA, fortify revenues, and blunt financial risk**—even if liability sticks.
 

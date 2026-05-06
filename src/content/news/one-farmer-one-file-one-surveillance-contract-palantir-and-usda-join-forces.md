@@ -3,7 +3,7 @@ title: "One farmer, one file, one surveillance contract: Palantir and USDA join 
 pubDate: 2026-04-26
 author: "Beef News"
 excerpt: "The USDA is calling it modernization. What it actually is: a sole-source contract handing one intelligence-adjacent private company permanent control over the digital backbone of every farmer's federal relationship — with no competitive bid, no exit ramp, and a full rollout date of 2028."
-image: "https://beefnews.org/wp-content/uploads/2026/04/image-7.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/04/image-7.png"
 category: "Farm Policy"
 tags: ["Palantir", "USDA"]
 featured: false

@@ -3,7 +3,7 @@ title: "Congresswoman Hageman Fights Back: Exposing the Devastating Impact of Ma
 pubDate: 2024-10-20
 author: "Beef News"
 excerpt: "At the Livestock Producers Freedom Rally, Congresswoman Harriet Hageman sounded the alarm on the Biden-Harris administration's push for mandatory RFID tags, which threaten small and independent ranchers. With over five years of fighting this battle, Hageman highlighted how this federal overreach disproportionately benefits large corporations, risking the future of local producers and the entire food supply chain. Her powerful message calls for unity in resisting government mandates and protecting the independence of America’s ranchers."
-image: "https://beefnews.org/wp-content/uploads/2024/10/hageman.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/hageman.jpg"
 category: "Farm Policy"
 tags: ["Hageman", "Livestock Producers", "RFID", "Surveillance"]
 featured: false

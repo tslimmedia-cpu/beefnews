@@ -3,7 +3,7 @@ title: "UK to Mandate Electronic ID in Cattle — U.S. Producers Sound Alarm"
 pubDate: 2025-06-14
 author: "Beef News"
 excerpt: "England’s coming mandatory EID tags have U.S. ranchers sounding the alarm, warning it paves a path toward centralized data control and AI-driven agriculture oversight. R‑CALF USA’s Bill Bullard argues that even massive plants like Cargill’s—which process thousands of cattle daily—don’t benefit from such tracing, exposing the scheme as a control tool, not a safety one. The message is clear: protect rancher data now—or lose it to unseen bureaucratic systems."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-1.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-1.jpg"
 category: "Farm Policy"
 tags: ["EID", "R-CALF", "RFID", "UK"]
 featured: false
@@ -45,4 +45,4 @@ A clear choice now faces cattle producers: accept a future of **digital complian
 
 ***Support family‑owned ranches facing digital control—explore direct‑from‑producer beef at BeefMaps.com and preserve your food freedom.*** Visit **[BeefMaps.com](https://beefmaps.com)**.
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-25-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-25-1024x576.png)

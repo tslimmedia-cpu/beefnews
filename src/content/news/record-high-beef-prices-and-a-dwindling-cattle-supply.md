@@ -3,7 +3,7 @@ title: "Record High Beef Prices and a Dwindling Cattle Supply"
 pubDate: 2025-05-10
 author: "Beef News Wire"
 excerpt: "America’s beef herd has plunged to its lowest level since 1951, driving up prices and threatening long-term food security. Ranchers are caught in a vicious cycle—selling off breeding stock under pressure—while foreign land grabs and regulatory barriers shrink their ability to recover. Rebuilding the herd isn’t just about burgers; it’s about sovereignty, survival, and restoring control over our food supply."
-image: "https://beefnews.org/wp-content/uploads/2025/04/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQxOS0zLTEyODU0YS5qcGc.webp"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGQxOS0zLTEyODU0YS5qcGc.webp"
 category: "Business"
 tags: ["Breeauna Sagdal", "John Klar", "Texas Slim", "Where's the beef?"]
 featured: false

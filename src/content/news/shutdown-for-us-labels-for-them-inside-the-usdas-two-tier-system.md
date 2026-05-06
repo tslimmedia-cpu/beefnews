@@ -3,7 +3,7 @@ title: "Shutdown for Us, Labels for Them: Inside the USDA’s Two-Tier System"
 pubDate: 2025-10-03
 author: "Beef News"
 excerpt: "USDA paused loans, label approvals, and market reports—gutting small producers mid-harvest. Meanwhile, Cargill kept selling imported beef as \"Product of USA.\" Welcome to the cartel economy."
-image: "https://beefnews.org/wp-content/uploads/2025/10/image-2.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/10/image-2.png"
 category: "Business"
 tags: ["Bankruptcies", "MCOOL", "Meriwether Farms", "Shutdown", "USDA"]
 featured: false
@@ -13,7 +13,7 @@ featured: false
 
 That was posted by **[Meriwether Farms](https://x.com/MeriwetherFarms)** on October 2, 2025. Their new beef tallow label—after two months and four USDA rejections—was ready to go. Now it sits in limbo. **Meanwhile, large packers continue relabeling foreign beef as “Product of USA”—without interruption.**
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Please support our partner.
 
@@ -27,7 +27,7 @@ So while Cargill’s kill lines hum along uninterrupted, small producers like Me
 
 https://twitter.com/MeriwetherFarms/status/1973742010528935995
 
-![](https://beefnews.org/wp-content/uploads/2025/10/image-3-1024x666.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/10/image-3-1024x666.png)
 
 Please support our partner.
 
@@ -37,7 +37,7 @@ Here’s the part they don’t want you to think about.
 
 Under current rules, beef from cattle **born and raised abroad**—Mexico, Brazil, Australia—can still be sold with a “Product of USA” label, as long as it’s repackaged or processed at a USDA-inspected facility. Ground beef made with foreign trim? No origin disclosure required. The practice is permitted under the agency’s still-active [Labeling Policy Book](https://www.fsis.usda.gov/sites/default/files/import/Labeling-Policy-Book.pdf) and [labeling requirements guide](https://www.fsis.usda.gov/sites/default/files/media_file/2021-07/Labeling_Requirements_Guide.pdf).
 
-![](https://beefnews.org/wp-content/uploads/2025/10/image-1-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/10/image-1-1024x576.png)
 
 Why? Because **Mandatory Country of Origin Labeling (MCOOL)** was repealed in 2015. The law—passed in the 2008 Farm Bill—was [struck down](https://www.congress.gov/bill/110th-congress/house-bill/2419) after WTO complaints triggered a $1 billion tariff threat from Canada and Mexico.
 
@@ -45,7 +45,7 @@ In March 2024, USDA issued a [new voluntary rule](https://www.federalregister.go
 
 Until then, the packers enjoy free rein. According to Cargill’s own [supply chain disclosure](https://www.cargill.com/news/supply-chains-act-disclosure), imported beef is relabeled and sold as American daily. USDA keeps inspecting. Small producers keep waiting.
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](https://betterfedfoods.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](https://betterfedfoods.com)
 
 Please support our partner.
 
@@ -67,7 +67,7 @@ Why? Because four firms—Tyson, JBS, Cargill, and National—control [85% of U.
 
 The financial pressure isn’t theoretical—**it’s on the books.**
 
-![](https://beefnews.org/wp-content/uploads/2025/10/image-1024x643.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/10/image-1024x643.png)
 
 Source: [US Courts](https://www.uscourts.gov/data-news/judiciary-news/2025/07/31/bankruptcy-filings-rise-115-percent-over-previous-year)
 

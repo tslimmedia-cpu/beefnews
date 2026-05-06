@@ -3,7 +3,7 @@ title: "“The Profit Disappeared”: Inside Brazil's Meat-for-Gadgets Cartel Tr
 pubDate: 2025-08-05
 author: "Beef News"
 excerpt: "How JBS, China, and a U.S. loophole engineered a meat monopoly—until a 50% Trump tariff threatened to break it."
-image: "https://beefnews.org/wp-content/uploads/2025/08/image-5.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-5.png"
 category: "Business"
 tags: ["Boi China", "Deforestation", "JBS", "Mato Grosso", "Meat for Gadgets"]
 featured: false
@@ -20,13 +20,13 @@ This system was built in the ’90s: a legal tripod of **green rules, health cod
 
 Then came Trump’s **[50% tariff](https://beefnews.org/tariffs-please-jbs-already-bought-both-governments/)**—and for the first time, the pipeline cracked.
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
 
 Advertisement
 
 ###### A Free Market in Name Only
 
-![](https://beefnews.org/wp-content/uploads/2025/08/image-6-1024x505.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-6-1024x505.png)
 
 Source: [Scot Consultoria](https://www.scotconsultoria.com.br/noticias/mercado/55529/precos-do-boi-no-mundo.htm)
 
@@ -60,7 +60,7 @@ As small operations were buried under bureaucracy, JBS rose. By 2017, the compan
 
 [Unearthed](https://unearthed.greenpeace.org/2022/11/11/jbs-cattle-brazils-biggest-deforester-amazon/) later revealed that JBS **bought nearly 9,000 cattle from one of Brazil’s top illegal deforesters**—proving the rules only apply to outsiders.
 
-![](https://beefnews.org/wp-content/uploads/2025/08/image-7-1024x683.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-7-1024x683.png)
 
 A deforested area is seen on Fazenda Pedra Preta, which transferred 1,316 cattle directly to JBS slaughterhouses between March 2018 and July 2019. A Ministry of Labour inspection found workers living in conditions akin to slavery on Fazenda Pedra Preta in 2011. (Nilo D’Avila/Greenpeace)
 
@@ -77,7 +77,7 @@ And thanks to **“Boi China”**, JBS also names the price.
 
 **“Boi China”** (literally "**China Beef**") refers to cattle that meet China’s export standards—typically younger, Nellore breed bulls raised under strict sanitary conditions. These cattle can sell for **R$10–R$15 more per arroba** than regular stock, as confirmed by [2023 Brazilian coverage](https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2023/07/23/boi-china-e-cada-vez-mais-popular-no-rebanho-brasileiro.ghtml).
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](https://westonaprice.org)
 
 Advertisement
 
@@ -94,7 +94,7 @@ In short: **no matter where you raise it, JBS sells it.**
 
 ###### Meat for Gadgets, Dollars for Control
 
-![](https://beefnews.org/wp-content/uploads/2025/08/image-10-1024x614.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-10-1024x614.png)
 
 So where does all that beef go? **China.** But it’s not trade in any real sense—it’s **barter**.
 
@@ -114,7 +114,7 @@ The export pipeline **runs on U.S. dollars**—driven by the massive price gap b
 *“O esquema depende de dólares para lubrificar as engrenagens da corrupção.”****\
 "The whole scheme runs on dollars to grease the gears of corruption.***"
 
-![](https://beefnews.org/wp-content/uploads/2025/08/image-9-1024x610.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-9-1024x610.png)
 
 Brazil is by far the biggest exporter of beef to China – at the expense of the Amazon rainforest. Photograph: Paulo Santos/Reuters
 

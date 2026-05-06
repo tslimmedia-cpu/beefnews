@@ -3,7 +3,7 @@ title: "Leaning in on the messy parts"
 pubDate: 2024-06-15
 author: "Andrea Gorda"
 excerpt: "Ever felt out of place, as if you don't fit into a tidy box? Andrea from Pipcreek Farm shares her story of embracing life's contradictions. From childhood memories of storytelling to the gritty allure of rodeos, she explores the beauty in life's messy, overlapping narratives. Join her as she navigates the captivating, controversial world of rodeos, discovering the deep connections and community spirit that thrive amidst the chaos."
-image: "https://beefnews.org/wp-content/uploads/2024/06/leaningin.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/06/leaningin.jpg"
 category: "Cowboy Talk"
 tags: ["community", "photography", "Pipcreek Farm", "rodeo"]
 featured: false

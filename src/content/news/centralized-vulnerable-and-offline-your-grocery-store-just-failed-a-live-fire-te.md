@@ -3,7 +3,7 @@ title: "Centralized, Vulnerable, and Offline: Your Grocery Store Just Failed a L
 pubDate: 2025-06-19
 author: "Beef News"
 excerpt: "A June 5 cyberattack on United Natural Foods forced major supply disruptions across Whole Foods and 30,000 other retailers. Shoppers from Texas to Canada found frozen foods and staples missing—while the WEF’s warnings of a “cyber pandemic” suddenly looked less like theory. This wasn’t just a breach—it was a systems test, and the shelves failed."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-40.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-40.png"
 category: "Business"
 tags: ["Cyber Plandemic", "UNFI", "WEF", "Whole Foods"]
 featured: false
@@ -15,7 +15,7 @@ But this wasn’t just a supply hiccup. This was a systems test. And the system 
 
 ### A Central Node Goes Dark—and 30,000 Stores Feel It
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-41-1024x683.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-41-1024x683.png)
 
 Last week, UNFI confirmed a **“cyber incident”** disrupted operations across its network. The company hasn’t disclosed the exact nature of the breach, but internal systems went down hard enough to choke delivery schedules and disrupt distribution center operations. Whole Foods, the Amazon-owned organic retail darling, immediately reported **product shortages**.
 

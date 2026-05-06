@@ -3,7 +3,7 @@ title: "“INSIGNIFICANT”— That's What the Largest Meat Packer Just Called Y
 pubDate: 2025-07-31
 author: "Beef News"
 excerpt: "The tariff halted Brazil’s beef—but not the Brazilian meat giant behind it. JBS shifted production to its U.S. plants, raised prices, and tightened control while the market cheered a ban that changed nothing."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-142.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-142.png"
 category: "Business"
 tags: ["Brazil", "JBS", "Tariff", "tariffs", "Trump"]
 featured: false
@@ -15,7 +15,7 @@ Let’s be blunt: The name changed. The supply chain didn’t. **The cartel won.
 
 ###### Brazil Takes the Hit- But JBS Doesn't Bleed
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-136-1024x547.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-136-1024x547.png)
 
 Source: [White House](https://www.whitehouse.gov/presidential-actions/2025/07/addressing-threats-to-the-us/)
 
@@ -25,13 +25,13 @@ But JBS stock? **[Up 0.4%](https://www.google.com/finance/quote/JBS:NYSE?sa=X&ve
 
 Why?
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](https://westonaprice.org)
 
 Advertisement
 
 ###### JBS Already Owns America's Meat Rack
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-143.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-143.png)
 
 The Batista Brothers of JBS
 
@@ -64,7 +64,7 @@ American families, buying inflated beef. American ranchers, still forced to fund
 
 ###### The Fallacy of "Buy American"- When JBS *is* American Beef
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-138-1024x683.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-138-1024x683.png)
 
 Let’s connect the dots:
 
@@ -77,7 +77,7 @@ So when the press says “Brazil loses,” what they mean is: **“JBS Brazil pi
 
 ###### JBS didn’t lose. It Relocated.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-139.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-139.png)
 
 **It leveraged the tariff** to kill off import rivals and lock in **domestic dominance**.
 

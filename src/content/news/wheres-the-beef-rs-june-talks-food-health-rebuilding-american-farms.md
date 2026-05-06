@@ -3,7 +3,7 @@ title: "Where’s the Beef? RS June Talks Food, Health &amp; Rebuilding American
 pubDate: 2025-03-20
 author: "Beef News"
 excerpt: "RS \"Ruffshot\" June joins Mommy Heal Thyself to expose how the modern food system has disconnected families from real nutrition—and how regenerative beef can restore health and community. From BeefMaps.com to peer-to-peer rancher connections, June explains why saving American farms is the key to securing your plate. Listen now to learn how quality beef, direct from ranchers, is the missing link to food sovereignty."
-image: "https://beefnews.org/wp-content/uploads/2024/11/image-39.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-39.png"
 category: "Beef Maps"
 tags: ["Dr. Michelle Gamble", "Inner City Health", "Mommy Heal Thyself"]
 featured: false

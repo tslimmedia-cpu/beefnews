@@ -3,7 +3,7 @@ title: "DEPORT JBS: The Cartel-Linked Meat Giant Hiding in Plain Sight"
 pubDate: 2025-07-11
 author: "Beef News"
 excerpt: "JBS bribed its way into American meatpacking, launders cartel-taxed cattle through Mexico, and now collects taxpayer cash to feed U.S. schools. Their IPO gives Wall Street access to a criminal enterprise built on foreign corruption, domestic child labor, and the destruction of independent ranchers. This isn’t just a beef monopoly—it’s a cartel hiding behind a USDA stamp."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-43.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-43.png"
 category: "Business"
 tags: ["Batista Brothers", "Cattle Laundering", "JBS", "Mike Calicrate", "NYSE", "USDA"]
 featured: false
@@ -17,7 +17,7 @@ Now it’s trading on the **[New York Stock Exchange](https://www.nyse.com/quote
 
 ###### **They Bribed 1,800 Politicians—and Bought Our Food System**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-36-1024x683.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-36-1024x683.png)
 
 The Batista Brothers
 
@@ -27,7 +27,7 @@ The loans were used to **acquire Swift, Pilgrim’s Pride, and [other U.S. meat 
 
 In total, JBS paid over **$3.4 billion in corruption-related fines**. But despite the scale of its admitted crimes, JBS has **never been banned from doing business with the U.S. government**.
 
-![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)
+![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)
 
 Advertisement
 
@@ -35,7 +35,7 @@ Advertisement
 
 According to a 2022 investigation by [InSight Crime](https://insightcrime.org/wp-content/uploads/2022/05/Cash-Cows-The-Inner-Workings-of-Cattle-Trafficking-from-Central-America-to-Mexico-InSight-Crime-May-2022.pdf), the **Cártel de Jalisco Nueva Generación (CJNG)** imposes a **5-peso-per-kilo tax on cattle** destined for the U.S. export market. These cattle are funneled through **Mexico’s formal traceability system**, often with **forged health certificates** and corrupt oversight from livestock officials.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-39-1024x803.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-39-1024x803.png)
 
 Source: [InSight Crime](https://insightcrime.org/wp-content/uploads/2022/05/Cash-Cows-The-Inner-Workings-of-Cattle-Trafficking-from-Central-America-to-Mexico-InSight-Crime-May-2022.pdf)
 
@@ -52,7 +52,7 @@ https://beefnews.org/labeled-legal-raised-by-narcos-what-the-usda-wont-tell-you-
 
 ###### **The RFID Illusion: What Uruguay’s Phantom Cow Scandal Means for the U.S.**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-44-1024x684.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-44-1024x684.png)
 
 Source: [Reuters](https://www.reuters.com/world/americas/phantom-cows-missing-millions-spark-financial-scandal-uruguay-2025-05-17/)
 
@@ -66,7 +66,7 @@ The USDA finalized a [similar RFID mandate](https://www.aphis.usda.gov/news/agen
 
 ###### **Taxpayer-Funded Felony: USDA Keeps Writing Checks**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-41.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-41.png)
 
 JBS has received **[hundreds of millions in USDA contracts](https://apnews.com/general-news-d6dcbfa7ebcb4842b9ad49e44615c5e0)**, including payments to supply meat to:
 
@@ -88,7 +88,7 @@ Callicrate’s story isn’t unique. JBS’s rise **eliminated market access for
 
 ###### **ILLEGAL CHILD LABOR: A US CRIME THAT SHOULD HAVE STOPPED IT ALL**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-42.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-42.png)
 
 Investigations showed rampant child labor abuse across the midwest
 
@@ -98,7 +98,7 @@ Let that sink in: a **U.S.-based subsidiary of a foreign corrupt giant was fined
 
 ###### **NYSE-Listed, Cartel-Adjacent**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-37.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-37.png)
 
 Source: [Bloomberg](https://www.bloomberglinea.com/brandedcontent/ze-mineiro-rings-the-bell-to-mark-jbss-listing-on-the-nyse/)
 
@@ -110,7 +110,7 @@ Meanwhile, U.S. investors—including public pension funds—are now **financial
 
 ###### **The Legal Exposure Is Real**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/screenshot-2025-07-09-at-2.25.42 pm-1024x814.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/screenshot-2025-07-09-at-2.25.42 pm-1024x814.png)
 
 From the USDA's [Farm Security is National Security](https://www.usda.gov/about-usda/news/press-releases/2025/07/08/farm-security-national-security-trump-administration-takes-bold-action-elevate-american-agriculture)
 
@@ -126,7 +126,7 @@ JBS is cashing checks from the government.
 
 ###### **They Killed the Competition—Then Took the Plant**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-38-1024x537.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-38-1024x537.png)
 
 Source: [A More Perfect Union](https://www.youtube.com/watch?v=hRTfk4Y8tws&ab_channel=MorePerfectUnion)
 
@@ -141,7 +141,7 @@ https://twitter.com/beefinitiative/status/1943379548688547910
 
 ###### **Delist JBS Now**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-43-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-43-1024x576.png)
 
 Source: [Agriculture Dive](https://www.agriculturedive.com/news/jbs-batista-brothers-reinstated-board-ipo/714592/)
 

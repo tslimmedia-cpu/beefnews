@@ -3,7 +3,7 @@ title: "They Rigged the Market, Printed the Money—Then Blamed the Rancher"
 pubDate: 2025-08-21
 author: "Beef News"
 excerpt: "The beef industry isn’t broken—it’s rigged. Foreign-owned meatpackers fixed prices, crushed ranchers, printed money, and still got you to blame the last honest man in the system."
-image: "https://beefnews.org/wp-content/uploads/2025/08/ad_4nxcz7qweemv5aab0rlrr8q86_lonz1lmtz9abgyss-rtq9xdejvtbqmpsjfxuc2a5ep1hb9wrxiwfroiiwsdayktdtvq8e8s4f5egr9tdhigczbsgfjw9ncgcusfdap_wvkwjtwmfg.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxcz7qweemv5aab0rlrr8q86_lonz1lmtz9abgyss-rtq9xdejvtbqmpsjfxuc2a5ep1hb9wrxiwfroiiwsdayktdtvq8e8s4f5egr9tdhigczbsgfjw9ncgcusfdap_wvkwjtwmfg.png"
 category: "Business"
 tags: ["Bitcoin", "Cartels", "Cole Bolton", "Crime", "Mental Health", "NCBA", "Smuggling", "Suicide"]
 featured: false
@@ -17,11 +17,11 @@ But **behind every overpriced steak is a rigged cartel**—and behind every bank
 
 Farmers now face a **suicide rate** [**3.5x higher**](https://stacks.cdc.gov/view/cdc/84275) **than the national average**.
 
-[![](https://beefnews.org/wp-content/uploads/2025/08/ad_4nxcz7qweemv5aab0rlrr8q86_lonz1lmtz9abgyss-rtq9xdejvtbqmpsjfxuc2a5ep1hb9wrxiwfroiiwsdayktdtvq8e8s4f5egr9tdhigczbsgfjw9ncgcusfdap_wvkwjtwmfg.png)](https://stacks.cdc.gov/view/cdc/84275)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxcz7qweemv5aab0rlrr8q86_lonz1lmtz9abgyss-rtq9xdejvtbqmpsjfxuc2a5ep1hb9wrxiwfroiiwsdayktdtvq8e8s4f5egr9tdhigczbsgfjw9ncgcusfdap_wvkwjtwmfg.png)](https://stacks.cdc.gov/view/cdc/84275)
 
 Source: [CDC](https://stacks.cdc.gov/view/cdc/84275)
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
 
 Please support our partner.
 
@@ -33,7 +33,7 @@ The Big Four—**Tyson, JBS, Cargill, National Beef**—aren’t just dominant. 
 
 Controlling **85% of fed cattle slaughter**, they dictate prices, suppress competition, and extract profits from every level of the food chain.
 
-[![](https://beefnews.org/wp-content/uploads/2025/08/image-20.png)](https://data.ers.usda.gov/reports.aspx?ID=4045)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-20.png)](https://data.ers.usda.gov/reports.aspx?ID=4045)
 
 Source: [USDA](https://data.ers.usda.gov/reports.aspx?ID=4045)
 
@@ -41,13 +41,13 @@ Meanwhile, [**ranchers keep less than 35% of the beef dollar**](https://www.ers.
 
 And Brazil’s **JBS**—backed by [**corruption charges**, **Amazon deforestation**, and **laundered cattle**](https://beefnews.org/delist-jbs-the-cartel-linked-meat-giant-hiding-in-plain-sight/)—just keeps growing. In 2025, they’re still flooding U.S. shelves under a *[bullsh\*t](https://beefnews.org/red-white-and-bullsht-how-the-wto-turned-product-of-usa-into-a-globalist-scam/)* **“Product of USA”** label.
 
-![](https://beefnews.org/wp-content/uploads/2025/08/ad_4nxcz1-ml_7f229bx5ufzl1eulxuods3xdxoc2nvumlndsm7ml0y9k9l_c8gmahwv0qhz9jf2-c4dqm0p9uouicfnv9jybeyxruump6iqszeboqjescefvvnjwwlkls5scpl9hlj6.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxcz1-ml_7f229bx5ufzl1eulxuods3xdxoc2nvumlndsm7ml0y9k9l_c8gmahwv0qhz9jf2-c4dqm0p9uouicfnv9jybeyxruump6iqszeboqjescefvvnjwwlkls5scpl9hlj6.png)
 
 Source: InSight Crime
 
 https://beefnews.org/delist-jbs-the-cartel-linked-meat-giant-hiding-in-plain-sight/
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](https://westonaprice.org)
 
 Please support our partner.
 
@@ -81,7 +81,7 @@ https://beefnews.org/red-white-and-bullsht-how-the-wto-turned-product-of-usa-int
 
 Through the $1/head [**Beef Checkoff Program**](https://beefnews.org/sell-a-cow-fund-the-enemy-welcome-to-the-beef-checkoff/), small producers are **forced to fund the same lobbying groups that prop up the cartel.**
 
-![](https://beefnews.org/wp-content/uploads/2025/08/ad_4nxeci5ibkjoqkueyfeph41di3bup3ee9qzy0jwifshnzlmdg1yrrobc5nupnkg_yu81cajuq46cv5qbaq1sockl-mzn39wjofpktc0rg0ot9m94rkhmsslbhl6moaaamc9mohtwh.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxeci5ibkjoqkueyfeph41di3bup3ee9qzy0jwifshnzlmdg1yrrobc5nupnkg_yu81cajuq46cv5qbaq1sockl-mzn39wjofpktc0rg0ot9m94rkhmsslbhl6moaaamc9mohtwh.png)
 
 Source: [USDA Office of Inspector General](https://usdaoig.oversight.gov/sites/default/files/reports/2022-03/01099-0001-21.pdf)
 
@@ -93,7 +93,7 @@ https://beefnews.org/sell-a-cow-fund-the-enemy-welcome-to-the-beef-checkoff/
 
 **Enforcement? A Joke.**
 
-![](https://beefnews.org/wp-content/uploads/2025/08/ad_4nxdrpxiil8a9ifw55djzt9ap44kcomrgyphjlgjyxag0j_ym0fouto0fw4_slmt4gpglgtrqyrbbb7f3j0iwgiqkkuc_fywwbdm9cj8zah41nl3sqpcjtuz0bty7ksq71bdfxkg69g.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxdrpxiil8a9ifw55djzt9ap44kcomrgyphjlgjyxag0j_ym0fouto0fw4_slmt4gpglgtrqyrbbb7f3j0iwgiqkkuc_fywwbdm9cj8zah41nl3sqpcjtuz0bty7ksq71bdfxkg69g.png)
 
 Figure 1. Value of Livestock Purchased by Packers, Dealers, and Market Agencies Buying on Commission, and Value of Livestock Sold Through Market Agencies Selling on Commission, 2012–2021 (Source: [USDA](https://www.ams.usda.gov/sites/default/files/media/PackersandStockyards2021_2022ReporttoCongress.pdf))
 
@@ -107,7 +107,7 @@ USDA wage investigations? [Ongoing.](https://investigatemidwest.org/2024/08/16/t
 
 ###### **Sound Money, Real Beef**
 
-![](https://beefnews.org/wp-content/uploads/2025/08/ad_4nxeckn2lomibrge7ptpzmgo14ut9vw56un8_9hofdyzwfitdhhquldzl7xjnmvphvimdw7y-muzkpcjkmtxfpby_pkhpck_hokkolcbn91qwa7wklulkg21dbm8m-gtgszol5v0ukq.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxeckn2lomibrge7ptpzmgo14ut9vw56un8_9hofdyzwfitdhhquldzl7xjnmvphvimdw7y-muzkpcjkmtxfpby_pkhpck_hokkolcbn91qwa7wklulkg21dbm8m-gtgszol5v0ukq.png)
 
 Source: [The Beef Initiative at Bitcoin Conference 2024 in Nashville](https://youtu.be/5N8mpD8zfZs)
 

@@ -3,7 +3,7 @@ title: "The Road to Bitcoin Park: Building Out a Decentralized Future for Americ
 pubDate: 2024-10-31
 author: "RS June"
 excerpt: "Our journey to Bitcoin Park marked a key step in decentralizing the American food system, one handshake at a time. This wasn’t about marketing but building trust, as we met allies dedicated to restoring integrity to American beef. Facing caution and curiosity in Nashville, we pressed forward, committed to reconnecting communities to honest, local food sources."
-image: "https://beefnews.org/wp-content/uploads/2024/10/TheRoadToBitcoinPark.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/TheRoadToBitcoinPark.jpg"
 category: "Beef Maps"
 tags: []
 featured: false
@@ -13,7 +13,7 @@ Our journey has been driven by grit, purpose, and a vision to connect people wit
 
 As Slim puts it: *"They've broken trust at every layer… Your relationship to your food starts with the land and with the people who tend it."* This journey is about reclaiming that trust, one connection at a time, as we build decentralized pathways back to the source of the seed of American culture: The Great American Rancher.
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-38-1024x341.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-38-1024x341.png)
 
 ### Entering Bitcoin Park: Decentralized Food meets Decentralized Money
 
@@ -23,7 +23,7 @@ https://beefnews.org/cobank-report-the-beef-initiative-is-saving-cattle-industry
 
 Slim’s approach was straightforward, laying out our structure as a decentralized brand—a brand designed to resist corporate capture and protect the communities we care about. **Texas Slim isn’t just a name; it’s a banner, a rallying call for anyone tired of large corporations dictating what’s on their plate.** Bitcoin Park became a testing ground, a place to solidify our approach and see who resonated with this vision.
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-39-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-39-1024x576.png)
 
 ### Building Trust and Allies, One Handshake at a Time
 
@@ -31,28 +31,28 @@ Every handshake on this trip is a part of our proof-of-work. This wasn’t a con
 
 The challenges were real, but so was the mission. Slim’s whiteboard sessions weren’t about signing up ranchers or consumers; they were about aligning with people who saw the future the way we did—a future where decentralized, local food systems stand strong against multinational monopolies.
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-40-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-40-1024x576.png)
 
 ### Nashville’s Unique Challenge: The Gap in Local Beef Access
 
 Nashville threw us a curveball. It was one of the few stops where we didn’t have access to clean, local beef—a stark reminder of the gaps that still exist even in places rich with food culture. We met Zane Griggs a year later, who introduced us to [Hext Quality Meat](https://www.hextqualitymeat.com/). Their mission? To deliver local, premium-quality meat to Tennessee homes, processed humanely and raised on pasture.
 
-[![](https://beefnews.org/wp-content/uploads/2024/10/image-41-1024x576.png)](https://www.hextqualitymeat.com/)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-41-1024x576.png)](https://www.hextqualitymeat.com/)
 
 #### From Hext Quality Meat’s About Page:
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-42.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-42.png)
 > *“The hands of our operations are composed of collective families that date back multiple generations… Our mission is to deliver local premium quality meat to your home.”*
 
 Hext’s approach is simple but rare: animals are pasture-raised with rotational grazing, processed without additives or dyes, and they make the most of every part. With their product, as they say, the quality speaks for itself.
 
-[![](https://beefnews.org/wp-content/uploads/2024/10/image-43.png)](https://www.instagram.com/zanegriggsfitness/reel/C-GVhQguPgw/)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-43.png)](https://www.instagram.com/zanegriggsfitness/reel/C-GVhQguPgw/)
 
 [Zane Griggs interviews Texas Slim at the Cattleman's Feast in Nashville](https://www.instagram.com/zanegriggsfitness/reel/C-GVhQguPgw)
 
 During the Cattleman's Feast in Nashville, Zane personally donated $500 to the I Am Texas Slim Foundation to support Hext’s mission—a gesture that was symbolic, [a nod to this alliance that had just begun](https://www.youtube.com/watch?v=zgEsVnj9y7A&ab_channel=HealthyAF%7CHealthyAfter50%7CFitness%2CLongevity). This essay marks the very beginning of that journey. The docuseries will bring Hext’s story to light, showcasing how one rancher stands as a model for decentralized, clean meat in a city like Nashville.
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-44-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-44-1024x576.png)
 
 ### Reflecting on Resistance and the Power of Persistence
 

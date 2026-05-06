@@ -3,7 +3,7 @@ title: "CoBank Report: The Beef Initiative is Saving the Cattle Industry - Lower
 pubDate: 2024-08-29
 author: "Breeauna Sagdal"
 excerpt: "Beef Cow Recovery Slows, But Texas Slim's Fire Relief Efforts Offer New Hope for Ranchers—See How Strategic Actions Are Paving the Way for a Brighter Future in American Beef Production."
-image: "https://beefnews.org/wp-content/uploads/2024/08/texasfirerelief-reseeding.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/texasfirerelief-reseeding.jpg"
 category: "Business"
 tags: ["Texas Fire Relief"]
 featured: false
@@ -23,7 +23,7 @@ When fires swept through the Texas Panhandle, following two years of droughts, T
 
 Slim says his next call was to Cal at 4F Outfitters. “Cal had informed me that 12 tons of seed had been donated, and I had the A+, so it seemed like a good time to make history,” Slim said.
 
-![](https://beefnews.org/wp-content/uploads/2024/08/image-9-1024x655.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/image-9-1024x655.png)
 
 A grass re-seeding helicopter takes off in West Texas. Photographed by Texas Slim.
 
@@ -37,8 +37,8 @@ Higher hay prices over the last few years appear to be evening out, allowing cow
 
 Support regenerative ranching with our Feeding Forwardn Collection! Each box not only delivers premium, locally-sourced beef to your door but also gives ranchers the tax-deductible boost they need to keep rebuilding. Your purchase fuels sustainable agriculture and helps secure the future of independent ranching—order now and make a difference.
 
-[![](https://beefnews.org/wp-content/uploads/2024/08/image-12.png)](https://beefinitiative.com/pages/iatsbeef)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/image-12.png)](https://beefinitiative.com/pages/iatsbeef)
 
-[![](https://beefnews.org/wp-content/uploads/2024/08/image-13.png)](https://beefinitiative.com/pages/iatsbeef)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/image-13.png)](https://beefinitiative.com/pages/iatsbeef)
 
-[![](https://beefnews.org/wp-content/uploads/2024/08/image-14.png)](https://beefinitiative.com/pages/iatsbeef)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/image-14.png)](https://beefinitiative.com/pages/iatsbeef)

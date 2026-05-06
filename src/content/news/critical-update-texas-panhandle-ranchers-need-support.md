@@ -3,13 +3,13 @@ title: "Critical Update from the Texas Panhandle: Ranchers in Desperate Need of 
 pubDate: 2024-10-24
 author: "Beef News"
 excerpt: "Natalie Meeks of Cattle Mafia and Lee Wells are rallying support for ranchers in the Texas Panhandle, who are facing bureaucratic failures amidst wildfire recovery efforts. With the I Am Texas Slim Foundation stepping in, they're delivering essential supplies and calling for urgent community action."
-image: "https://beefnews.org/wp-content/uploads/2024/10/firerelief.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/firerelief.jpg"
 category: "I Am Texas Slim Foundation 501(c)(3)"
 tags: ["Cattle Mafia", "Lee Wells", "Texas Fire Relief"]
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-27.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-27.png)
 
 Natalie Meeks and Lee Wells at the Premiere of [We're Here](https://youtu.be/3g5OSbzHCmA)
 
@@ -19,7 +19,7 @@ Natalie Meeks and Lee Wells at the Premiere of [We're Here](https://youtu.be/3g5
 
 ## **Update from Lee Wells on the Front Lines of Texas Wildfire Relief**
 
-[![](https://beefnews.org/wp-content/uploads/2024/10/image-29-800x1024.png)](https://www.facebook.com/share/p/aZdpJTfhqT4f7CGn)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-29-800x1024.png)](https://www.facebook.com/share/p/aZdpJTfhqT4f7CGn)
 
 <https://www.facebook.com/share/p/aZdpJTfhqT4f7CGn>
 

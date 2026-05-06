@@ -3,7 +3,7 @@ title: "“That’s Not Policy. That’s Surrender.” – NCBA Confronted Live 
 pubDate: 2025-07-01
 author: "Beef News"
 excerpt: "Trent Loos didn’t hold back. In a live showdown with NCBA’s Ethan Lane, he exposed how federal tax breaks and industry silence are fueling AI land grabs and carbon pipeline seizures across rural America. While the beef lobby fixates on estate tax relief, local control is being stripped county by county."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image.png"
 category: "Business"
 tags: ["Carbon Pipeline", "Ethan Lane", "NCBA", "Trent Loos"]
 featured: false
@@ -23,7 +23,7 @@ Loos wasn’t buying it.
 
 ---
 
-![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)
+![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)
 
 Advertisement
 

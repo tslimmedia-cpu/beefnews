@@ -3,7 +3,7 @@ title: "The Infinite Note: How the Fed Turned Texas Cattle into Collateral Forev
 pubDate: 2025-12-02
 author: "Texas Slim"
 excerpt: "A 90-day cattle note in 1914 became a 50-year obligation by 1933—rolled, bundled, and refinanced under federal contract. This is how finite cow paper turned into a permanent debt engine that trapped American ranchers for generations."
-image: "https://beefnews.org/wp-content/uploads/2025/12/img_0528.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/12/img_0528.png"
 category: "Farm Policy"
 tags: []
 featured: false
@@ -13,7 +13,7 @@ Before the Federal Reserve, a cattle loan was exactly that: a short-term note ti
 
 That changed on December 23, 1913, when the **Federal Reserve Act** passed. Buried in its core was a quiet revolution: Section 13 allowed banks to **rediscount “agricultural paper” with only 40% reserves**, meaning short-term livestock loans could now be sold up the chain to regional Fed banks. **Cattle debt had just become liquid—tradeable, renewable, and elastic.**
 
-[![](https://beefnews.org/wp-content/uploads/2025/12/img_845307745f52-1-1024x635.jpeg)](Https://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/12/img_845307745f52-1-1024x635.jpeg)](Https://iamtexasslim.org)
 
 Please Support our Partner
 
@@ -25,7 +25,7 @@ Once the rules changed, debt didn’t have to die. It just had to roll.
 
 ###### **Land and Cattle, Locked Together**
 
-![](https://beefnews.org/wp-content/uploads/2025/12/img_0526.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/12/img_0526.jpeg)
 
 *Image courtesy Library of Congress Prints and Photographs Division Washington, D.C*
 
@@ -35,7 +35,7 @@ The second phase began with the **Federal Farm Loan Act of 1916**, which establi
 
 In 1917, the Houston FLB issued its first loan in Texas: **$1,200 to W.S. Smith in Grayson County**, secured by land and **200 head of cattle**. The loan carried a 5% interest rate over a 40-year term. Smith had just signed the first hybrid—**a cattle mortgage disguised as a land deal**.
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](HTTPS://betterfedfoods.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](HTTPS://betterfedfoods.com)
 
 Please support our partner.
 
@@ -45,7 +45,7 @@ Roughly **one-fifth of early FLB loans show missing chattel schedules**, especia
 
 ###### **The Good Times on Paper**
 
-![](https://beefnews.org/wp-content/uploads/2025/12/img_0527-1024x902.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/12/img_0527-1024x902.jpeg)
 
 Source: USDA
 
@@ -59,7 +59,7 @@ The illusion of solvency held because **the Fed’s system didn’t require clos
 
 ###### **The Collapse**
 
-![](https://beefnews.org/wp-content/uploads/2025/12/img_0529-1-1024x806.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/12/img_0529-1-1024x806.png)
 
 *Displaced Tenant Farmers, Goodlet, Hardeman County, Texas by Dorothea Lange*
 

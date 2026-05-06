@@ -3,7 +3,7 @@ title: "Challenges and Advocacy in the Meat Processing Industry (Part 1)"
 pubDate: 2024-03-24
 author: "Beef News"
 excerpt: "The meat processing industry is currently navigating a turbulent landscape, where small processors and growers find themselves disproportionately impacted by systemic challenges. At the heart of these challenges lies…"
-image: "https://beefnews.org/wp-content/uploads/2024/04/tscn112-hero-slim-justin-scaled.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/tscn112-hero-slim-justin-scaled.jpeg"
 category: "Texas Slim's Community Newsletter"
 tags: []
 featured: false
@@ -17,7 +17,7 @@ To join in these advocacy efforts and support initiatives making a tangible diff
 
 ### The USDA Tournament System: A Framework of Inequity
 
-![The USDA Tournament System](https://beefnews.org/wp-content/uploads/2024/04/usda.jpg)
+![The USDA Tournament System](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/usda.jpg)
 
 During our X Spaces titled '“[EPA Regulations and the Future of Meat Processing](https://twitter.com/i/spaces/1ynKOyNDkbqJR)” earlier this week, Breeauna Sagdal shined a spotlight on the [USDA Tournament System](https://www.federalregister.gov/documents/2022/06/08/2022-11998/poultry-growing-tournament-systems-fairness-and-related-concerns), revealing it as a competitive scheme that [unfairly pits contract poultry growers against each other](https://civileats.com/2022/08/16/op-ed-justice-department-poultry-industry-tournament-payment-chicken-farmers-contracts-usda/). In this system, growers' income is significantly influenced by variables beyond their control, resulting in a scenario where the scales are tipped in favor of large poultry producers. This not only places an undue burden on small farmers but also exposes the pressing need for systemic reforms to level the playing field.
 
@@ -25,7 +25,7 @@ During our X Spaces titled '“[EPA Regulations and the Future of Meat Processin
 
 Parallel to Sagdal's critique, Justin Trammell's work with the [Farm and Ranch Freedom Alliance](https://farmandranchfreedom.org/) (FARFA) underscores the daunting regulatory obstacles small meat processors face. Trammell's advocacy is deeply rooted in personal experience and a profound understanding of the barriers that small-scale operations encounter. Through FARFA, Trammell and his colleagues advocate for policy adjustments that would mitigate these challenges, promoting an environment where small processors can thrive, thereby ensuring the sector's diversity and resilience.
 
-![FARFA](https://beefnews.org/wp-content/uploads/2024/04/farfa.jpg)
+![FARFA](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/farfa.jpg)
 
 ### The Call for Equitable Treatment and Systemic Reform
 
@@ -33,7 +33,7 @@ The initial stages of advocacy have already sparked discussions and [led to som
 
 ### Towards a New American Beef Industry
 
-![New American Beef](https://beefnews.org/wp-content/uploads/2024/04/newamericanbeef-1024x1024.jpg)
+![New American Beef](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/newamericanbeef-1024x1024.jpg)
 
 As we conclude the first part of our exploration into the meat processing industry's current state, it's clear that while significant strides have been made, the road to achieving true equity and sustainability is long and fraught with challenges. The collective efforts of advocates, organizations, and individuals such as those involved with the I Am Texas Slim Foundation and Texas Fire Relief, including support for initiatives like the Orphan Calves program (more in the coming weeks), are instrumental in this ongoing battle for fairness.
 
@@ -43,4 +43,4 @@ Stay tuned for Part 2, where we delve deeper into the legislative actions, commu
 
 ### Gift Guide from:
 
-[![Clara Fritz Logo](https://beefnews.org/wp-content/uploads/2024/04/clara_fritz_logo.png)](https://beefinitiative.com/pages/clara-amp-fritz)
+[![Clara Fritz Logo](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/clara_fritz_logo.png)](https://beefinitiative.com/pages/clara-amp-fritz)

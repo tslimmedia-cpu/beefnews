@@ -3,7 +3,7 @@ title: "The Future of Beef and Bitcoin: Building a Decentralized Cattle Industry
 pubDate: 2025-02-18
 author: "Beef News"
 excerpt: "The Beef Initiative is forging a new path for ranchers, using Bitcoin and peer-to-peer technology to break free from multinational packers and government control. In a live Twitter Space hosted by MrWagmi, Texas Slim, June, and partners laid out their vision for decentralizing the beef supply chain and protecting family farms. From Bitcoin-funded herd expansions to a growing global map of ranchers, this conversation reveals how ranchers are reclaiming their independence—one cow, one handshake, and one Bitcoin transaction at a time."
-image: "https://beefnews.org/wp-content/uploads/2025/02/image-11.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/02/image-11.png"
 category: "Business"
 tags: ["Bitcoin", "CBDC", "Mr. Wagmi", "Stacks"]
 featured: false

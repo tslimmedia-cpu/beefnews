@@ -3,7 +3,7 @@ title: "The Border Reopens—America’s Herds Be Damned"
 pubDate: 2025-07-07
 author: "Beef News"
 excerpt: "As the USDA reopens the southern cattle border, a deeper fight is playing out behind the scenes—between independent producers defending herd health and industry giants chasing cheap imports. Groups like R-CALF USA are demanding biosecurity and accountability, while trade-aligned voices frame it all as “helping small producers.” But the numbers—and the power—tell a different story."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-34.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-34.png"
 category: "Business"
 tags: ["NCBA", "NWS", "R-CALF", "RCALF"]
 featured: false
@@ -19,7 +19,7 @@ https://twitter.com/FDGenetics/status/1941582561978814843
 
 ### Reopening the Border: A Political Move Dressed as Science
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-34-1024x683.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-34-1024x683.png)
 
 *A worker at the Unión Ganadera Regional de Chihuahua on the U.S.-Mexico border guides newly arrived cattle into the proper pen. Photo by Sandra Sadek for Puente News Collaborative*
 
@@ -27,13 +27,13 @@ The New World Screwworm (NWS) is a [flesh-eating parasite](https://beefnews.org/
 
 But the parasite has surged back. In 2023, [Panama](https://www.aphis.usda.gov/livestock-poultry-disease/cattle/ticks/screwworm/outbreak-central-america) reported over 6,500 screwworm cases, up from an annual average of 25. By early 2025, infestations had spread through Central America and into Mexico, reaching as far north as Oaxaca and Veracruz.
 
-![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)
+![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)
 
 Advertisement
 
 In response, the USDA [suspended imports](https://www.usda.gov/about-usda/news/press-releases/2025/05/11/secretary-rollins-suspends-live-animal-imports-through-ports-entry-along-southern-border-effective) of cattle, bison, and equines in May 2025. The move aligned with warnings from R-CALF USA and others who cited the historical risk of reintroduction—an event that, in 1976 alone, cost Texas producers the equivalent of [$732 million](https://www.aphis.usda.gov/sites/default/files/nws-historical-economic-impact.pdf) in today’s dollars.
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/image-29.png)](https://www.aphis.usda.gov/sites/default/files/nws-historical-economic-impact.pdf)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-29.png)](https://www.aphis.usda.gov/sites/default/files/nws-historical-economic-impact.pdf)
 
 Source: [USDA](https://www.aphis.usda.gov/sites/default/files/nws-historical-economic-impact.pdf)
 
@@ -51,7 +51,7 @@ https://twitter.com/JulioBerdegue/status/1941540935214694738
 
 Not the family rancher running a closed herd in Montana, Nebraska, or Texas. Not the cow-calf operator calving on native pasture and finishing local. Those ranchers need **fair markets, reliable local processing, and biosecurity protections**—not foreign feeders.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-30.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-30.png)
 
 Cactus Feeders in Amarillo, TX is home to 500,000 cattle. Many from Mexico.
 
@@ -73,7 +73,7 @@ But the underlying risk hasn’t disappeared.
 
 Screwworms don’t respect livestock-only barriers. They can travel in wildlife, pets, [even human hosts](https://www.cdc.gov/myiasis/hcp/clinical-overview/index.html). Surveillance may detect symptoms—but not until after the spread has begun. And unlike the NCBA or trade-aligned yards, it’s the independent producer who bears the cost of infestation, treatment, and loss.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-33-1024x538.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-33-1024x538.png)
 
 Image of New World Screwworm in Livestock from Meriweather Farms
 
@@ -91,7 +91,7 @@ They’ve:
 
 Their concern isn’t hypothetical. The national herd has already contracted by roughly [2% in 2025](https://downloads.usda.library.cornell.edu/usda-esmis/files/h702q636h/sf26b275x/h989sz55j/catl0125.pdf). Reintroducing screwworm under these conditions would be devastating.
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/image-31.png)](https://downloads.usda.library.cornell.edu/usda-esmis/files/h702q636h/sf26b275x/h989sz55j/catl0125.pdf)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-31.png)](https://downloads.usda.library.cornell.edu/usda-esmis/files/h702q636h/sf26b275x/h989sz55j/catl0125.pdf)
 
 Source: [USDA](https://downloads.usda.library.cornell.edu/usda-esmis/files/h702q636h/sf26b275x/h989sz55j/catl0125.pdf)
 

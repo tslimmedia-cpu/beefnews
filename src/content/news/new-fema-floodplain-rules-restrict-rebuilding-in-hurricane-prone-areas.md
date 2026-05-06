@@ -3,7 +3,7 @@ title: "New FEMA Floodplain Rules Restrict Rebuilding in Hurricane-Prone Areas"
 pubDate: 2024-10-18
 author: "Beef News"
 excerpt: "Effective September 9, 2024, FEMA's new floodplain rules dramatically limit rebuilding in areas impacted by recent hurricanes like Helene and Milton. The 1% floodplain rule will deem many residential, commercial, and agricultural structures unbuildable, severely impacting property owners. Agricultural communities are urged to consult FEMA's flood maps and local authorities to protect their land and livelihoods under these new regulations."
-image: "https://beefnews.org/wp-content/uploads/2024/10/floodplains.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/floodplains.jpg"
 category: "Farm Policy"
 tags: ["FEMA", "Helene", "National Flood Insurance"]
 featured: false

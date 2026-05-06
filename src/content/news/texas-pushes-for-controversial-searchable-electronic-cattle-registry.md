@@ -3,13 +3,13 @@ title: "Texas Pushes for Controversial, Searchable Electronic Cattle Registry"
 pubDate: 2025-04-16
 author: "Breeauna Sagdal"
 excerpt: "For decades, animal rights groups and media have painted ranchers in a negative light—portraying them as cruel, outdated, or inept. Now, this cultural smear campaign has seeped into public policy with Texas bills like HB 147 and HB 1417, proposing a centralized, searchable livestock brand database. Ranchers argue that such a system, under the guise of efficiency, could become a tool for surveillance, control, and forced compliance with global agendas."
-image: "https://beefnews.org/wp-content/uploads/2025/04/image-10.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/image-10.png"
 category: "Business"
 tags: []
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2025/04/AD_4nXcR5unQW0EI4ffNxBt8ljbelgUwwmn1E7KNgmAJyFtfZ-lsaKJn5Xvplnm9fr6-k2skEuMG9xMOl_WdVhKt_aF5YgQbiRwfuHC8CA7MEjTtF2H14rw0SFdk5sHn0OCHtkJPXLCjkQ.jpg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/AD_4nXcR5unQW0EI4ffNxBt8ljbelgUwwmn1E7KNgmAJyFtfZ-lsaKJn5Xvplnm9fr6-k2skEuMG9xMOl_WdVhKt_aF5YgQbiRwfuHC8CA7MEjTtF2H14rw0SFdk5sHn0OCHtkJPXLCjkQ.jpg)
 
 *“I Want You To Change” - Go Vegan PETA Ad Campaign.*
 

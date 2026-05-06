@@ -3,7 +3,7 @@ title: "Fight for Your Freedom with the Cattleman's Feast Special Guests!"
 pubDate: 2024-07-19
 author: "Beef News"
 excerpt: "Meet trailblazers like Texas Slim, Dennis Porter, Breeauna Sagdal, and Cole Bolton as they share insights on decentralized food systems, financial independence, and holistic health. Engage in dynamic discussions, savor the cleanest beef, and become part of a movement dedicated to sovereignty and community resilience. Don’t miss this unique event on July 26th-27th!"
-image: "https://beefnews.org/wp-content/uploads/2024/07/fightforyourfreedom.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/fightforyourfreedom.jpg"
 category: "I Am Texas Slim Foundation 501(c)(3)"
 tags: []
 featured: false
@@ -19,7 +19,7 @@ The Beef Initiative and the Cattleman's Feast present a new pathway built on sou
 
 Over two action-packed days, you'll savor the cleanest beef in the nation, engage with leaders who challenge the status quo, and explore innovative solutions that defy centralized control. [Join us in Nashville on July 26th-27th](https://beefinitiative.com/pages/bitcoin2024) to shake your rancher’s hand and discover how, together, we can build a healthier, freer, and more connected future. Let’s harness the energy of this politically charged moment to create something truly transformative and fun.
 
-![](https://beefnews.org/wp-content/uploads/2024/07/cf-poster2baker-791x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/cf-poster2baker-791x1024.png)
 
 ## Meet our guests:
 
@@ -51,7 +51,7 @@ Over two action-packed days, you'll savor the cleanest beef in the nation, engag
 
 **Tara Thornton**: Co-Founder of [Freedom Angels](https://www.freedom-angels.org/), Tara Thornton is a dedicated human and civil rights activist. Her work in advocating for liberty and justice is crucial in the broader movement for sovereignty, emphasizing the importance of individual rights and community empowerment.
 
-![](https://beefnews.org/wp-content/uploads/2024/07/image-8-898x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/image-8-898x1024.png)
 
 **Dustin Kittle**: An attorney and rancher [challenging the Farm Credit Administration](https://beefnews.org/farmers-v-biden-the-breaking-farm-credit-fiasco-that-nobody-is-prepared-for/), Dustin Kittle fights for farmers' rights and a more equitable agricultural system. His efforts support the sustainable food movement championed by the Cattleman’s Feast, ensuring fair access to resources for ranchers.
 
@@ -114,5 +114,5 @@ By bringing together leaders from these various disciplines, the Cattleman's Fea
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f2bc859-01fc-4a94-97e5-67cf52214c7e_1520x639.png)](https://www.remangus.com/index.html)
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba4902f4-1095-4133-9deb-a9c98552f145_1200x310.png)](https://www.westonaprice.org/)
 [![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10e45365-b842-4149-a5d2-0840a4c2f506_754x354.png)](https://bitcoinbencryptoclub.com/)
-[![](https://beefnews.org/wp-content/uploads/2024/07/image-9-1024x305.png)](https://www.bullish-btc.com/)
-[![](https://beefnews.org/wp-content/uploads/2024/07/image-10.png)](https://www.eastperry.com/)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/image-9-1024x305.png)](https://www.bullish-btc.com/)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/07/image-10.png)](https://www.eastperry.com/)

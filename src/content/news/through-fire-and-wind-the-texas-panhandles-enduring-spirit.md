@@ -3,7 +3,7 @@ title: "Through Fire and Wind: The Texas Panhandle's Enduring Spirit"
 pubDate: 2024-09-08
 author: "Texas Slim"
 excerpt: "When disaster struck, the Texas Panhandle didn’t falter. Texas Slim tells the story of a community bound by land, cattle, and an unbreakable will. Humanity, as always, shines in the hardest of times."
-image: "https://beefnews.org/wp-content/uploads/2024/09/throughfireandwind.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/throughfireandwind.jpg"
 category: "Cowboy Talk"
 tags: ["4F Outfitters", "Cattle Mafia", "Lee Welles", "Texas Fire Relief"]
 featured: false
@@ -17,7 +17,7 @@ Does it take a disaster the size of the largest wildfire in Texas history to see
 
 I come from the dirt roads of West Texas, and most of the people that saw the newly released documentary [*We’re Here*](https://youtu.be/3g5OSbzHCmA?si=i3Hi8quhmmMIXoUv) also come from those same dirt roads.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-3.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-3.jpeg)
 
 The day of the Texas wildfire, people from all over the state and the country were able to experience or serve up some humanity.
 
@@ -25,7 +25,7 @@ These moments in time become history, and over time they grow into stories that 
 
 Let me tell you a story about a region of the world that [the famed cowboy poet Baxter Black called “a place where a horse matters.”](https://www.lascrucesbulletin.com/stories/baxter-blacks-final-column-a-horse-matters,9602) Now, I don’t know if Mr. Black was talking about the Texas Panhandle, but I’m here to tell you: this is a place where a horse matters.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-1.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-1.jpeg)
 
 Now that we’ve got that settled, I can tell my story of humanity and how I view it these days, especially in moments of reflection.
 
@@ -57,7 +57,7 @@ I stayed up most of the night, monitoring, preparing. I knew there’d be work a
 
 Over the next five weeks, I’ll be writing and releasing a series of articles. These stories will be patient, meticulous, and worth telling.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image.jpeg)
 
 I’ll introduce you to people like Lee Wells, [the creator of the *We’re Here* documentary](https://www.youtube.com/watch?v=fp2EPyxZQy0), who is also a cattle rancher, producer, and business owner. We’re in talks for more screenings. I’m organizing a fundraiser in my hometown, using beef donated by [Montana rancher Bryan Mussard of Reminisce Ranch](https://www.youtube.com/watch?v=cYglSVJ2rcc).
 
@@ -67,7 +67,7 @@ Then there’s [Cal Ferguson of 4F Outfitters](https://texashuntingpost.com/4f-o
 
 I’ll begin telling stories of *humanity* and how, through this devastation, comes a show and a gift of true humanity.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-2.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-2.jpeg)
 
 The I Am Texas Slim Foundation helped ranchers in West Texas launch a helicopter grass reseeding operation.
 

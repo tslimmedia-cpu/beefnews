@@ -3,7 +3,7 @@ title: "True Grit and Twang"
 pubDate: 2024-04-06
 author: "Texas Slim"
 excerpt: "Texas Slim rallies the hired hands for the next local and global cattle drive. As we face the coming storms, it's time to pull up your bootstraps, live with integrity, and embrace the spirit of the great American Cowboy. Let's saddle up for a journey of resilience and adventure!"
-image: "https://beefnews.org/wp-content/uploads/2024/04/texasslim1.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/texasslim1.jpg"
 category: "Cowboy Talk"
 tags: ["Audio", "from Texas Slim", "Monologue"]
 featured: false

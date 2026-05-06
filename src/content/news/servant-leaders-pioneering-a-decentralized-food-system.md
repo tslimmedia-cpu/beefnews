@@ -3,7 +3,7 @@ title: "Servant Leaders: Pioneering a Decentralized Food System"
 pubDate: 2024-06-09
 author: "Beef News"
 excerpt: "From regenerative ranching to local community empowerment, the Beef Initiative champions clean, ethical beef production amidst a landscape of industrial monopolies and market manipulations."
-image: "https://beefnews.org/wp-content/uploads/2024/06/ep27-servantleaders.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/06/ep27-servantleaders.jpg"
 category: "Video"
 tags: ["Servant Leaders"]
 featured: false

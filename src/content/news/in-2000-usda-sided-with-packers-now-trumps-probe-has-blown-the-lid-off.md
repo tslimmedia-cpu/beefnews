@@ -3,7 +3,7 @@ title: "In 2000, USDA Sided With Packers. Now Trump’s Probe Has Blown the Lid 
 pubDate: 2025-11-08
 author: "Beef News"
 excerpt: "Trump’s DOJ probe just cracked open a 25-year coverup—where USDA and meatpackers killed labeling laws to protect foreign beef profits."
-image: "https://beefnews.org/wp-content/uploads/2025/11/img_0371.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0371.jpeg"
 category: "Business"
 tags: ["Antitrust", "Big 4", "DOJ", "JBS", "Price Fixing"]
 featured: false
@@ -26,7 +26,7 @@ Within hours, ag accounts across X erupted with one unified call:\
 
 And they’re not wrong.
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](HTTPS://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](HTTPS://iamtexasslim.org)
 
 Please support our partner.
 
@@ -46,7 +46,7 @@ It wasn’t even the tenth.
 
 https://twitter.com/meriwetherfarms/status/1986921152699375896?s=61
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](Https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](Https://westonaprice.org)
 
 Please support our partner.
 
@@ -71,7 +71,7 @@ But she opposed letting shoppers see that same info on store shelves.
 
 Why? Because USDA had already aligned itself with the voluntary labeling crowd, as detailed in [this 2000 economic analysis](https://www.ers.usda.gov/sites/default/files/_laserfiche/publications/41203/18894_aer793h.pdf).
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](Https://betterfedfoods.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](Https://betterfedfoods.com)
 
 Please support our partner.
 
@@ -157,4 +157,4 @@ But not this time.
 
 Skip the lies—find local, honest beef from ranchers who don’t need a label to tell the truth at [BeefMaps.com](https://www.beefmaps.com/).
 
-![](https://beefnews.org/wp-content/uploads/2025/11/img_0369-1024x671.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0369-1024x671.jpeg)

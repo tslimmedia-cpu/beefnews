@@ -3,13 +3,13 @@ title: "How USDA Policy Shifts Under the Packers and Stockyard Act Could Raise F
 pubDate: 2024-09-21
 author: "Beef News"
 excerpt: "Explore how the USDA's proposed changes to the Packers and Stockyard Act could unintentionally raise food prices, burden small processors, and consolidate power within the largest meatpacking corporations. Learn more about the potential impact on consumer costs and market competition."
-image: "https://beefnews.org/wp-content/uploads/2024/09/big4.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/big4.png"
 category: "Business"
 tags: ["Kamala Harris", "Packers and Stockyards Act", "USDA"]
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-6-1024x575.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-6-1024x575.png)
 
 <https://www.c-span.org/video/?c5128492/vp-harris-lowering-food-prices-costs-living>
 
@@ -19,19 +19,19 @@ This article follows Breeauna Sagdal’s [in-depth analysis on this topic](https
 
 ## **Background on the Packers and Stockyard Act**
 
-[![](https://beefnews.org/wp-content/uploads/2024/09/image-3.png)](https://farmdocdaily.illinois.edu/2022/05/on-agriculture-antitrust-a-brief-summary-of-legislative-history.html)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-3.png)](https://farmdocdaily.illinois.edu/2022/05/on-agriculture-antitrust-a-brief-summary-of-legislative-history.html)
 
 https://farmdocdaily.illinois.edu/2022/05/on-agriculture-antitrust-a-brief-summary-of-legislative-history.html
 
 The Packers and Stockyard Act was first enacted in 1921 to curb the overwhelming control five major meatpacking companies had over the U.S. livestock market. At that time, these companies controlled 81% of the market, forcing Congress to act to protect competition.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/image-4-1024x678.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/image-4-1024x678.png)
 
 Image courtesy of National Archives and Records Administration
 
 Fast forward to today, four corporations—JBS, Tyson, Cargill, and National Beef—control 85% of the U.S. meatpacking industry. Despite the Act’s original purpose of breaking up monopolies, consolidation in the industry has only intensified, raising questions about how effectively current regulations serve the public interest.
 
-![](https://beefnews.org/wp-content/uploads/2024/09/big4-1-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/09/big4-1-1024x576.png)
 
 The Big 4 Meat Packers
 
@@ -61,8 +61,8 @@ While campaign promises may focus on lowering costs, the reality of policy imple
 
 *Support local ranchers and take a stand against the consolidation of our food supply with The Beef Initiative's Feeding Forward Collection. Each purchase directly contributes to sustainable practices, ensuring that independent farmers remain at the heart of the meat industry while offering you the highest quality beef. Make your impact felt—shop the Feeding Forward Collection and help preserve our agricultural heritage.*
 
-[![image 12](https://beefnews.org/wp-content/uploads/2024/08/image-12.png)](https://beefinitiative.com/pages/iatsbeef)
+[![image 12](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/image-12.png)](https://beefinitiative.com/pages/iatsbeef)
 
-[![image 14](https://beefnews.org/wp-content/uploads/2024/08/image-14.png)](https://beefinitiative.com/pages/iatsbeef)
+[![image 14](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/image-14.png)](https://beefinitiative.com/pages/iatsbeef)
 
-[![image 13](https://beefnews.org/wp-content/uploads/2024/08/image-13.png)](https://beefinitiative.com/pages/iatsbeef)
+[![image 13](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/image-13.png)](https://beefinitiative.com/pages/iatsbeef)

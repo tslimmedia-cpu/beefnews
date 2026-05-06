@@ -3,7 +3,7 @@ title: "The Dairy Cartel’s Smear Machine: Florida Just Framed a Family Dairy"
 pubDate: 2025-08-18
 author: "Beef News"
 excerpt: "Florida smeared Keely Farms as an E. coli source — but independent tests came back clean. Another Big Dairy hit job."
-image: "https://beefnews.org/wp-content/uploads/2025/08/image-18.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-18.png"
 category: "Business"
 tags: ["Farm-to-Consumer Legal Defense", "Florida", "Keely Farms", "Raw Dairy"]
 featured: false
@@ -11,7 +11,7 @@ featured: false
 
 On August 15, the [Associated Press](https://apnews.com/article/686365a130c222b96b36a99c19f76805) blasted a headline: “**Florida Department of Health identifies Keely Farms Dairy as the source of raw milk that sickened 21 people**.” Millions read it. No causation had been proven. The farm wasn’t even contacted before the announcement.
 
-[![](https://beefnews.org/wp-content/uploads/2025/08/ad_4nxdgausxbvqsaxh-iegrm4ydvkxywfd26xspaqbwbs4dln0srw2sk5ksxsdlf8wvn7mkukytzqaxut22fjgadczupwdkpbsjxqhbad3yfbu1m3jpl69-evusdl0ewtm7honh3sj_gw.jpg)](https://www.facebook.com/photo/?fbid=1189664226527998&set=a.623116983182728&__cft__[0]=AZWOyWKBcNuPe6FuuhLa09WpTlGCRWlEllsO_7E9KGF77W4Poru3fdy8MkS3Km2v0yWzFz8wSV4JFLFJt9bokX3jhPTgwlIh0qYDnJ2Poml3WxfVbardp8HFBr2swNJp5UJNMZFnauaAr-wnLGyhL8XjF--8Qw-g84Zasl6Ju5HsYEVViJ1oa_RdZze7CVjdhemXtzEzrtjiwhaVIV_Wkbr8Pi0E3o6A0Dq-yCwT2j1N7A&__tn__=EH-y-R)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxdgausxbvqsaxh-iegrm4ydvkxywfd26xspaqbwbs4dln0srw2sk5ksxsdlf8wvn7mkukytzqaxut22fjgadczupwdkpbsjxqhbad3yfbu1m3jpl69-evusdl0ewtm7honh3sj_gw.jpg)](https://www.facebook.com/photo/?fbid=1189664226527998&set=a.623116983182728&__cft__[0]=AZWOyWKBcNuPe6FuuhLa09WpTlGCRWlEllsO_7E9KGF77W4Poru3fdy8MkS3Km2v0yWzFz8wSV4JFLFJt9bokX3jhPTgwlIh0qYDnJ2Poml3WxfVbardp8HFBr2swNJp5UJNMZFnauaAr-wnLGyhL8XjF--8Qw-g84Zasl6Ju5HsYEVViJ1oa_RdZze7CVjdhemXtzEzrtjiwhaVIV_Wkbr8Pi0E3o6A0Dq-yCwT2j1N7A&__tn__=EH-y-R)
 
 Source: [Keely Farms Facebook](https://www.facebook.com/photo/?fbid=1189664226527998&set=a.623116983182728&__cft__[0]=AZWOyWKBcNuPe6FuuhLa09WpTlGCRWlEllsO_7E9KGF77W4Poru3fdy8MkS3Km2v0yWzFz8wSV4JFLFJt9bokX3jhPTgwlIh0qYDnJ2Poml3WxfVbardp8HFBr2swNJp5UJNMZFnauaAr-wnLGyhL8XjF--8Qw-g84Zasl6Ju5HsYEVViJ1oa_RdZze7CVjdhemXtzEzrtjiwhaVIV_Wkbr8Pi0E3o6A0Dq-yCwT2j1N7A&__tn__=EH-y-R)
 
@@ -23,7 +23,7 @@ But here’s what AP and FOX didn’t tell you: **Keely Farms’ own independent
 
 The science said safe. The headlines said guilty. **Welcome to the smear machine.**
 
-![](https://beefnews.org/wp-content/uploads/2025/08/ad_4nxcqx2sv17ycwjaqkyncqf4h4rukunh4obg-srykydxe5cexa9ksiwuq8d0jnk6qyta55gsskwjbu6-dpsu2ymtfewtaorbc3xsbui8kqzzspba7s8ags6lgi-npfuybt4zioqx8aw.jpg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxcqx2sv17ycwjaqkyncqf4h4rukunh4obg-srykydxe5cexa9ksiwuq8d0jnk6qyta55gsskwjbu6-dpsu2ymtfewtaorbc3xsbui8kqzzspba7s8ags6lgi-npfuybt4zioqx8aw.jpg)
 
 Independent lab results. Source: [Central Star / Keely Farms](https://www.facebook.com/keelyfarmsdairy/)
 
@@ -34,7 +34,7 @@ Independent lab results. Source: [Central Star / Keely Farms](https://www.facebo
 3. Insert lawsuits. Civil suits keep the narrative alive **regardless of lab proof**.
 4. **Ignore receipts**. Independent testing is sidelined.
 
-[![Realmilk.com](https://beefnews.org/wp-content/uploads/2025/06/findrealmilkhere.png)](https://realmilk.com)
+[![Realmilk.com](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/findrealmilkhere.png)](https://realmilk.com)
 
 Advertisement
 
@@ -45,7 +45,7 @@ This is the same playbook used against other dairies:
 - In [2023](https://www.realmilk.com/organic-pastures-dairy-company/), Raw Farm LLC (formerly Organic Pastures) faced a [consent decree](https://www.foodsafetynews.com/2023/07/organic-pastures-owner-accepts-consent-decree-in-15-year-old-raw-milk-case/) after 15 years of federal litigation. Later that year, lawsuits tied to a Salmonella outbreak **ensured the smear narrative stuck**.
 - And decades earlier, Alta Dena Dairy, once the largest raw milk supplier in the U.S., was hammered by regulatory and legal actions, including a [1985 lawsuit](https://www.latimes.com/archives/la-xpm-1985-08-28-me-25038-story.html) accusing it of false advertising — part of a long campaign that **ended with Alta Dena folded into Dean Foods**.
 
-![](https://beefnews.org/wp-content/uploads/2025/08/ad_4nxfmgsguq0wngvfugifmymzg4aseuyh-wfksflfdu97cawtg0sc2ef2g6-l9iqmo1zojk7jxocjjla9b_l7hzzpszepagptq5pvzhaxexljbtxsy3zm2znozpj3eoaxwk1xf6lz.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxfmgsguq0wngvfugifmymzg4aseuyh-wfksflfdu97cawtg0sc2ef2g6-l9iqmo1zojk7jxocjjla9b_l7hzzpszepagptq5pvzhaxexljbtxsy3zm2znozpj3eoaxwk1xf6lz.png)
 
 ## **Follow the Money**
 
@@ -57,7 +57,7 @@ This isn’t random. It’s cartel math.
 
 According to [OpenSecrets industry data](https://www.opensecrets.org/industries/lobbying?ind=A04), that’s over $5 million in dairy lobbying in 2024 alone — nearly all focused on “safety standards,” school lunch contracts, and subsidies that benefit pasteurized milk.
 
-![](https://beefnews.org/wp-content/uploads/2025/08/ad_4nxeohnyzrcaqz33jiavwqe6a27sslrstz4ssa28vats3ufqnsf7jyo65rhgyd9cpofxmenh414b_ujqsgcod4abtkrl6c1h8bdhk2z_jbaulvekx8gq70niedw7tcygzkqfh7niscg.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxeohnyzrcaqz33jiavwqe6a27sslrstz4ssa28vats3ufqnsf7jyo65rhgyd9cpofxmenh414b_ujqsgcod4abtkrl6c1h8bdhk2z_jbaulvekx8gq70niedw7tcygzkqfh7niscg.png)
 
 Source: [Open Secrets](https://www.opensecrets.org/industries/lobbying?ind=A04)
 
@@ -65,7 +65,7 @@ Meanwhile, DFA’s PAC poured $[600,314](https://www.opensecrets.org/political-a
 
 The result: **pasteurization mandates locked in since 1987**, FDA **bans on interstate raw milk sales**, and a **ready-made legal weapon to smear** independents the moment consumer demand grows.
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
 
 Advertisement
 
@@ -77,7 +77,7 @@ https://beefnews.org/every-time-a-farm-wins-a-town-wins-how-a-21-year-old-in-nor
 
 And right on cue — **Florida delivers the perfect national scare story.**
 
-![](https://beefnews.org/wp-content/uploads/2025/08/ad_4nxfzj4khycglpvdcadzhdxamplpxragyy0ynf3ui4ggqv-ypije-k01yfs6t1wveqykhbywgwwqi80w2sank8ygtrx9eonqkscusshd2uipfzeeqtxcxrnauuqxy2can_eqfyhtoxa.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/ad_4nxfzj4khycglpvdcadzhdxamplpxragyy0ynf3ui4ggqv-ypije-k01yfs6t1wveqykhbywgwwqi80w2sank8ygtrx9eonqkscusshd2uipfzeeqtxcxrnauuqxy2can_eqfyhtoxa.png)
 
 ###### **Who Wins, Who Loses**
 

@@ -3,7 +3,7 @@ title: "Ranchers Demand DHS Takeover After USDA Fails to Stop Screwworm at the B
 pubDate: 2025-08-16
 author: "Beef News"
 excerpt: "The New World Screwworm has infected over 2,200 animals in southern Mexico, just 400 miles from Texas. Ranchers say USDA failed — and want DHS to take control."
-image: "https://beefnews.org/wp-content/uploads/2025/08/image-17.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-17.png"
 category: "Farm Policy"
 tags: ["Merriwether Farms", "NWS"]
 featured: false
@@ -15,19 +15,19 @@ https://twitter.com/meriwetherfarms/status/1956459392808984644?s=46
 
 ## **The Parasite — and the Stakes**
 
-![](https://beefnews.org/wp-content/uploads/2025/08/image-15.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-15.png)
 
 New World Screwworm
 
 The New World Screwworm (Cochliomyia hominivorax) was eradicated from the U.S. in [1966](https://www.aphis.usda.gov/livestock-poultry-disease/cattle/ticks/screwworm) using the [Sterile Insect Technique](https://www.aphis.usda.gov/sites/default/files/factsheet-eradicating-nws-sit.pdf) (SIT), which releases irradiated males until the population collapses. A joint U.S.–Panama barrier ([COPEG](https://www.aphis.usda.gov/news/agency-announcements/us-panama-partnership-keeps-new-world-screwworm-bay)) has held the line ever since. USDA also wiped out a [Florida Keys outbreak in 2016–2017](https://www.aphis.usda.gov/livestock-poultry-disease/cattle/ticks/screwworm/outbreak-central-america) the same way.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](HTTPS://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](HTTPS://westonaprice.org)
 
 Advertisement
 
 That barrier broke in 2022. The pest surged north through Central America, hitting Mexico by late 2024. As of August 2025, there are 2,700+ [confirmed cases](https://apnews.com/article/mexico-us-screwworm-cattle-sonora-c16e84d2474ff0390fd9927fdba233f3) in southern Mexico — Oaxaca, Veracruz, and Chiapas among the worst hit — and the nearest outbreak **sits less than six hours from the Texas line**.
 
-![](https://beefnews.org/wp-content/uploads/2025/08/image-16-1024x538.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-16-1024x538.png)
 
 New World Screwworm Fly
 
@@ -43,7 +43,7 @@ Rollins’ timeline reads like a biosecurity yo-yo:
 
 The August 15 [USDA plan](https://www.usda.gov/about-usda/news/press-releases/2025/08/15/usda-announces-sweeping-plans-protect-united-states-new-world-screwworm) adds the Edinburg factory, $100 million for trap/lure/therapeutic R&D, $21 million to renovate a Mexican plant, $8.5 million for a Moore Air Base dispersal center, plus more border “tick riders” and detector dogs. Smart — but SIT works best before wild populations explode, and the clock is ticking.
 
-![](https://beefnews.org/wp-content/uploads/2025/08/image-17-1024x689.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-17-1024x689.png)
 
 Source: USDA
 

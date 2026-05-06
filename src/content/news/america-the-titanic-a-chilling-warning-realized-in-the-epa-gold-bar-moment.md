@@ -3,7 +3,7 @@ title: "America the Titanic: A Chilling Warning Realized in the EPA’s Gold Bar
 pubDate: 2024-12-04
 author: "Beef News"
 excerpt: "As the EPA scrambles to distribute billions in grants before the administration changes hands, the prophetic warnings of Sagdal, Schaffer, and Logan offer a roadmap to stop America’s sinking ship."
-image: "https://beefnews.org/wp-content/uploads/2024/12/image-12.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-12.png"
 category: "Farm Policy"
 tags: ["America the Titanic", "EPA", "Nonprofit Buffers", "Policy"]
 featured: false
@@ -13,7 +13,7 @@ When Breeauna Sagdal, Andrea Shaffer, and Lisa Logan co-authored *America the Ti
 
 Now, just weeks later, their warning has proven chillingly accurate. Project Veritas has exposed a frantic rush within the Environmental Protection Agency (EPA) to funnel billions of taxpayer dollars to nonprofits aligned with Biden’s climate agenda before the administration changes hands. Brent Efron, an EPA advisor, went so far as to liken their efforts to “throwing gold bars off the Titanic,” a desperate attempt to preserve their policies.
 
-[![](https://beefnews.org/wp-content/uploads/2024/12/image-19-1024x576.png)](https://www.linkedin.com/in/befr96/)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-19-1024x576.png)](https://www.linkedin.com/in/befr96/)
 
 Efron, who lists himself as a "Special Advisor for Implementation" at the EPA on LinkedIn [**(view his profile here)**](https://www.linkedin.com/in/befr96/), is deeply embedded in the agency's efforts to implement Biden's climate agenda. His background in policy analysis and climate advocacy underscores his role in distributing over $50 billion in grants, which he openly admits were designed as an “insurance policy” to protect Biden’s policies from a Republican administration.
 
@@ -21,7 +21,7 @@ The authors of *America the Titanic* didn’t just predict this moment—they pr
 
 ### **The Lower Decks: Revisiting *America the Titanic***
 
-![](https://beefnews.org/wp-content/uploads/2024/12/image-14-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-14-1024x576.png)
 
 In their essay, Sagdal, Shaffer, and Logan warned of a growing trend: centralized federal agencies using taxpayer dollars to embed policies into the framework of America’s future, regardless of who holds power. Programs like the Justice40 Initiative, they argued, locked local communities out of decision-making while funding ideological projects under the guise of “resilience” and “equity.”
 
@@ -37,13 +37,13 @@ https://beefnews.org/federal-resilience-plan-impact-american-freedoms/
 
 ### **Gold Bars Overboard: The Veritas Revelations**
 
-[![](https://beefnews.org/wp-content/uploads/2024/12/image-15-1024x514.png)](https://www.projectveritas.com/news/epa-advisor-admits-insurance-policy-against-trump-is-gold-bars-off-titanic)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-15-1024x514.png)](https://www.projectveritas.com/news/epa-advisor-admits-insurance-policy-against-trump-is-gold-bars-off-titanic)
 
 Project Veritas’ recent investigation [**(watch here)**](https://www.projectveritas.com/news/epa-advisor-admits-insurance-policy-against-trump-is-gold-bars-off-titanic) revealed that EPA officials are scrambling to distribute billions of taxpayer dollars to nonprofits before the administration changes hands. Brent Efron, a senior advisor at the EPA, admitted to using nonprofits as a political “insurance policy” against Trump’s incoming administration.
 
 “Now it’s how to get the money out as fast as possible before they [Trump Administration] come in … it’s like we’re on the Titanic and we’re throwing gold bars off the edge,” Efron told a Project Veritas journalist.
 
-[![](https://beefnews.org/wp-content/uploads/2024/12/image-16-1024x581.png)](https://www.projectveritas.com/news/epa-advisor-admits-insurance-policy-against-trump-is-gold-bars-off-titanic)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-16-1024x581.png)](https://www.projectveritas.com/news/epa-advisor-admits-insurance-policy-against-trump-is-gold-bars-off-titanic)
 
 According to Efron, over $50 billion has already been allocated to nonprofits, many of which are tasked with implementing Biden’s climate agenda long after he leaves office. These organizations act as a buffer, ensuring that the policies stay in place even if Congress or a new administration attempts to claw back the funding.
 
@@ -51,7 +51,7 @@ Efron’s candid remarks confirm the *America the Titanic* authors’ warning th
 
 ### **Why Their Blueprint Matters Now**
 
-![](https://beefnews.org/wp-content/uploads/2024/12/image-17-1024x683.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-17-1024x683.png)
 
 The parallels between *America the Titanic* and the EPA revelations are striking. Where the EPA sees nonprofits as a lifeboat for their policies, Sagdal, Shaffer, and Logan see them as tools of centralization that deepen the divide between federal power and local governance.
 
@@ -69,7 +69,7 @@ The Veritas report highlights what the *America the Titanic* team warned us abou
 
 These rushed grants aren’t just about environmental policy; they’re about control. Policies tied to land acquisition, SMART Cities, and nonprofit buffers risk eroding local sovereignty, leaving rural communities vulnerable to outside influence.
 
-![](https://beefnews.org/wp-content/uploads/2024/12/image-18-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-18-1024x576.png)
 
 ### **Our Demands: A Response to the EPA’s Gold Bar Moment**
 
@@ -84,7 +84,7 @@ In light of the revelations brought forward by Project Veritas, The Beef Initiat
 
 ### **Call to Action: A Stand for Sovereignty and Survival**
 
-![](https://beefnews.org/wp-content/uploads/2024/12/image-20-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-20-1024x576.png)
 
 This is not just about bureaucracy or budgets—this is about survival. America's farmers and ranchers have long been the backbone of this nation, the stewards of the land who provide the food that sustains us all. We know what it means to get up before dawn and fight for every inch of ground. We understand resilience because we live it every day.
 

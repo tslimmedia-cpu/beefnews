@@ -3,13 +3,13 @@ title: "Beef Maps Docuseries: Restoring Integrity to American Beef"
 pubDate: 2024-10-10
 author: "Beef News"
 excerpt: "Explore the journey of ranchers across United States as they restore integrity to American beef. In collaboration with CrowdHealth Carnivore, The Beef Initiative presents a series that highlights the grit and commitment of ranchers working to regenerate their land and communities. Discover how the Beef Maps Docuseries aims to reverse the effects of consolidation by championing decentralization and transparency in the beef industry. Join us on this journey to reclaim America's food and agricultural heritage."
-image: "https://beefnews.org/wp-content/uploads/2024/10/beefmaps-promo2-cover.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/beefmaps-promo2-cover.jpg"
 category: "Culture"
 tags: ["beef maps", "Docuseries", "Market Access"]
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2024/10/image-17-1024x495.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/image-17-1024x495.png)
 
 In collaboration with **[CrowdHealth Carnivore](http://joincrowdhealth.com/carnivore)**, **[The Beef Initiative](http://beefinitiative.com)** proudly presents the **[Beef Maps](http://beefmaps.com) Docuseries**—an immersive look into the lives of ranchers who are bringing integrity and transparency back to American beef. This series doesn’t just tell the story of cattle and land; it’s about people, families, and communities standing up for something that matters.
 

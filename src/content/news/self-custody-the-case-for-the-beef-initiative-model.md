@@ -3,7 +3,7 @@ title: "Self-Custody: The Case for The Beef Initiative Model"
 pubDate: 2024-05-05
 author: "Breeauna Sagdal"
 excerpt: "From Roosevelt's 1933 National Industrial Recovery Act to today's surveillance of digital transactions and farm-to-table sales, the U.S. government has long manipulated markets under the guise of consumer protection."
-image: "https://beefnews.org/wp-content/uploads/2024/05/tbi-model.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/tbi-model.jpg"
 category: "I Am Texas Slim Foundation 501(c)(3)"
 tags: ["Bitcoin", "Economic Fascism", "I Am Texas Slim Foundation", "Marijuana", "Microprocessing", "Self-Custody", "The Beef Initiative"]
 featured: false
@@ -19,7 +19,7 @@ The concept was simple; control the on and off ramps via taxation and the abilit
 
 By 1937 a marijuana tax stamp became a requirement in order to transact. However, in order to buy the tax stamp, one must present the crop which was illegal to possess without the stamp. This simple, yet effective catch 22 at-law, became the policy vehicle for which Hemp and Marijuana became illegal in all 50 states.
 
-![](https://beefnews.org/wp-content/uploads/2024/05/2019-08-02-marijuana-tax-act-stamps-banner.jpg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/2019-08-02-marijuana-tax-act-stamps-banner.jpg)
 
 ### The Evolution of Economic Fascism
 
@@ -39,7 +39,7 @@ While some opine over secret cabals of manipulators, planning the future in a da
 
 *Human Nature* - humanity desires comfort, safety, and connection.
 
-![](https://beefnews.org/wp-content/uploads/2024/05/hierarchyofneeds-1024x509.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/hierarchyofneeds-1024x509.png)
 
 *Maslow's Hierarchy of Needs*
 
@@ -55,7 +55,7 @@ In the name of food safety and climate change mitigation, the very same regulato
 
 Rather than work with small processing facilities at the state-level, the USDA has prioritized funding to meat alternatives, while eliminating market access for local producers. A bulk of the Rural Development budget has been reallocated to ideological priorities like “Climate-Smart Commodities.”
 
-![](https://beefnews.org/wp-content/uploads/2024/05/food-miles.jpg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/food-miles.jpg)
 
 The EPA has finalized new rules that incentivize imports over local production and will, in fact, close or impact another 845 processing facilities across the United States. The only option to bypass these rules, would be to drastically reduce the amount of meat processed per week.
 
@@ -67,7 +67,7 @@ When local economies are bled dry of liquidity and the ability to operate in com
 
 ### Restoring Consumer Control - The Case for The Beef Initiative
 
-[![](https://beefnews.org/wp-content/uploads/2024/05/screenshot-2024-05-05-at-2.05.45-pm-1024x734.png)](https://beefinitiative.com/)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/screenshot-2024-05-05-at-2.05.45-pm-1024x734.png)](https://beefinitiative.com/)
 
 WelcomeToBeef.com
 

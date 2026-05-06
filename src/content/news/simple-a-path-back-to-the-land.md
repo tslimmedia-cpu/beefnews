@@ -3,7 +3,7 @@ title: "Simple: A Path Back to the Land"
 pubDate: 2024-11-21
 author: "Texas Slim"
 excerpt: "Gratitude is thanking God after it happens. Faith is thanking God before it happens. Simple."
-image: "https://beefnews.org/wp-content/uploads/2024/11/image-33.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-33.png"
 category: "Cowboy Talk"
 tags: ["Faith", "Harvest of Deception", "Simplicity"]
 featured: false

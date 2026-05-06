@@ -3,7 +3,7 @@ title: "\"First They Hacked Our Farms. Now They’re Writing Our Laws\": Section
 pubDate: 2025-07-21
 author: "Beef News"
 excerpt: "Chinese operatives spent over a decade stealing U.S. crop genetics, rice proteins, even Monsanto's software. Now Congress is rewarding that theft by locking the EPA to outdated science—handing Bayer and ChemChina full control over what poisons stay legal. Section 453 isn’t deregulation—it’s surrender."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-97.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-97.png"
 category: "Farm Policy"
 tags: ["Agricultural Espionage", "Bayer", "China", "EPA", "FBI", "FY2026", "Monsanto", "Section 453"]
 featured: false
@@ -13,7 +13,7 @@ While America’s farmers struggle to navigate corporate monopolies and rising i
 
 **Welcome to Section 453 of the FY2026 Interior Appropriations Bill.**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-92.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-92.png)
 
 Source: [House Appropriations Committee](http://appropriations.house.gov/sites/evo-subsites/republicans-appropriations.house.gov/files/evo-media-document/fy26-interior%2C-environment%2C-and-related-agencies-bill-text.pdf)
 
@@ -23,7 +23,7 @@ In the **July 15, 2025, subcommittee markup**, House appropriators advanced a pr
 
 > “None of the funds made available by this or any other Act may be used to… take any regulatory action… inconsistent with… [a] human health assessment performed pursuant to the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA).”
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Advertisement
 
@@ -35,19 +35,19 @@ And the timing isn’t accidental.
 
 ###### China and Bayer Control the Pipeline
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-94-1024x341.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-94-1024x341.png)
 
 While Congress neuters the EPA, the companies profiting most from pesticide immunity are **not even American**.
 
 As of 2023, **Bayer-Monsanto** and **Syngenta**, a subsidiary of state-owned **ChemChina**, controlled over **50% of U.S. corn, soybean, and cotton seed sales**, according to [USDA data](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=107516&utm_source=chatgpt.com). They also dominate the herbicide and insecticide markets—including **glyphosate** and **paraquat**, two of the most contested and globally restricted chemicals on Earth.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-98-1024x760.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-98-1024x760.png)
 
 Source: [USDA](https://www.ers.usda.gov/data-products/charts-of-note/chart-detail?chartId=107516&utm_source=chatgpt.com)
 
 Bayer is currently **[facing over 67,000 lawsuits](https://www.reuters.com/legal/litigation/us-supreme-court-seeks-justice-department-views-bayers-roundup-appeal-2025-06-30/)** tied to Roundup (glyphosate), while Syngenta is pushing **paraquat**, banned in more than 60 countries—but still sold across rural America.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-95-1024x545.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-95-1024x545.png)
 
 Source: [US Department of Justice](https://www.usaha.org/upload/Announcements/180120_Agricultural_Economic_Esp.pdf)
 
@@ -74,7 +74,7 @@ And if this clause becomes law, **future pesticide reviews will be governed by p
 
 Check out this [archived Monsanto op-ed](https://web.archive.org/web/20120211102335/http://www.monsanto.com/newsviews/Pages/saved-seed-farmer-lawsuits.aspx) where **saving seeds makes you a criminal**—and **corporate snitches are cast as agricultural heroes**.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-96-1024x532.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-96-1024x532.png)
 
 Source: [Monsanto](https://web.archive.org/web/20120211102335/http://www.monsanto.com/newsviews/Pages/saved-seed-farmer-lawsuits.aspx)
 

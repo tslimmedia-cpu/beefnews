@@ -3,7 +3,7 @@ title: "USDA’s EID Mandate Is a Corporate Coup Masquerading as Biosecurity"
 pubDate: 2025-06-01
 author: "Beef News Wire"
 excerpt: "The USDA's new rule forces all U.S. cattle producers to adopt costly electronic ID tags, even though its own data shows current systems trace disease faster than cattle can be loaded on a truck. This mandate, justified under the guise of export efficiency, benefits multinational packers and eartag manufacturers—not American ranchers. It’s a federal power grab that sacrifices sovereignty and imposes hidden taxes on the few remaining stewards of our domestic beef supply."
-image: "https://beefnews.org/wp-content/uploads/2025/05/img_0217-scaled.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/05/img_0217-scaled.jpeg"
 category: "Farm Policy"
 tags: ["Congress", "disease", "eartags", "EID", "R-CALF"]
 featured: false

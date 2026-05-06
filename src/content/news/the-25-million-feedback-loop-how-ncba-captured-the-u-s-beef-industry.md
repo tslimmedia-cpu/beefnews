@@ -3,7 +3,7 @@ title: "The $25 Million Feedback Loop: How NCBA Captured the U.S. Beef Industry"
 pubDate: 2025-09-20
 author: "Beef News"
 excerpt: "Every rancher pays in. Only the cartel cashes out."
-image: "https://beefnews.org/wp-content/uploads/2025/09/image-40.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-40.png"
 category: "Business"
 tags: ["Beef Checkoff", "CBB", "FSBC", "Hartley Feeders", "JBS", "NCBA", "R-CALF"]
 featured: false
@@ -15,7 +15,7 @@ How? **By controlling the very committee that decides where the money goes.**
 
 This is the story of a **federally sanctioned feedback loop**, where the people who write the checks are the same ones cashing them—and the **independent rancher is left with nothing but the bill**.
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
 
 Please support our partner.
 
@@ -37,17 +37,17 @@ On the USDA-appointed side, the [**CBB’s Ryan Moorhouse**](https://www.beefboa
 
 **This isn’t regulatory capture. It’s structural capture.**
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-39.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-39.png)
 
 Source: [Farm Action](https://farmaction.us/2023/09/14/surprising-no-one-ncba-awards-itself-the-biggest-checkoff-contract-again/)
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/image-38-1024x365.png)](https://betterfedfoods.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-38-1024x365.png)](https://betterfedfoods.com)
 
 Please support our partners.
 
 ###### **Contracts Approved by the Beef Cartel**
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-36-1024x550.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-36-1024x550.png)
 
 In [**FY2024**](https://www.beefboard.org/wp-content/uploads/2025/02/BeefCheckoff_2024-Impact-Report.pdf), the Checkoff disbursed **$37.1 million** in program expenses:
 
@@ -72,7 +72,7 @@ Meanwhile, **no funding goes to groups advocating for reforms** like **Mandatory
 
 Even today, NCBA’s [**2025 Policy Book**](https://www.ncba.org/Media/NCBAorg/Docs/2025-ncba-policy-book-1.pdf) **explicitly opposes MCOOL** and audits that would expose their fund control.
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-33.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-33.png)
 
 Source: [NCBA 2025 Policy Book](https://www.ncba.org/Media/NCBAorg/Docs/2025-ncba-policy-book-1.pdf)
 
@@ -80,8 +80,8 @@ Source: [NCBA 2025 Policy Book](https://www.ncba.org/Media/NCBAorg/Docs/2025-ncb
 
 In over **30 years of Checkoff operations**, **not a single prosecution** has occurred for misuse of funds—even when the [**2010 USDA OIG audit**](https://usdaoig.oversight.gov/sites/default/files/reports/2022-03/01099-0001-21.pdf) found over **$200,000 in improper NCBA expenses**, including **lobbying and overseas trips**.
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-35-1024x212.png)
-![](https://beefnews.org/wp-content/uploads/2025/09/image-34-1024x320.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-35-1024x212.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-34-1024x320.png)
 
 R-CALF filed [**multiple complaints in 2013**](https://www.usda.gov/sites/default/files/documents/r-calf_complaint_may_part1.pdf), demanding suspension of NCBA’s contracts. The USDA’s [**response**](https://r-calfusa.com/wp-content/uploads/2013/04/140708LetterFromUSDAReCheckoff.pdf)? Delay and deferral.
 
@@ -96,7 +96,7 @@ And yet:
 *“This isn’t promotion. It’s a protection racket, run with government approval.”*\
 —[Texas Slim, President, I Am Texas Slim Foundation 501c3](https://iamtexasslim.org)
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/image-37-1024x659.png)](https://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-37-1024x659.png)](https://iamtexasslim.org)
 
 Please Support our Partner.
 

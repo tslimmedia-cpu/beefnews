@@ -3,7 +3,7 @@ title: "Farmers v Biden: The Breaking Farm Credit Fiasco That Nobody is Prepared
 pubDate: 2024-05-18
 author: "Breeauna Sagdal"
 excerpt: "A lawsuit against President Biden exposes regulatory failures and predatory lending threatening America's farmers and food security."
-image: "https://beefnews.org/wp-content/uploads/2024/05/image-5.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/image-5.png"
 category: "I Am Texas Slim Foundation 501(c)(3)"
 tags: ["Economic Fascism", "Farm Credit", "Kittle v Biden", "Legal Action"]
 featured: false

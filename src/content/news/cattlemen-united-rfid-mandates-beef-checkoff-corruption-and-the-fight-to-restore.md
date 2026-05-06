@@ -3,7 +3,7 @@ title: "Cattlemen United: RFID Mandates, Beef Checkoff Corruption, and the Fight
 pubDate: 2025-02-22
 author: "Beef News"
 excerpt: "Independent ranchers and advocates came together in a powerful public forum to expose the threats facing American cattle producers and consumers. With voices like Texas Slim, Brett Kenzy, RanchMama Shanen, and Jeff Forrester leading the charge, the discussion peeled back the curtain on USDA RFID tag mandates, corruption within the Beef Checkoff program, and the ongoing struggle to restore truthful country-of-origin beef labeling. Hosted by DD1 and TennesseeTracy, this gathering highlighted the urgent need for both ranchers and consumers to take back control of their beef supply."
-image: "https://beefnews.org/wp-content/uploads/2025/02/pexels-photo-2684821.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/02/pexels-photo-2684821.jpeg"
 category: "Cowboy Talk"
 tags: ["Beef Checkoff", "Brett Kenzy", "DD1", "R-CALF", "RFID", "Tennessee Tracy"]
 featured: false
@@ -36,4 +36,4 @@ https://beefnews.org/beef-checkoff-vs-iamtexasslimfoundation/
 
 **Listen the Full Recording** on the [Beef News Podcast](https://texas-slim.transistor.fm/episodes/cattlemen-united-rfid-mandates-beef-checkoff-corruption-and-reclaiming-american-beef)
 
-[![](https://beefnews.org/wp-content/uploads/2025/02/BeefMaps.com_-1024x733.jpeg)](Https//beefmaps.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/02/BeefMaps.com_-1024x733.jpeg)](Https//beefmaps.com)

@@ -3,13 +3,13 @@ title: "Open Borders Breached Darien Gap Biological Barrier — Now, we're on th
 pubDate: 2025-05-12
 author: "Breeauna Sagdal"
 excerpt: "A flesh-eating parasite known as New World Screwworm (NWS) has breached the long-standing biological barrier at the Darién Gap and is now rapidly advancing through Mexico, prompting an emergency livestock embargo along the U.S. southern border. The parasite, which infests wounds and mucous membranes with larvae that bore into living flesh, poses a grave threat to both public health and America’s already fragile cattle supply. USDA officials warn the outbreak could cripple domestic livestock production if not contained, calling it a national security crisis."
-image: "https://beefnews.org/wp-content/uploads/2025/05/a-flesh-eating-parasite-known-as-new-world-screwworm-nws-has.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/05/a-flesh-eating-parasite-known-as-new-world-screwworm-nws-has.png"
 category: "Business"
 tags: ["APHIS", "Brook Rollins", "New World Screwworm", "Screwworm", "USDA"]
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2025/05/image.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/05/image.jpeg)
 
 Deer carcass infected with New World Screwworm (NSW)
 
@@ -23,7 +23,7 @@ The embargo impacts live cattle, horse, and bison imports through U.S. ports of 
 
 New World Screwworm is a [flesh eating parasite](https://www.ctvnews.ca/health/article/that-barrier-has-been-breached-infectious-diseases-doctor-warns-travellers-about-flesh-eating-parasite/) caused by the larvae of the Cochliomyia hominivorax fly. The female fly, laying 400 eggs at a time, infests the mucous membranes, orifices, and wounds of humans and warm-blooded animals. Wounds are the most common sites, but even a tiny scratch the size of a tick bite can be an invitation for these savage insects.
 
-![](https://beefnews.org/wp-content/uploads/2025/05/AD_4nXcPlu-XklnAux7_0kXa3LHQsVwFMcomZPiO1qyquqz4YQvNyB2d-WkEJxh82pW-WMWJaCon2Wq-LfXZSdPW65DoPKLyj9Hs2Uwi2dwKc93uHwvXVTfKbzLkkk9EUL7NIHkOqAielw.jpg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/05/AD_4nXcPlu-XklnAux7_0kXa3LHQsVwFMcomZPiO1qyquqz4YQvNyB2d-WkEJxh82pW-WMWJaCon2Wq-LfXZSdPW65DoPKLyj9Hs2Uwi2dwKc93uHwvXVTfKbzLkkk9EUL7NIHkOqAielw.jpg)
 
 *The female Cochliomyia hominivorax fly lays 400 eggs at a time*
 
@@ -31,7 +31,7 @@ Within about a day, ravenous flesh-eating larvae erupt, which both look and act 
 
 Over a decade ago, the Animal Plant Health Inspection Service (APHIS) successfully used the [Sterile Insect Technique](https://www.aphis.usda.gov/sites/default/files/screwworm-poster.pdf) to eliminate NWS in North America. Screw worms were declared eradicated from Panama in 2006, at which time the USDA partnered with Panama to build a sterile fly production facility. That facility has been used to maintain a biological barrier along the Darién Gap at the border of Panama and Colombia.
 
-![](https://beefnews.org/wp-content/uploads/2025/05/AD_4nXeQbTZoE6vxxoFVTOKHLYhGWXT93cu6UqT32kmYiu2pDA4zvyWv0RFjt36azjrMA1taOy7qpudvM8XWFgm1nrBIFYvOs2gBXuUMBmBRiLqCnuJ3bILvNVyXwcK6he3TXShJqIvx4w.jpg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/05/AD_4nXeQbTZoE6vxxoFVTOKHLYhGWXT93cu6UqT32kmYiu2pDA4zvyWv0RFjt36azjrMA1taOy7qpudvM8XWFgm1nrBIFYvOs2gBXuUMBmBRiLqCnuJ3bILvNVyXwcK6he3TXShJqIvx4w.jpg)
 
 *Infectious diseases specialist Dr. Isaac Bogoch is warning Canadian travellers about the flesh-eating parasite after he says the barrier preventing it from spreading north of Panama was “breached.”*
 

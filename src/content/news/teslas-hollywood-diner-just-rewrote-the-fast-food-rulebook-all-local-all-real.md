@@ -3,7 +3,7 @@ title: "Tesla’s Hollywood Diner Just Rewrote the Fast-Food Rulebook: All-Local
 pubDate: 2025-07-23
 author: "Beef News"
 excerpt: "Tesla’s Hollywood Diner flips fast food on its head: Brandt Beef from Calpella, Straus & Valley Ford dairy, Santa Monica Market produce, even Tehachapi wheat tortillas—all sourced inside a regional radius. This isn’t hype—it’s a prototype for national-scale, traceable local food systems. And no other chain has even tried."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-104.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-104.png"
 category: "Business"
 tags: ["Brandt Beef", "Chef Eric Greenspan", "Elon Musk", "Tesla"]
 featured: false
@@ -11,7 +11,7 @@ featured: false
 
 Beneath the neon and robot servers at [7001 Santa Monica Boulevard](https://www.tesla.com/tesla-diner), Tesla quietly delivered something groundbreaking: **a national brand menu sourced entirely from local, real producers**—no factory farms, no global supply chains.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-104.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-104.png)
 
 Chef Eric Greenspan is behind Tesla's Local Sourcing\
 [Image Source](https://blog.matferbourgeat.com/en/2017/12/12/chef-eric-greenspan-restaurant-mare-santa-monica/)
@@ -26,7 +26,7 @@ While most media zeroed in on drive-in screens and Cybertruck trays, **the real 
 
 **Everything is being sourced within one Tesla charge.**
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Advertisement
 
@@ -34,13 +34,13 @@ https://twitter.com/niccruzpatane/status/1947458657488175615
 
 This isn’t a stunt. It’s a **fully operational prototype** for high-volume, traceable, regionally rooted food service. Tesla didn’t invent farm-to-table—**but they might’ve just scaled it more visibly than anyone else in the country.**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-103-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-103-1024x576.png)
 
 Source: Getty Images
 
 ###### No ESG. No Greenwashing. Just Real Food from Real Producers.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-106.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-106.png)
 
 Source: [Brandt Beef](https://brandtbeef.com/about/)
 
@@ -54,7 +54,7 @@ While the average fast food chain relies on national distributors and commodity 
 
 ###### The Bigger Picture
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-105-1024x768.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-105-1024x768.png)
 
 Tesla’s diner isn’t just a meal stop. It’s a **grid-integrated, food-conscious, American-made infrastructure hub**.
 

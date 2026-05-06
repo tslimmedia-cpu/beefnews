@@ -3,7 +3,7 @@ title: "Lubbock Feeders: Seventy Years. Then the Dependence Broke."
 pubDate: 2026-02-24
 author: "Beef News"
 excerpt: "For seventy years, Lubbock Feeders moved cattle across the South Plains like clockwork — until the feeder pipeline it depended on ran dry. When a closed border collided with the smallest U.S. herd since 1951, a 50,000-head machine discovered just how fragile modern cattle infrastructure has become."
-image: "https://beefnews.org/wp-content/uploads/2026/02/c5670528-ec60-4ff4-9086-f5304683e581.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/02/c5670528-ec60-4ff4-9086-f5304683e581.png"
 category: "Business"
 tags: ["Feedyards", "imports", "Lubbock Feeders", "Processing"]
 featured: false

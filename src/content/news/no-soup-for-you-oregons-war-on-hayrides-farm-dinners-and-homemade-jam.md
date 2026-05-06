@@ -3,7 +3,7 @@ title: "\"We're Sounding the Alarm\": Oregon’s War on Hayrides, Farm Dinners, 
 pubDate: 2025-07-23
 author: "Beef News"
 excerpt: "Oregon’s new DLCD rules are quietly strangling agritourism. From pumpkin patches to farm dinners, small farms face new limits on events, food sales, and even what they can sell under a tent. The rules claim to “protect farmland”—but they may destroy the families who give it life."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-109.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-109.png"
 category: "Culture"
 tags: ["1000 Friends of Oregon", "DLCD", "Farm and Forest Modernization Rules", "Oregon"]
 featured: false
@@ -17,7 +17,7 @@ Effective **January 1, 2025**, the rules impose sweeping restrictions on what qu
 
 ###### Fall Festivals Now Require a Permit—or a Lawyer
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/image-112-1024x547.png)](https://topazfarm.com/write-your-legislators)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-112-1024x547.png)](https://topazfarm.com/write-your-legislators)
 
 [Topaz Farm](https://topazfarm.com/write-your-legislators) is leading the fight in Oregon from their [Instagram](https://www.instagram.com/reel/DMYhkfmBW0D/).
 
@@ -30,7 +30,7 @@ Farmers say this rewrite **excludes the very activities that make agritourism vi
 
 The rules also cap **farm-to-table events** at just **17 per year**. Hosting more? You'll need an [agritourism permit](https://www.oregon.gov/lcd/ff/pages/cpip.aspx) and must pass a “farm impact test.”
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Advertisement
 
@@ -38,7 +38,7 @@ https://twitter.com/WallStreetApes/status/1947645840824135961
 
 ###### What’s Being Shut Down
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-111-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-111-1024x576.png)
 
 The DLCD rules don’t stop at events. They also include:
 
@@ -50,7 +50,7 @@ According to the [OSU Extension Service](https://extension.oregonstate.edu/catal
 
 ###### Who’s Behind It—and Who Gets Hurt
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-110.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-110.png)
 
 [Sam Diaz](https://friends.org/sam-diaz) is Executive Director of 1000 Friends of Oregon\
 Source: Friends.org
@@ -69,7 +69,7 @@ With the public comment deadline set for July 25, farmers are [urging Oregonians
 
 ###### From Topaz Farm's Website:
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-114-1024x220.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-114-1024x220.png)
 
 ***IMPORTANT: By Friday, July 25th, please email your thoughts to DLCD opposing their draft rules:*** [***farmforest.comment@dlcd.oregon.gov***](mailto:farmforest.comment@dlcd.oregon.gov)
 

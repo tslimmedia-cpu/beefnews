@@ -3,7 +3,7 @@ title: "The $10 Billion Beef Mirage: Taiwan Buys Big, Ranchers Still Lose"
 pubDate: 2025-09-29
 author: "Beef News"
 excerpt: "How Taiwan’s Ag Deal Masks a USDA Trade Skim—While U.S. Ranchers Get Nothing"
-image: "https://beefnews.org/wp-content/uploads/2025/09/img_0331.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/img_0331.jpeg"
 category: "Business"
 tags: ["brooke rollins", "ECAP", "Exports", "SDRP", "Taiwan"]
 featured: false
@@ -15,19 +15,19 @@ On paper, it worked. Taiwan is now America’s 7th largest agricultural buyer, i
 
 But behind the photo ops, a harder truth hides in plain sight: independent U.S. cattle producers were shut out, while the Big Four beef packers **skimmed international premiums**—**and USDA policies ensured they kept doing it.**
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Please support our partner.
 
 ###### **Beef Is the Crown Jewel—But Not for the Rancher**
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/image-42.png)](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=2024%20US%20Agricultural%20Exports%20to%20Taiwan%20Summary_Taipei_Taiwan_TW2025-0004.pdf)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-42.png)](https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=2024%20US%20Agricultural%20Exports%20to%20Taiwan%20Summary_Taipei_Taiwan_TW2025-0004.pdf)
 
 According to USDA data, Taiwan imported 62,503 metric tons of U.S. beef in 2024, worth $709.6 million, a 13% year-over-year value spike and a dominant 52% market share—beating both Australia and Paraguay.
 
 [USDA’s Taiwan trade summary](https://www.fas.usda.gov/data/taiwan-2024-us-agricultural-exports-taiwan-summary) confirms these numbers, echoed by the [U.S. Meat Export Federation](https://www.usmef.org/news/u-s-pork-exports-record-large-in-2024-beef-export-value-trends-higher-1), which noted it was the second-highest annual export total on record.
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/image-44-1024x578.png)](https://usmef-prod-clients-avibeweb.s3.amazonaws.com/files/91F669A5-7C0D-4684-B2E9-4B0B02DA8B94.pdf?AWSAccessKeyId=AKIATWRGK2SSWSHL6HQR&Expires=1759160588&Signature=hZowSet9krnZzjLgs2r4AeXe26A%3D)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-44-1024x578.png)](https://usmef-prod-clients-avibeweb.s3.amazonaws.com/files/91F669A5-7C0D-4684-B2E9-4B0B02DA8B94.pdf?AWSAccessKeyId=AKIATWRGK2SSWSHL6HQR&Expires=1759160588&Signature=hZowSet9krnZzjLgs2r4AeXe26A%3D)
 
 Source: [USMEF](https://usmef-prod-clients-avibeweb.s3.amazonaws.com/files/91F669A5-7C0D-4684-B2E9-4B0B02DA8B94.pdf?AWSAccessKeyId=AKIATWRGK2SSWSHL6HQR&Expires=1759160588&Signature=hZowSet9krnZzjLgs2r4AeXe26A%3D)
 
@@ -43,7 +43,7 @@ To ship beef to Taiwan, processors must comply with [APHIS traceability protocol
 
 U.S. consumers still have no mandatory country-of-origin labeling (MCOOL), meaning that the same plants exporting premium U.S. beef to Taiwan can sell mystery-blended meat to Americans without consequence.
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](https://betterfedfoods.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](https://betterfedfoods.com)
 
 Please Support Our Partner
 
@@ -57,19 +57,19 @@ https://beefnews.org/red-white-and-bullsht-how-the-wto-turned-product-of-usa-int
 
 ###### **Meanwhile, the Herd Collapses**
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/image-45.png)](https://www.nass.usda.gov/Newsroom/2025/01-31-2025.php)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-45.png)](https://www.nass.usda.gov/Newsroom/2025/01-31-2025.php)
 
 While Taiwan paid top dollar for U.S. beef, **the American cattle herd shrank to a 75-year low.**
 
 According to the [NASS January 2025 report](https://www.nass.usda.gov/Newsroom/2025/01-31-2025.php), total U.S. cattle inventory fell to 86.7 million head, down 1% from the previous year and 17% below 2017 levels. Even the [NASS July update](https://www.nass.usda.gov/Newsroom/2025/07-25-2025.php), which showed a seasonal uptick to 94.2 million head, couldn’t mask the contraction.
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-46.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-46.png)
 
 The reasons? **A lethal combination of high input costs, packer monopsony, and USDA exclusionary policy.**
 
 ###### **The USDA Gave Out $13.5 Billion. Not a Cent Went to Beef Producers.**
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/image-47.png)](https://www.fsa.usda.gov/resources/programs/emergency-commodity-assistance-program/dashboard)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-47.png)](https://www.fsa.usda.gov/resources/programs/emergency-commodity-assistance-program/dashboard)
 
 Source: [USDA](https://www.fsa.usda.gov/resources/programs/emergency-commodity-assistance-program/dashboard)
 
@@ -85,7 +85,7 @@ That logic didn’t apply to grains, where billions flowed.
 
 ###### **Beef Bailouts Blocked While Cartels Cash In**
 
-![](https://beefnews.org/wp-content/uploads/2025/09/img_0332-1024x768.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/img_0332-1024x768.jpeg)
 
 USDA's Brooke Rollins in Iowa
 
@@ -103,7 +103,7 @@ This isn’t free-market capitalism. It’s legalized skimming.
 
 ###### **What Did Taiwan Actually Buy?**
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-48.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-48.png)
 
 PHOTO: CNA
 

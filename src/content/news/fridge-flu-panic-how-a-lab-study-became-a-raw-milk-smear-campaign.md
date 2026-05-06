@@ -3,7 +3,7 @@ title: "Fridge Flu Panic: How a Lab Study Became a Raw Milk Smear Campaign"
 pubDate: 2025-06-26
 author: "Beef News"
 excerpt: "A lab study injected bird flu into raw milk—then media headlines made it sound like your fridge was the problem. AgDaily ran with it, and now North Carolina is moving to shut down herdshares and “pet milk” sales. Fear theater, not field data, is driving raw milk policy."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image.jpeg"
 category: "Farm Policy"
 tags: ["Bird Flu", "H5N1", "Raw Milk"]
 featured: false
@@ -29,7 +29,7 @@ And the authors themselves admitted it was a **worst-case scenario experiment**
 
 But that nuance didn’t matter. The scare had already gone viral.
 
-[![Realmilk.com](https://beefnews.org/wp-content/uploads/2025/06/findrealmilkhere.png)](HTTPS://realmilk.com)
+[![Realmilk.com](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/findrealmilkhere.png)](HTTPS://realmilk.com)
 
 ### Science Theater, UK Edition
 

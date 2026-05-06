@@ -3,7 +3,7 @@ title: "The Spirit of Servant Leadership"
 pubDate: 2024-05-25
 author: "Texas Slim"
 excerpt: "Amidst catastrophic winds and the resilience of the Texas Panhandle, Texas Slim urges us to embrace integrity and fortitude. Join him on this Modern-Day Cattle Drive, serve with purpose, and forge a legacy that withstands the storms."
-image: "https://beefnews.org/wp-content/uploads/2024/05/texasslim2.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/texasslim2.jpg"
 category: "Cowboy Talk"
 tags: ["Audio", "Monologue"]
 featured: false

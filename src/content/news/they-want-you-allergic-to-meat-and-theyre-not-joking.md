@@ -3,7 +3,7 @@ title: "They Want You Allergic to Meat—And They're Not Joking"
 pubDate: 2025-08-14
 author: "Beef News"
 excerpt: "Western Michigan professors just argued it's morally permissible to let tick bites make you allergic to meat—because it might \"improve your behavior.\" This isn’t satire. It’s bioethics by bioweapon."
-image: "https://beefnews.org/wp-content/uploads/2025/08/image-11.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-11.png"
 category: "Climate"
 tags: ["AGS", "Alpha-Gal Syndrome", "Meat Allergy", "Tick", "WMU"]
 featured: false
@@ -15,7 +15,7 @@ No, that’s not satire. It’s a **peer-reviewed paper** published in [*Bioethi
 
 The authors? **Parker Crutchfield** and **Blake Hereth**, both faculty at **[Western Michigan University](https://www.med.wmich.edu/medicalethicsresearch)**.
 
-![](https://beefnews.org/wp-content/uploads/2025/08/img_0302-1024x535.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/img_0302-1024x535.jpeg)
 
 Beneficial Bloodsucking: Parker Crutchfield (left), Blake Hereth (right).
 
@@ -25,7 +25,7 @@ Their words:
 
 “The bite of the lone star tick spreads alpha-gal syndrome (AGS), a condition whose only known treatment is the avoidance of all mammalian meat. Thus, they eat less red meat, which is an improvement in their capacity for moral behavior.”
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](HTTPS://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](HTTPS://westonaprice.org)
 
 Advertisement
 
@@ -33,11 +33,11 @@ Advertisement
 
 **Alpha-Gal Syndrome (AGS)** is a medically confirmed condition triggered by the bite of the [**lone star tick**](https://www.cdc.gov/alpha-gal-syndrome/about/index.html) (*Amblyomma americanum*). The tick introduces [**galactose-α-1,3-galactose**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9673307/)—a sugar molecule found in mammalian tissue—into the bloodstream.
 
-![](https://beefnews.org/wp-content/uploads/2025/08/image-12-1024x684.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-12-1024x684.png)
 
 This exposure causes the immune system to produce [**IgE antibodies**](https://pubmed.ncbi.nlm.nih.gov/33636288/) that later trigger a delayed allergic reaction when the person consumes beef, pork, lamb, dairy, or gelatin. Symptoms range from **hives, nausea, and vomiting** to **anaphylactic shock**. Reaction time is delayed, often **3 to 8 hours after ingestion**, making diagnosis difficult.
 
-![](https://beefnews.org/wp-content/uploads/2025/08/image-13-1024x717.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-13-1024x717.png)
 
 “[Alpha-gal syndrome](https://www.fairfaxtimes.com/articles/health_and_food/advocates-laud-passing-of-bill-to-track-alpha-gal/article_29805a2e-e23c-11ee-8ab1-2fd4c7b0e51e.html).” Source: Zwicker (2024)
 
@@ -53,7 +53,7 @@ Their paper in [*Bioethics*](https://doi.org/10.1111/bioe.70015) proposes that *
 
 In their logic, the allergic response to meat consumption forces people to stop eating beef or pork, which they interpret as a **climate-positive behavioral shift**. The authors cite [**IPCC data**](https://www.ipcc.ch/site/assets/uploads/2019/08/2f.-Chapter-5_FINAL.pdf) claiming livestock contribute **14.5% of global greenhouse gas emissions**, and argue that reducing meat intake could slash emissions by **5–10%**.
 
-![](https://beefnews.org/wp-content/uploads/2025/08/image-14-1024x851.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/image-14-1024x851.png)
 
 “[Contribution of Meat and dairy production to climate change](https://dialogue.earth/en/climate/livestock-conversation-missing-from-climate-talks/).” Source: Shanahan (2021)
 
@@ -65,7 +65,7 @@ That’s not public health. That’s ***biopolitical coercion***.
 
 ## **What They’re Not Telling You**
 
-![](https://beefnews.org/wp-content/uploads/2025/08/img_0301-802x1024.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/img_0301-802x1024.jpeg)
 
 The media backlash has been fast and clumsy. [**Slay News**](https://slaynews.com/news/scientists-push-plan-spread-fatal-meat-allergy-public-fight-climate-change/) exaggerated the paper as a call to action. Social media posts calling it “eco-terrorism” went viral. But beneath the noise, the core claim remains intact:
 
@@ -120,6 +120,6 @@ Before the ticks bite and the technocrats win—lock in your **Rancher Direct C
 
 Get **Beef You Can Trust**—Dr. Kat Lindley’s handpicked box from **Ebe*****rsole Cattle Co.**, packed with nutrient-dense, **Rancher Direct Certified℠** beef raised the way nature and freedom intended.*
 
-[![](https://beefnews.org/wp-content/uploads/2025/08/img_0298-787x1024.png)](https://beefpartnerships.com/products/dr-kat-s-beef-you-can-trust-box)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/img_0298-787x1024.png)](https://beefpartnerships.com/products/dr-kat-s-beef-you-can-trust-box)
 
 20lbs of Clean Beef for just $297.00!

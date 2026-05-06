@@ -3,13 +3,13 @@ title: "\"Get Big or Get Out\": The Year They Canceled the American Farmer"
 pubDate: 2025-07-04
 author: "Beef News"
 excerpt: "In 1971, CBS wiped rural America off the screen—not because ratings dropped, but because elites wanted a new narrative. At the same time, the USDA told family farmers to “get big or get out,” triggering mass consolidation and collapse. The result was a nation where the people who feed us lost both their market—and their myth."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-9.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-9.png"
 category: "Business"
 tags: ["Beverly Hillbillies", "CBS", "Earl Butz", "Get Big or Get Out", "Maude", "TV Shows", "USDA"]
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-15.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-15.png)
 
 The Douglas' Home on the TV Show *Green Acres*
 
@@ -28,19 +28,19 @@ Policy dispossession, then media exile.
 The family farm was forced to sell.\
 Then it was forced to disappear.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Advertisement
 
 ## The Rural Purge: Culture Edited by Committee
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-16-1024x318.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-16-1024x318.png)
 
 *The "Hee Haw" gang*
 
 In a span of months, CBS canceled nearly every show that reflected agrarian, traditional, or small-town life: *Green Acres*, *The Beverly Hillbillies*, *Mayberry R.F.D.*, *Hee Haw*, *The Doris Day Show*, *Lassie*, *Gomer Pyle*—all gone. Many were still pulling strong ratings.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-22.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-22.png)
 
 Screenshot from [IMDB](https://www.imdb.com/list/ls070707368/)
 
@@ -48,7 +48,7 @@ They were replaced by *All in the Family*, *Maude*, *Mary Tyler Moore*, *The Jef
 
 ## Not Just Letters—Real Pressure, Real Power
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-13-1024x757.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-13-1024x757.png)
 
 A scene from the show *Bridget Loves Bernie*
 
@@ -64,7 +64,7 @@ As documented in multiple sources:
 
 Their concern was theological, not political. Interfaith marriage—especially in 1973—was seen by many as incompatible with Jewish law. That critique deserved to be heard.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-18.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-18.png)
 
 Scene from the "Abortion" episode on *Maude*
 
@@ -80,7 +80,7 @@ And that difference still matters.
 
 ## Enter Butz: When the USDA Declared War on Small Farms
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-9-1024x735.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-9-1024x735.png)
 
 Earl Butz, Secretary of Agriculture under Nixon
 
@@ -88,7 +88,7 @@ Meanwhile, Agriculture Secretary **Earl Butz** dismantled the systems that had s
 
 He eliminated grain reserves, ended supply controls, and told farmers to scale or die. His “fencerow to fencerow” doctrine unleashed a flood of cheap corn and soy. This policy shift ignited the rise of vertically integrated packers like Cargill and Tyson—and crushed independent operations under debt.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-10.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-10.png)
 
 By 1980, more than **1.7 million farms** had [disappeared](https://www.ers.usda.gov/data-products/chart-gallery/chart-detail?chartId=58268) since 1950. And the [farm crisis of the ’80s](https://web.archive.org/web/20160410045108/http://site.iptv.org/mtom/classroom/module/13999/farm-crisis)—suicides, bankruptcies, generational collapse—was already in motion.
 
@@ -102,13 +102,13 @@ Here’s what happened in just twelve months:
 - Nixon ended the gold standard—ushering in a financialized, debt-driven food economy.
 - Soviet [grain deals](https://time.com/archive/6811390/nation-the-great-wheat-deal/) flooded global markets—locking farmers into export dependency.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-12-1024x412.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-12-1024x412.png)
 
 The result? A nation where real food producers lost both their **market** and their **myth**.
 
 ## **Today’s Echo: From Feedlots to Fake Meat—and Back to the Bloc**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-21.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-21.png)
 
 Scene from the show *Yellowstone*
 
@@ -128,7 +128,7 @@ https://beefnews.org/from-maha-to-maba-the-pharma-memo-that-captured-a-movement/
 
 ## What They Erased, We Rebuild
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-20-1024x610.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-20-1024x610.png)
 
 Scene from protests during the 1980s Farm Crisis
 

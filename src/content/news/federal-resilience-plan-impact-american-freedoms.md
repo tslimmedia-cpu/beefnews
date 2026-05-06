@@ -3,7 +3,7 @@ title: "America The Titanic - Managing After Impact with the Disastrous Biden/Ha
 pubDate: 2024-11-11
 author: "Breeauna Sagdal"
 excerpt: "America stands at a critical tipping point. This policy paper warns that recent federal resilience initiatives, advanced under the banner of equity, have centralized control across nearly all aspects of American life—from local governance to individual choices. To protect the foundational freedoms of America's farmers and ranchers, the I Am Texas Slim Foundation calls for immediate executive actions to dismantle these mandates and restore power to communities, pushing back against what they describe as a coordinated agenda of control disguised as resilience."
-image: "https://beefnews.org/wp-content/uploads/2024/11/image-16.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-16.png"
 category: "Farm Policy"
 tags: ["Government Overreach", "Save Our Farms"]
 featured: false
@@ -17,7 +17,7 @@ While the last twenty years have been an apt analogy to the Titanic leaving port
 
 In order to preserve life, liberty, and property- the most basic tenets of Western democracy  - President Trump will need to use his executive authority within the first days of office to direct administrative agencies. These initial directives will ensure that lifeboats are equally filled to the maximum capacity, and that nobody is locked below decks to drown in the executive fiat of the prior administration.
 
-![](https://beefnews.org/wp-content/uploads/2024/11/image-12.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-12.png)
 
 *Created in 2004 by Congressional Research Counsel, this map most accurately illustrates Resettlement and Relocation under the “whole-of-government” Federal Plan for Equitable Long-Term Recovery and Resilience.*
 
@@ -41,7 +41,7 @@ Taking these restorative actions is analogous to unlocking the lower deck gates 
 
 When the Biden/Harris administration issued E.O. 14008, [United Nations funded](https://substack.com/home/post/p-149786224) NGOs had already created the framework or “[playbooks](https://emeraldcities.org/j40playbook/),” and the lens for which every cent of the Inflation Reduction Act, and The Infrastructure Investment and Jobs Act (IIJA) would be allocated through federal agencies.
 
-![](https://beefnews.org/wp-content/uploads/2024/11/image-13.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-13.png)
 
 The Justice40 Initiative established a new “whole-of-government” approach to federal tax zoning structures that would funnel private equity, and public grants into the creation of the SMART Grid, and SMART Cities. In addition, Justice40 programs have created a discriminatory social scoring model through benefits and entitlements that justify exploitation by corporate interests as being “climate justice,” and “equitable.” The contractual obligations of these programs subvert local control by centralizing administrative control over water rights, zoning, community development, and land use to Federal agencies, based upon U.N. Sustainable Development Goals.
 
@@ -52,7 +52,7 @@ In addition, given the significant funding for federal acquisition of lands, [re
 
 As such, one of the first Executive Orders of the Trump administration must immediately reverse E.O. 14008 and direct all agencies to pause funding.
 
-![](https://beefnews.org/wp-content/uploads/2024/11/image-14.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-14.png)
 
 *2024 election map - the areas in blue, representing Harris votes, appear to align with the proposed SMART City infrastructure grid. The areas in red, representing Trump votes, appear to align with the areas under review for federal acquisition and relocation. Further analysis is required to determine if federal funding allocations were intended to impact future elections through redistricting.*
 
@@ -86,7 +86,7 @@ Unfortunately, the result has been anything but civil as Equity Teams have imple
 
 When the Biden administration relaunched the United States Refugee Admissions Program (USRAP), by [executive order,](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/04/executive-order-on-rebuilding-and-enhancing-programs-to-resettle-refugees-and-planning-for-the-impact-of-climate-change-on-migration/) Homeland Security, HUD, and various applicable agencies responded with a “whole-of-government” approach to [Resettlement and Relocation](https://www.federalregister.gov/documents/2024/01/22/2024-01116/waivers-and-alternative-requirements-for-community-development-block-grant-disaster-recovery-cdbg-dr) that sparked another U.N funded [chain of events](https://www.federalregister.gov/documents/2024/03/28/2024-06655/60-day-notice-of-proposed-information-collection-relocation-options-study-omb-control-no-2528-new). Most notably, the new agency immediately set to work to redefine citizenship in the United States by implementing the new USRAP guidance. Agencies then implemented the Climate and Economic Justice Screening Tool (CEJST) in order to [rank human resettlement and relocation](https://www.federalregister.gov/documents/2024/09/04/2024-19738/30-day-notice-of-proposed-information-collection-relocation-options-study-omb-control-no-2528-new) based upon climate risks. Not only has this action threatened national sovereignty, but it also laid the foundation for ranking land acquisitions in the United States based upon arbitrary A.I mapping tools (such as the [NALN](http://development2040.farmland.org/) A.I. tool by American Farm Trust),  and capricious definitions of “climate migrants” that include U.S. citizens and illegal immigrants alike.
 
-![](https://beefnews.org/wp-content/uploads/2024/11/image-15.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image-15.png)
 
 Similar to the Justice40 Initiative, these new Climate-Informed Science Approaches have been implemented by FEMA/Dept. of Homeland Security, HUD, and the USDA in order to determine new boundaries where Americans are no longer allowed to rebuild, including “open spaces,” “green spaces,” and “rewilding” areas where humans are either allowed limited/conditional use access, or prohibited from access entirely—”no-go zones.”
 
@@ -96,7 +96,7 @@ Once purchased, the property will be “publicly owned.” Program funds will pa
 
 > ###### “Land will be held in perpetuity… and may not be redeveloped. A restrictive covenant referenced in the deed shall ensure that the properties purchased under the Strategic Buyout Program will never be redeveloped and will be maintained as greenspace in perpetuity. As part of the closing process, the deed with restrictive covenants will be recorded in the Register of Deed’s office in the county where the property is located.”
 
-![](https://beefnews.org/wp-content/uploads/2024/11/image000000-459x1024.jpg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/11/image000000-459x1024.jpg)
 
 [HUD regulations](https://www.rebuild.nc.gov/strategic-buyout-program-manual-english/open), which govern the Strategic Buyout of North Carolina, state that buyout programs providing monetary incentives designed to meet national objectives fall under the following provisions:
 

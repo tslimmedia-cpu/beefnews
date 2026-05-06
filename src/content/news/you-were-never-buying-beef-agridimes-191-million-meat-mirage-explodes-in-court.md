@@ -3,7 +3,7 @@ title: "“You Were Never Buying Beef” — Agridime’s $191 Million Meat Mira
 pubDate: 2025-06-16
 author: "Beef News"
 excerpt: "Agridime promised investors a stake in real American cattle. What they got instead was a $191 million Ponzi scheme—complete with fake livestock contracts, undisclosed commissions, and a federal court order for $102.9 million in restitution. Regulators admit most victims may never see their money again."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-31.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-31.png"
 category: "Business"
 tags: ["Agridime", "Ghost Cattle", "Ponzi Scheme"]
 featured: false
@@ -17,7 +17,7 @@ The problem? The cattle weren’t real—at least not in the volume required to 
 
 ### **The Setup**
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-32-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-32-1024x576.png)
 
 Agridime marketed itself as a cattle supply chain disruptor. Customers could “buy” a steer, have it raised, and receive their principal plus profits after processing. But beneath that patriotic pitch was an elaborate shell game.
 

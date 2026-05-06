@@ -3,7 +3,7 @@ title: "America's Farmland is Dying-- And BetterFedFoods Has a Plan to Save It."
 pubDate: 2025-10-13
 author: "Beef News"
 excerpt: "America lost over 500,000 farms. The cattle herd is down 2 million. But Bernie Hansen from BetterFedFoods is proving that rebuilding starts from the ground up—with biologically intelligent beef, real economic viability, and ranchers who refuse to quit."
-image: "https://beefnews.org/wp-content/uploads/2025/10/image-7-scaled.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/10/image-7-scaled.png"
 category: "Business"
 tags: ["Bernie Hansen", "BetterFedFoods", "Bovaer", "Farm Debt", "Great O Plus", "Suicide rates"]
 featured: false
@@ -17,7 +17,7 @@ But there are ranchers fighting to **rebuild**. Not just their own operations—
 
 "It went to hell in a hand basket," said Hansen about the 1980s farm crisis. He’s not exaggerating. Since 1982, the U.S. has lost **over 500,000 farms**—nearly one in four. In just the last five years, 141,000 vanished, per the [USDA Census of Agriculture](https://www.nass.usda.gov/Publications/Highlights/2024/Census22_HL_FarmsFarmland.pdf). What replaced them? [**Monopolies**.](https://beefnews.org/they-rigged-the-market-printed-the-money-then-blamed-the-rancher/)
 
-![](https://beefnews.org/wp-content/uploads/2025/10/image-5-1024x944.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/10/image-5-1024x944.png)
 
 Meanwhile, **debt has surged**. Interest on farm operating loans is at a **[25-year high](https://www.chicagofed.org/publications/agletter/2025-2029/august-2025) of nearly 8%**, while delinquency rates have climbed to **[over 2%](https://www.federalreserve.gov/releases/chargeoff/delallsa.htm)** at commercial banks—levels unseen since the early 2010s—according to [Federal Reserve surveys](https://www.federalreserve.gov/releases/chargeoff/delallsa.htm) and [ERS data](https://www.ers.usda.gov/topics/farm-economy/farm-sector-income-finances/assets-debt-and-wealth). The math doesn’t work: **[$3.90 corn](https://tradingeconomics.com/commodity/corn)** and **$2 million combines** are a recipe for bankruptcy, not prosperity .
 
@@ -29,7 +29,7 @@ Then came the **2025 shutdown**. The [USDA’s contingency plan](https://www.usd
 
 That’s not just sentiment. It’s data. According to the [CDC’s NVDRS](https://stacks.cdc.gov/view/cdc/84275), **suicide rates among farmers** are **3.5x the national average**. Among male farmers? Even higher.
 
-[![](https://beefnews.org/wp-content/uploads/2025/10/image-6-1024x413.png)](https://beefnews.org/they-rigged-the-market-printed-the-money-then-blamed-the-rancher/)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/10/image-6-1024x413.png)](https://beefnews.org/they-rigged-the-market-printed-the-money-then-blamed-the-rancher/)
 
 Source: [CDC](https://stacks.cdc.gov/view/cdc/84275)
 
@@ -75,6 +75,6 @@ Find local, verified, nutrient-dense beef at [BeefMaps.com](https://beefmaps.com
 Learn more about BetterFedFoods at [BetterFedFoods.com](https://betterfedfoods.com/).\
 Are you rancher looking to increase the health of your herd? Learn more about BetterFedFood's [Great O Plus Omega Cattle Feed](https://greatoplus.com/beef-feed-cattle-feed-omega/).
 
-[![](https://beefnews.org/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](https://betterfedfoods.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)](https://betterfedfoods.com)
 
 Because rebuilding America starts with **rebuilding the herd**.

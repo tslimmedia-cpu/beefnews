@@ -3,7 +3,7 @@ title: "Regenerative Agriculture in the Trump World: Farmers First is a Lie"
 pubDate: 2026-03-16
 author: "Beef News"
 excerpt: "While local FSA offices told ranchers they’d “heard nothing” about the $700 million USDA Regenerative Pilot Program, Canadian fertilizer giant Nutrien — backed by BlackRock and Vanguard — was already positioning to capture $300 million of it. Farmers First, indeed.​​​​​​​​​​​​​​​​"
-image: "https://beefnews.org/wp-content/uploads/2026/03/pexels-photo-2423342.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/03/pexels-photo-2423342.jpeg"
 category: "Business"
 tags: ["Regenerative", "Trent Loos", "Trump"]
 featured: false

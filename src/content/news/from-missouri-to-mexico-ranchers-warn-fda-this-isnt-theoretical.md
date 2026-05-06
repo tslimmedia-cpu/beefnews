@@ -3,7 +3,7 @@ title: "From Missouri to Mexico: Ranchers Warn FDA—‘This Isn’t Theoretical
 pubDate: 2025-06-10
 author: "Beef News"
 excerpt: "A false report of New World Screw Worm in Missouri sent cattle markets into turmoil, exposing deep vulnerabilities in U.S. food security. Ranchers are now urging the FDA to approve ivermectin as a frontline feed-through defense. With border breaches escalating biosecurity risks, the call is clear: act now or pay later"
-image: "https://beefnews.org/wp-content/uploads/2025/06/3505129c-0ef3-4f11-a3a7-7e3a7e15d4ed.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/3505129c-0ef3-4f11-a3a7-7e3a7e15d4ed.png"
 category: "Farm Policy"
 tags: ["FDA", "Max Thornsberry", "New World Screwworm", "NWS", "RCALF"]
 featured: false
@@ -25,4 +25,4 @@ Ranchers and market stakeholders remain vigilant, advocating decisive FDA action
 
 **[BeefMaps.com](HTTPS://beefmaps.com) connects consumers directly to independent ranchers, ensuring food security starts with knowing exactly where—and who—your beef comes from**
 
-[![BeefMaps](https://beefnews.org/wp-content/uploads/2025/06/image-7-1024x546.png)](Https://beefmaps.com)
+[![BeefMaps](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-7-1024x546.png)](Https://beefmaps.com)

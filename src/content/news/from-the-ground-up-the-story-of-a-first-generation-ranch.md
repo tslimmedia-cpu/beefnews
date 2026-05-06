@@ -3,19 +3,19 @@ title: "From The Ground Up: The Story Of A first Generation Ranch"
 pubDate: 2025-03-24
 author: "Legacy Ranch"
 excerpt: "Sawyer and Abbie Cottrell didn’t inherit a ranch—they built one from scratch with grit, vision, and a dream of giving their kids a meaningful life. Legacy Ranch American Wagyu now serves backyard grillers across the country, but its roots are in relationships, education, and second chances. From Friday burger grills in Eureka to Snack Stick Subscriptions and a growing team of young ag dreamers, this isn’t just a ranch—it’s a movement."
-image: "https://beefnews.org/wp-content/uploads/2025/03/image-13.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-13.png"
 category: "Beef Maps"
 tags: ["American Wagyu", "Eureka Illinois", "Legacy Ranch"]
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2025/03/image-13-1024x682.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-13-1024x682.png)
 
 Sawyer and Abbie Cottrell are like many young ranchers. They want to give their sons and daughter a childhood that’s meaningful and that will live beyond themselves.
 
 The Cottrell homestead sits at the end of a long gravel driveway just miles down the road from Eureka High School where Sawyer teaches agriculture classes. Cows and their calves graze on a grass lot on the left. Two pens of cattle are being fed and grown for meat production in the back lots.
 
-![](https://beefnews.org/wp-content/uploads/2025/03/image-14.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-14.png)
 
 ## ***Sawyer wasn't raised on a farm***.
 
@@ -29,13 +29,13 @@ Sawyer earned a degree in agricultural education, then began teaching ag classes
 
 A friend introduced Sawyer to Wagyu [pronounced waa·gyoo] cattle, originating from Japan, with increased marbling that results in high-end, tasty steaks.
 
-![](https://beefnews.org/wp-content/uploads/2025/03/image-15-1024x682.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-15-1024x682.png)
 
 He used artificial insemination to breed his first five Angus cows to a Wagyu bull. While those calves matured, Sawyer bought several market-ready cattle that allowed him to harvest and market meat for immediate income.
 
 He expanded the herd and bought half-Wagyu cows and a full-blooded red Akaushi Wagyu bull named Tex from Texas, as well as a black Wagyu bull. Akaushi are known for their high growth potential; black Wagyu are known for their high marbling characteristics.
 
-![](https://beefnews.org/wp-content/uploads/2025/03/image-16-683x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-16-683x1024.png)
 
 ## **Products and Marketing**
 
@@ -49,7 +49,7 @@ The ranch operates [The Farm Store](https://legacyranchaw.com/collections/all), 
 
 “We want to take down every entry barrier to try our product. It’s as farm-to-table as you could possibly get.”
 
-![](https://beefnews.org/wp-content/uploads/2025/03/image-17-1024x682.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-17-1024x682.png)
 
 ## ***Expanding Opportunities for New-to-Farming Youth***
 
@@ -63,7 +63,7 @@ Together, Kylie and Naomi handle the shipping of products, the Farm Store sales,
 
 Sawyer would agree. “We don’t farm grass; we are farming relationships,” he says. “If we don’t have relationships, we don’t have a business.”
 
-![](https://beefnews.org/wp-content/uploads/2025/03/image-18-1024x682.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-18-1024x682.png)
 
 ***The Cottrell Family***\
 ***(Turner, Sawyer, Sierra, Abbie, & Paxton)***
@@ -78,7 +78,7 @@ Driven by a desire to create a lasting legacy, Sawyer aims to provide opportunit
 
 We want to create a small farm boutique platform that sells other farms’ products to tell their stories with ours,” Sawyer says. They hope to expand the Eureka storefront.
 
-![](https://beefnews.org/wp-content/uploads/2025/03/image-19-1024x682.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/03/image-19-1024x682.png)
 
 ***The Legacy Ranch Team***
 

@@ -3,7 +3,7 @@ title: "Barriers to Entry: Tariffs, US Cattlemen, and Beef Maps"
 pubDate: 2025-04-18
 author: "Beef News"
 excerpt: "Imported beef. Rigged labels. Four corporations controlling your food. This episode of Beef Maps X Spaces exposes the true barriers keeping American ranchers out—and shows how BeefMaps.com is flipping the system on its head. Real ranchers, real connections, no middlemen."
-image: "https://beefnews.org/wp-content/uploads/2025/04/pexels-photo-12578636.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/pexels-photo-12578636.jpeg"
 category: "Beef Maps"
 tags: ["beef maps", "tariffs"]
 featured: false

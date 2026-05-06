@@ -3,7 +3,7 @@ title: "JBS Debuts on the NYSE – Day One, Immigrant Workers Ok’d in Slaughte
 pubDate: 2025-06-15
 author: "Beef News"
 excerpt: "JBS’s NYSE debut on June 13, 2025 glossed over a dark undercurrent—just one day later, ICE green-lighted undocumented labor in meatpacking plants even as JBS pledges to purge child labor through compliance funds and tip‑lines. That $4 million settlement may buy headlines, but who’s actually verifying zero‑tolerance on-site, and why is the government pausing enforcement for adults while prosecuting staffing firms for employing teenagers? As investors cheer the stock debut, the real question is: are vulnerable children still being treated as collateral damage in the drive for profit?"
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-30.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-30.png"
 category: "Business"
 tags: ["Illegal Immigration", "JBS", "NYSE"]
 featured: false
@@ -17,7 +17,7 @@ On **June 13, 2025**, Brazilian meat giant **JBS** quietly slipped onto the Ne
 
 Just a day after the listing, whispers turned to headlines: President **Trump** ordered ICE to **halt mass raids at meatpacking plants**, farms, hotels, and restaurants—effectively greenlighting undocumented labor in essential sectors. There were sighs of relief from lobbyists and cattlemen, but the question remains: if undocumented workers can be reclaimed as “needed” one day after mass arrests, why were migrant children being punished yesterday?
 
-[![](https://beefnews.org/wp-content/uploads/2025/06/image-28-1024x580.png)](https://truthsocial.com/@realDonaldTrump/posts/114670684664650262)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-28-1024x580.png)](https://truthsocial.com/@realDonaldTrump/posts/114670684664650262)
 
 In **January 2025**, the Department of Labor quietly forced JBS and Perdue to pay restitution for **[employing children as young as 13](https://www.dol.gov/newsroom/releases/whd/whd20230217-1)** in dangerous, overnight sanitation jobs inside slaughterhouses. JBS dropped **$4 million**, funneled through the nonprofit [KIND](https://supportkind.org/), pledging audits, hotlines, and a no‑child‑labor policy for contractors. But as trucks roll into the processing plants with undocumented hands onboard, where are the real, measurable **audits**? On what authority will the company enforce zero‑tolerance against the very practices its subcontractors exploited?
 
@@ -39,7 +39,7 @@ Now, with Trump in the Oval Office signaling leniency for “good” undocumente
 
 ## **And what about the kids?**
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-30-1024x583.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-30-1024x583.png)
 
 Photo from the US Dept. of Labor
 

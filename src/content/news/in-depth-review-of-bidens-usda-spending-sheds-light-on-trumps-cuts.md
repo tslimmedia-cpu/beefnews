@@ -3,7 +3,7 @@ title: "In-Depth Review of Biden's USDA Spending Sheds Light on Trump's Cuts"
 pubDate: 2025-04-16
 author: "Breeauna Sagdal"
 excerpt: "Retrospective Policy Paper by Door to Freedom"
-image: "https://beefnews.org/wp-content/uploads/2025/04/40105_food-security_fig06.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/40105_food-security_fig06.png"
 category: "Business"
 tags: ["Biden", "DoorToFreedom", "EBT", "SNAP", "Trump", "USDA"]
 featured: false

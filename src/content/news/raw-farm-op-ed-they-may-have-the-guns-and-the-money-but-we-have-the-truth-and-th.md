@@ -3,7 +3,7 @@ title: "Raw Farm Op-Ed: They May Have the Guns and the Money, But We Have the Tr
 pubDate: 2024-12-14
 author: "Beef News"
 excerpt: "Big Dairy pushes profits over people, but pioneers like Mark McAfee of Raw Farm are fighting back with the truth. Discover why raw milk is more than just milk—it’s a movement for health, integrity, and freedom."
-image: "https://beefnews.org/wp-content/uploads/2024/12/image-42.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-42.png"
 category: "Farm Policy"
 tags: ["Mark McAfee", "Market Access", "Raw Farm", "Raw Milk", "Weston A. Price"]
 featured: false
@@ -11,7 +11,7 @@ featured: false
 
 By Mark McAfee, CEO of Raw Farm
 
-![](https://beefnews.org/wp-content/uploads/2024/12/image-42-1024x682.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-42-1024x682.png)
 
 Raw Farm Chief Executive Mark McAfee drinks raw milk from his Fresno dairy. (Tomas Ovalle / For The LA Times)
 
@@ -25,7 +25,7 @@ However, as [a pioneer of a thriving raw milk brand in California](https://rawfa
 
 This is absolutely **UNTRUE**.
 
-![](https://beefnews.org/wp-content/uploads/2024/12/image-43.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-43.png)
 
 There are [huge studies performed in Europe](https://www.rawmilkinstitute.org/updates/raw-milk-asthma-and-lung-health?utm_source=chatgpt.com) showing that thousands of kids (studied over many years) who drink raw milk have much lower incidences of asthma, fever, ear infections, colds, and flu.
 
@@ -65,7 +65,7 @@ Dairies are encouraged to stay HPAI-positive by introducing uninfected cows to p
 
 **Note:** The Navy SEALs in San Diego stopped using PCR for water testing due to its inaccuracies. **Culture confirmation** is a better tool, but the USDA and FDA refuse to use it.
 
-[![](https://beefnews.org/wp-content/uploads/2024/12/image-44-1024x287.png)](https://rawfarmusa.com/find)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-44-1024x287.png)](https://rawfarmusa.com/find)
 
 ### **Raw Farm’s Safety Measures**
 
@@ -75,11 +75,11 @@ Raw Farm [tests all raw milk](https://www.theaccrescent.com/podcast-ep-161-mark-
 
 *Big Dairy’s got the money, but you’ve got the truth – and Raw Farm USA is leading the way. Support Mark McAfee and taste the difference with raw milk: <https://rawfarmusa.com/find>.*
 
-![](https://beefnews.org/wp-content/uploads/2024/12/image-45-1024x523.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-45-1024x523.png)
 
 *\
 \
 This piece is brought to you in part by the **Weston A. Price Foundation** and **RealMilk.com**, champions of traditional diets and nutrient-dense foods. Discover the benefits of raw milk by requesting a **free info pack**: [westonaprice.org](https://secure.westonaprice.org/CVWEB_WESTON/cgi-bin/memberdll.dll/openpage?wrp=customer_new_infopak.htm).*
 
-[![Weston A. Price Foundation](https://beefnews.org/wp-content/uploads/2024/12/image-46-1024x341.png)](https://secure.westonaprice.org/CVWEB_WESTON/cgi-bin/memberdll.dll/openpage?wrp=customer_new_infopak.htm)
-[![](https://beefnews.org/wp-content/uploads/2024/12/image-48-1024x209.png)](https://realmilk.com)
+[![Weston A. Price Foundation](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-46-1024x341.png)](https://secure.westonaprice.org/CVWEB_WESTON/cgi-bin/memberdll.dll/openpage?wrp=customer_new_infopak.htm)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/12/image-48-1024x209.png)](https://realmilk.com)

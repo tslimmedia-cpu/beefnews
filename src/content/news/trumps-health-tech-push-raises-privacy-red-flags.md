@@ -3,7 +3,7 @@ title: "TRUMP’S HEALTH TECH PUSH RAISES PRIVACY RED FLAGS"
 pubDate: 2025-08-08
 author: "Beef News"
 excerpt: "Trump’s new Health Technology Ecosystem links your medical records to Amazon, Google, Oracle, and OpenAI—under the banner of “opt-in.” Privacy advocates call it a \"data monetization scheme\" in disguise, warning of tech giants mining your health history."
-image: "https://beefnews.org/wp-content/uploads/2025/08/img_0273.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/08/img_0273.jpeg"
 category: "Health"
 tags: ["Center for Digital Democracy", "Google", "OpenAI", "QR Codes", "Steven Middendorp", "The Highwire", "Trump", "Wearables"]
 featured: false

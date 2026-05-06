@@ -3,13 +3,13 @@ title: "Video: Bird Flu, Beef Imports, and the Future of Food"
 pubDate: 2025-02-13
 author: "Beef News"
 excerpt: "Bird flu mandates are wiping out herds and driving up food prices, but is there more to the story? In this must-hear discussion with Texas Slim and medical experts from VSRF, we expose how government overreach, mRNA vaccines in livestock, and imported beef threaten your dinner plate—and what you can do to fight back."
-image: "https://beefnews.org/wp-content/uploads/2025/02/image-8.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/02/image-8.png"
 category: "Farm Policy"
 tags: ["beef imports", "Bird Flu Mandates", "Food Sovereignty", "local ranchers", "mRNA vaccines in livestock"]
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2025/02/image-8-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/02/image-8-1024x576.png)
 
 **Source & Broadcast Details:**
 

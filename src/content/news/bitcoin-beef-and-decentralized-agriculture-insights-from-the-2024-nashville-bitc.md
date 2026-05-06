@@ -3,7 +3,7 @@ title: "Bitcoin, Beef, and Decentralized Agriculture: Insights from the 2024 Nas
 pubDate: 2024-10-04
 author: "Beef News"
 excerpt: "Discover how decentralized agriculture, powered by Bitcoin, is revolutionizing food sovereignty in the U.S. At the 2024 Bitcoin Conference, Texas Slim, Breeauna Sagdal, Elizabeth Murphy, and Cole Bolton unveil the future of decentralized agriculture. With America losing 27,000 farms annually, they explore how Bitcoin can empower ranchers, restore the value of land and cattle, and combat growing threats to our food supply. Learn how innovation and local partnerships are reshaping the way we feed the nation."
-image: "https://beefnews.org/wp-content/uploads/2024/10/bitcoin2024.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/10/bitcoin2024.jpg"
 category: "Cowboy Talk"
 tags: ["Bitcoin 2024", "Breeauna Sagdal", "Decentralized Agriculture", "Elizabeth Murphy", "Weston A. Price"]
 featured: false

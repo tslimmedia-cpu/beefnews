@@ -3,7 +3,7 @@ title: "The Big Four Just Became Five: Walmart Quietly Captures the Beef Chain"
 pubDate: 2025-06-28
 author: "Beef News"
 excerpt: "Walmart has spent over $660 million building its own beef empire—from processor to packaging plant to retail shelf. That makes them more than just a grocer; it makes them the fifth major packer, joining Tyson, JBS, Cargill, and National Beef. The press calls it “resilience,” but ranchers know what it really is: vertical consolidation dressed in feel-good PR."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-58.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-58.png"
 category: "Business"
 tags: ["Kansas", "Olathe", "Sustainable Beef LLC", "Walmart"]
 featured: false
@@ -24,7 +24,7 @@ Trust, sure. Just don’t ask who sets the prices for the people raising the cat
 
 ---
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Advertisement
 
@@ -46,7 +46,7 @@ The middle? Gone.
 
 ### Small Processors Wiped Out
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-60-1024x683.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-60-1024x683.png)
 
 According to USDA’s [Packers and Stockyards Report](https://www.ams.usda.gov/sites/default/files/media/PackersandStockyards2021_2022ReporttoCongress.pdf), the number of federally inspected beef slaughter plants declined from 297 in 2013 to 271 by 2022. And that’s just the headline.
 
@@ -58,7 +58,7 @@ Nationwide, small and mid-sized beef processors have [declined sharply](https://
 
 ### From Four to Five: The New Packing Order
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-59-1024x659.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-59-1024x659.png)
 
 The Big Four meatpackers—Tyson, JBS, Cargill, and National Beef—have dominated the industry for decades.
 

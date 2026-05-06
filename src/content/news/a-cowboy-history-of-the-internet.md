@@ -3,7 +3,7 @@ title: "A Cowboy History of the Internet"
 pubDate: 2024-06-01
 author: "RS June"
 excerpt: "Explore the intertwined history of cybernetics, the internet, and agriculture with RS June and Texas Slim. Embrace decentralized solutions to safeguard our digital and nutritional future."
-image: "https://beefnews.org/wp-content/uploads/2024/06/header.jpeg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/06/header.jpeg"
 category: "Culture"
 tags: ["e-commerce", "internet", "Market Access"]
 featured: false
@@ -23,11 +23,11 @@ As we journey through "A Cowboy History of the Internet," helmed by Trail Boss T
 
 *Support regenerative ranching with the Feeding Forward Beef Box Collection from The Beef Initiative! By purchasing these premium beef boxes, you're helping ranchers turn their beef sales into tax deductions through the I Am Texas Slim Foundation. Enjoy delicious, high-quality beef while contributing to a sustainable and decentralized food future.*
 
-![](https://beefnews.org/wp-content/uploads/2024/06/image-300x101.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/06/image-300x101.png)
 
-![](https://beefnews.org/wp-content/uploads/2024/06/image-1-300x125.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/06/image-1-300x125.png)
 
-![](https://beefnews.org/wp-content/uploads/2024/06/image-2-300x223.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/06/image-2-300x223.png)
 
 ---
 
@@ -44,7 +44,7 @@ In these times, understanding the internet is as essential as knowing the unspok
 
 For those unfamiliar with the lore of [The Great American Cattleman](http://texasslimscuts.com/), Texas Slim gave me the name "Ruffshot" for a reason. In cattle drives, a Rough Shot is a trusted individual who rides miles ahead of the herd to scout for obstacles, threats, or any other impediments. After this reconnaissance, he returns to the trail boss—Texas Slim in our case—with a mapped-out plan of action. The trail boss then makes the final call on the course to take. This relationship is symbiotic, built on mutual respect; respect for the trail boss's wisdom and for the vision of the rough shot. This dynamic serves as a fitting prelude to our exploration of "A Cowboy History of the Internet."
 
-![](https://beefnews.org/wp-content/uploads/2024/06/image-4-667x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/06/image-4-667x1024.png)
 
 https://youtu.be/TeH-ya5mV2c
 
@@ -92,7 +92,7 @@ Big Tech Giants
 
 ## Section 1: The Dawn of the Online Age and Evolution of Internet Protocols
 
-![](https://beefnews.org/wp-content/uploads/2024/06/image-5-1024x683.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/06/image-5-1024x683.png)
 
 Robert Kahn and Vint Cerf
 
@@ -118,7 +118,7 @@ Texas Slim, never one to mince words, has been outspoken about this drift away f
 
 This sentiment is echoed by advocates of the Cypherpunk Movement, who view cryptography as a safeguard for privacy and a counterweight to corporate overreach. Their philosophy dovetails with Texas Slim's call for a return to the internet's decentralized roots, reinforcing the idea that the fight for internet freedom remains very much alive.
 
-![](https://beefnews.org/wp-content/uploads/2024/06/image-6-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/06/image-6-1024x576.png)
 
 ### Section 3: The Birth of E-Commerce and Its Impact on the Beef Industry
 

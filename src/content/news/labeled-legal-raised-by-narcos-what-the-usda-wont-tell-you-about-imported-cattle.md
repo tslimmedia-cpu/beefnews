@@ -3,7 +3,7 @@ title: "Labeled Legal, Raised by Narcos — What the USDA Won’t Tell You About
 pubDate: 2025-07-09
 author: "Beef News"
 excerpt: "Cartel-linked cattle are entering the U.S. beef supply with clean USDA paperwork—and no one is watching the real owners. From smuggling routes in Chiapas to government-tagged animals in Jalisco, Mexico’s narco-ranching syndicates have mastered the art of meat laundering. Until we tie MCOOL to rancher of origin, Americans are eating beef with forged identities—and funding cartels by the kilo."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-35-scaled.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-35-scaled.png"
 category: "Business"
 tags: ["CJNG Cartel", "Crime", "Narcos", "Smuggling", "USDA"]
 featured: false
@@ -15,7 +15,7 @@ But here’s the question no one at the port is asking:
 
 **What happened before the paperwork was printed?**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/ad_4nxcjdfau2eqlisn1xkhui07j_gttt48dgq055p7xagrkwvufnhjqnpckxysjs0evd02iamcbbanpzgtqnplrzb7tv2j6bezgzztrcfv1pyjmiiprprzvqy3qkmy4cfauca4jewnnfa.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxcjdfau2eqlisn1xkhui07j_gttt48dgq055p7xagrkwvufnhjqnpckxysjs0evd02iamcbbanpzgtqnplrzb7tv2j6bezgzztrcfv1pyjmiiprprzvqy3qkmy4cfauca4jewnnfa.png)
 
 Cattle are held in a corral before being exported to the United States. Source: [Reuters](https://www.reutersconnect.com/item/jeronimosanta-teresa-crossing-handles-cattle-en-route-to-us/dGFnOnJldXRlcnMuY29tLDIwMjU6bmV3c21sX1JDMlE3RUFQSEJSUQ)
 
@@ -23,13 +23,13 @@ Because by the time a steer reaches the border, according to [InSight Crime](htt
 
 It’s not just a trade story—it’s a sovereignty crisis.
 
-![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)
+![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)
 
 Advertisement
 
 ###### **How the CJNG Cartel Hijacked Mexico’s Cattle Trade—And Slipped It Into the U.S. Beef Supply**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/ad_4nxe5iyub5lz-qv_rj6pkcaroyu31v4z3cz44avilhpeuyi2wbdwu21sv895wqyceephzpb65aqxm1artvzeydrkskcxfnmobhmxtps-ivmv7ba8xfgz4clem97iwyr-o6x-bjy7xpq.jpg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxe5iyub5lz-qv_rj6pkcaroyu31v4z3cz44avilhpeuyi2wbdwu21sv895wqyceephzpb65aqxm1artvzeydrkskcxfnmobhmxtps-ivmv7ba8xfgz4clem97iwyr-o6x-bjy7xpq.jpg)
 
 Source:   [InSight Crime Investigations](https://insightcrime.org/wp-content/uploads/2022/05/Cash-Cows-The-Inner-Workings-of-Cattle-Trafficking-from-Central-America-to-Mexico-InSight-Crime-May-2022.pdf?utm_source=chatgpt.com%20https://insightcrime.org/wp-content/uploads/2022/05/Cash-Cows-The-Inner-Workings-of-Cattle-Trafficking-from-Central-America-to-Mexico-InSight-Crime-May-2022.pdf)
 
@@ -39,7 +39,7 @@ A growing body of [evidence](https://insightcrime.org/wp-content/uploads/2022/05
 
 ###### **A Quiet Coup in Northern Jalisco**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-35-1024x576.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-35-1024x576.png)
 
 Mexico's "Ranch of Horrors" Source: [Reuters](https://www.reuters.com/world/americas/mexico-ranch-horror-was-cartel-training-site-not-extermination-camp-2025-03-25/)
 
@@ -53,7 +53,7 @@ This wasn’t a black-market side hustle. This was a cartel-front cattle syndica
 
 ###### **Cartel Ranches, Clean Paperwork**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/ad_4nxce_fzvrnibhcoaimypgbizy_27kyvgiobxujor99ngyhlon7_4_tlyejaa718jp5pnywl2uyrbkg6l2igfdraljzl_cmdcxyz51yl9dsh3ew1zejdult-3pqda8ircltokfju5fq.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxce_fzvrnibhcoaimypgbizy_27kyvgiobxujor99ngyhlon7_4_tlyejaa718jp5pnywl2uyrbkg6l2igfdraljzl_cmdcxyz51yl9dsh3ew1zejdult-3pqda8ircltokfju5fq.png)
 
 Source: [InSight Crime](https://insightcrime.org/wp-content/uploads/2022/05/Cash-Cows-The-Inner-Workings-of-Cattle-Trafficking-from-Central-America-to-Mexico-InSight-Crime-May-2022.pdf)
 
@@ -69,7 +69,7 @@ This creates a **legal laundering loop**: clean papers, dirty provenance, no ove
 
 ###### **The Biosecurity Backdoor: Screwworm and Smuggling**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/ad_4nxe3mf8cnqqkfzhluh1mtgdf7w8fgxyemasbkc_g1vf905ze6aottoro2vzfbeor4ojcp3yuno0ahpwun3eqe0shm7g5suovujcbh8fi9jhgatidgzustlzvlus6dhjxwcl68tggma.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxe3mf8cnqqkfzhluh1mtgdf7w8fgxyemasbkc_g1vf905ze6aottoro2vzfbeor4ojcp3yuno0ahpwun3eqe0shm7g5suovujcbh8fi9jhgatidgzustlzvlus6dhjxwcl68tggma.png)
 
 Source: [WCS](https://newsroom.wcs.org/News-Releases/articleType/ArticleView/articleId/23972/Illegal-Cattle-Trafficking-Is-Fueling-Dangerous-Resurgence-of-New-World-Screwworm.aspx)
 
@@ -77,7 +77,7 @@ In 2024, USDA shut down live imports due to a [**resurgence of New World Screwwo
 
 Cattle from Guatemala, Honduras, and Nicaragua enter Mexico **at a rate of over [800,000 head per year](https://insightcrime.org/wp-content/uploads/2022/05/Cash-Cows-The-Inner-Workings-of-Cattle-Trafficking-from-Central-America-to-Mexico-InSight-Crime-May-2022.pdf)**—ten times the official imports. Most are raised on deforested land, transported without quarantine, and laundered through cartel-linked collection centers.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/ad_4nxcbrd2kdny-skxqz0kxxmsltqjruz0gj9yukktie80veh3r0y28et25un2ingxuvk2vyy1one6qarxe4bouganhhyqiypd1g5fcwdzuecv5c46o0p6zfalhso3qevebyfugp5l6wq.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxcbrd2kdny-skxqz0kxxmsltqjruz0gj9yukktie80veh3r0y28et25un2ingxuvk2vyy1one6qarxe4bouganhhyqiypd1g5fcwdzuecv5c46o0p6zfalhso3qevebyfugp5l6wq.png)
 
 A cow lies dead after drinking methamphetamine contaminated water. Sinaloa, Mexico. Credit: Marcos Vizcarra
 
@@ -85,7 +85,7 @@ Once these animals are funneled into **[TIF slaughterhouses](https://www.gob.mx/
 
 ###### **From Black Market to Feedlot: USDA’s Structural Blindspot**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/ad_4nxcohajs4mmebyv_og9ehyfhpptq5cjvpavzacrqj7mviqea6vjfuuaifuw79eys9epnjjk5dgmrezipmvumkstdmgsetsaoguegeqchvegxdjgkd_t9jxst2n1amguefjkzbfwu.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxcohajs4mmebyv_og9ehyfhpptq5cjvpavzacrqj7mviqea6vjfuuaifuw79eys9epnjjk5dgmrezipmvumkstdmgsetsaoguegeqchvegxdjgkd_t9jxst2n1amguefjkzbfwu.png)
 
 Santa Teresa Import Station in New Mexico Source: [NM Department of Agriculture](https://nmdeptag.nmsu.edu/marketing/international-livestock-export-import.html#gsc.tab=0)
 
@@ -99,7 +99,7 @@ As **Animal Político** noted, “Contraband cattle… appear as if they origina
 
 ###### **The Economic Fallout: Ranchers Can’t Compete With Cartels**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/ad_4nxeojjw8yztsvv7oitl-helqlir9rlfy_fudx-1zhbviudx0pc4ojgzmu9msqffvyojplsx6jmyatqybdwee19pc-hjjfgz-logfe1fnls9dxyqxjrgs-e_4k3dlk6tlmzjznupana.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxeojjw8yztsvv7oitl-helqlir9rlfy_fudx-1zhbviudx0pc4ojgzmu9msqffvyojplsx6jmyatqybdwee19pc-hjjfgz-logfe1fnls9dxyqxjrgs-e_4k3dlk6tlmzjznupana.png)
 
 Source: [InSight Crime](https://insightcrime.org/wp-content/uploads/2022/05/Cash-Cows-The-Inner-Workings-of-Cattle-Trafficking-from-Central-America-to-Mexico-InSight-Crime-May-2022.pdf)
 
@@ -116,7 +116,7 @@ And USDA’s system ensures they never have to.
 
 ###### **From Cattle Syndicate to Death Ranch: The Izaguirre Revelation**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/ad_4nxckmlxbhx0weqrlptrc_d03plvth0ytaa3mpcxiqigrtecnfx3-f2taxrew8smk2n1xcvpwefhkc0pmuwivoxdhmsasyyqnv-hdr7jd6katyab0ikjonu9rn19qokrmhlphacaitq.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxckmlxbhx0weqrlptrc_d03plvth0ytaa3mpcxiqigrtecnfx3-f2taxrew8smk2n1xcvpwefhkc0pmuwivoxdhmsasyyqnv-hdr7jd6katyab0ikjonu9rn19qokrmhlphacaitq.png)
 
 Source: [AP](https://apnews.com/article/mexico-cartel-violence-izaguirre-ranch-jalisco-fd5d658afcfe9835a2a5d81ad11df957)
 
@@ -124,7 +124,7 @@ In northern Jalisco, **CJNG’s grip on the cattle trade** isn’t just financia
 
 Federal prosecutors later [charged](https://apnews.com/article/fd5d658afcfe9835a2a5d81ad11df957) **ten people**, including the **mayor of Teuchitlán** and **three municipal police officers**, for **forced disappearances**, **organized crime**, and **murder** tied to the **Cártel Jalisco Nueva Generación (CJNG)**.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/ad_4nxfcxvoxb51qa_mxfbvingbf_zcsj7jw0of93bxomyyhkvbb_cjpkle29jhnbclkqsrbbjydqsvydsl6lbdzlujjt9nnhygqzsf81fqjz_qp-ait_hdsb0ivtf04wdxjd47ginhc6q.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxfcxvoxb51qa_mxfbvingbf_zcsj7jw0of93bxomyyhkvbb_cjpkle29jhnbclkqsrbbjydqsvydsl6lbdzlujjt9nnhygqzsf81fqjz_qp-ait_hdsb0ivtf04wdxjd47ginhc6q.png)
 
 Source: [AP](https://apnews.com/article/mexico-disappeared-jalisco-cartel-64ee834c5c23440aae53267428ccc5c9)
 
@@ -139,7 +139,7 @@ Yet under current [USDA rules](https://www.aphis.usda.gov/sites/default/files/an
 
 ###### **The Broader Pattern: Agriculture as a Front for Organized Crime**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/ad_4nxc-n-db6tklufqsex6m6mffh4nvkrrxex4hlms91k1bnlbsuso1x0hvzfr977ddajvauiycba8q-oik5mb3fdde2gwgfulmddoet_y1tnmqo_cij5hqwzljpbea_etzqml_vcbnug.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxc-n-db6tklufqsex6m6mffh4nvkrrxex4hlms91k1bnlbsuso1x0hvzfr977ddajvauiycba8q-oik5mb3fdde2gwgfulmddoet_y1tnmqo_cij5hqwzljpbea_etzqml_vcbnug.png)
 
 Source: [Treasury.gov](https://home.treasury.gov/news/press-releases/js2686)
 
@@ -158,7 +158,7 @@ For every U.S. rancher feeding hay and following the rules, this isn’t trade. 
 
 ###### **MCOOL Is the Floor. Rancher of Origin Is the Standard. Abolishing the Checkoff Is the Strike.**
 
-![](https://beefnews.org/wp-content/uploads/2025/07/ad_4nxfr4e-e9ip_rntxem3vpri587ftzldz5yymiq-1k1bqtjr5zjy46c-ksewlxrl4gyobigoekqfuuhpcac68jmpdxr1bnt0srbwmuwp35atmixvb-uswsdw8nxuhy10ooanpxgii9q.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/ad_4nxfr4e-e9ip_rntxem3vpri587ftzldz5yymiq-1k1bqtjr5zjy46c-ksewlxrl4gyobigoekqfuuhpcac68jmpdxr1bnt0srbwmuwp35atmixvb-uswsdw8nxuhy10ooanpxgii9q.png)
 
 Cover of the USDA's "Farm Security is National Security"
 

@@ -3,7 +3,7 @@ title: "The Cattle Industry Faces Economic Fascism and Invasive RFID Use. Here's
 pubDate: 2024-05-14
 author: "Beef News"
 excerpt: "Breeauna Sagdal explores the dangers to self-custody and food security. The Beef Initiative Model presents a robust solution."
-image: "https://beefnews.org/wp-content/uploads/2024/05/rfid-breeauna-1.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/rfid-breeauna-1.jpg"
 category: "I Am Texas Slim Foundation 501(c)(3)"
 tags: []
 featured: false
@@ -15,7 +15,7 @@ In doing this, we hope to clarify the complexities and challenges faced by the c
 
 ### Economic Fascism: The Creeping Threat
 
-![](https://beefnews.org/wp-content/uploads/2024/05/image-2-1024x486.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/image-2-1024x486.png)
 
 **Historical Foundation:** Sagdal [draws parallels between the doctrine of fascism, as developed by Giovanni Gentile and Benito Mussolini, and modern economic policies](https://beefinitiative.com/pages/iats-foundation-research-economic-fascism-by-breeauna-sagdal) in the U.S. She highlights how these policies incrementally centralize power, eroding individual freedoms under the guise of national security or public welfare.
 
@@ -35,7 +35,7 @@ Read the full article on [beefnews.org](https://beefnews.org/rfid-tags-in-cattl
 
 #### Advertisement:
 
-[![](https://beefnews.org/wp-content/uploads/2024/05/image-3.png)](https://beefinitiative.com/pages/shenandoah-valley-beef-summit)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/image-3.png)](https://beefinitiative.com/pages/shenandoah-valley-beef-summit)
 
 *Discover the essence of clean local beef at the [Shenandoah Valley Beef Initiative Micro Summit](https://beefinitiative.com/pages/shenandoah-valley-beef-summit)! Experience a day at Redbanks Beef Farm in the Shenandoah Valley with expert-led tours, panel discussions, and interactive sessions on local processing, regenerative agriculture, and the nutritional benefits of beef. Join us for The Beef Initiative's Cattleman's Feast and live local music, and be part of a movement for a transparent, connected food system. [Register now](https://beefinitiative.com/pages/shenandoah-valley-beef-summit) and contribute to the revival of local beef markets and ranching heritage! **[Get your tickets today!](https://beefinitiative.com/pages/shenandoah-valley-beef-summit)***
 
@@ -53,11 +53,11 @@ Sagdal [illustrates the evolution of economic fascism through historical and re
 
 #### The following products from The Beef Initiative are available for purchase in USD & Bitcoin:
 
-![](https://beefnews.org/wp-content/uploads/2024/05/kandc.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/kandc.png)
 
-![Premium Beef Back Ranch](https://beefnews.org/wp-content/uploads/2024/04/beck-ranch.png)
+![Premium Beef Back Ranch](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/beck-ranch.png)
 
-![](https://beefnews.org/wp-content/uploads/2024/05/ecc_hhb.webp)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/ecc_hhb.webp)
 
 ---
 

@@ -3,7 +3,7 @@ title: "Panel Discussion: Land Sovereignty, One Health, and Microbiome Research"
 pubDate: 2025-02-16
 author: "Beef News"
 excerpt: "Global policies like the One Health Initiative are accelerating the centralization of agriculture, land, and health systems—threatening local control and food sovereignty. Experts, including Dr. Meryl Nass and Dr. Sabine Hazan, warn that conservation easements and industrial farming practices are eroding both land rights and gut health. Ranchers and researchers agree: the future lies in regenerative agriculture, microbiome science, and restoring local food systems."
-image: "https://beefnews.org/wp-content/uploads/2025/02/image-9.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/02/image-9.png"
 category: "Farm Policy"
 tags: ["Breeauna Sagdal", "Dr. Kat Lindley", "Dr. Meryl Nass", "Dr. Sabine Hazan", "Microbiome", "One Health", "Sovereign Health"]
 featured: false

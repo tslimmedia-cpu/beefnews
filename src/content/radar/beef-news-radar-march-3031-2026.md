@@ -3,7 +3,7 @@ title: "Beef News Radar | March 30–31, 2026: $239/cwt, a shifting border, and 
 pubDate: 2026-04-01
 author: "Beef News"
 excerpt: "Four developments landed in a 48-hour window. Here’s what’s moving the market — and what’s moving the mission."
-image: "https://beefnews.org/wp-content/uploads/2026/04/image.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/04/image.png"
 category: "Beef News Radar"
 tags: []
 featured: false

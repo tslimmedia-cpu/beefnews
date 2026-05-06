@@ -3,7 +3,7 @@ title: "The Real Cost of \"Lower Food Prices” Separating Policy Fact from Kama
 pubDate: 2024-08-23
 author: "Breeauna Sagdal"
 excerpt: "As Kamala Harris vows to tackle food costs, new USDA regulations quietly rewrite century-old laws, granting unprecedented power to government officials. Independent ranchers face crushing new rules, while the promise of lower prices hides the looming threat of shortages and skyrocketing grocery bills. Discover how these hidden changes could reshape America's food landscape"
-image: "https://beefnews.org/wp-content/uploads/2024/08/kamala-packers.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/08/kamala-packers.jpg"
 category: "Farm Policy"
 tags: []
 featured: false

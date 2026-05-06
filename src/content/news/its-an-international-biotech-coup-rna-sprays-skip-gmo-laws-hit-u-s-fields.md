@@ -3,7 +3,7 @@ title: "\"It's an International Biotech Coup\": RNA Sprays Skip GMO Laws, Hit U.
 pubDate: 2025-07-27
 author: "Beef News"
 excerpt: "Terrana’s synthetic RNA sprays are being framed as “non-GMO,” but that’s not the point. This is about who gets to reprogram your food—and who doesn’t."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-121.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-121.png"
 category: "Health"
 tags: ["Moderna", "RNA", "Terrana Biosciences"]
 featured: false
@@ -13,7 +13,7 @@ Biotech’s next phase won’t look like Monsanto—it’ll look like **software
 
 On July 1, 2025, [Flagship Pioneering](https://www.flagshippioneering.com/news/press-release/flagship-pioneering-raises-3-6-billion-to-fuel-breakthrough-innovations-that-transform-human-health-and-sustainability)—the same venture [firm that birthed Moderna](https://www.flagshippioneering.com/companies/moderna)—unveiled [Terrana Biosciences](https://www.prnewswire.com/news-releases/flagship-pioneering-unveils-terrana-biosciences-to-deliver-adaptive-targeted-agricultural-solutions-through-a-novel-rna-technology-platform-302494682.html), a $50 million RNA agriculture startup promising “real-time crop intelligence.”
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-119-1024x520.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-119-1024x520.png)
 
 Its secret weapon? Engineered RNA molecules sprayed onto plants to deliver synthetic “instructions.” No DNA editing. No visible modification. And, conveniently, **no need for GMO labels**.
 
@@ -21,7 +21,7 @@ But here’s the kicker: there’s **no public USDA or EPA record** showing thes
 
 Not one.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-120.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-120.png)
 
 Folashade Sabitu, Head of Regulatory Affairs at [Terrana](https://www.terranabio.com/team-members/folashade-sabitu)
 
@@ -33,7 +33,7 @@ Because **RNA sprays fall into a regulatory limbo**, a “biological” product 
 
 And Terrana? It hasn’t submitted anything publicly.
 
-![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)
+![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)
 
 Advertisement
 
@@ -47,7 +47,7 @@ This isn’t genetic modification. It’s **software-layer dependency**.
 
 Which means farmers are no longer buying seeds with traits—they’re **leasing functionality** by the acre, year to year.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-121-1024x683.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-121-1024x683.png)
 
 Source: Getty
 
@@ -98,7 +98,7 @@ The risk isn’t natural RNA drift—**it’s industrial biotech moving faster t
 
 ###### “Non-GMO” Is the New Trojan Horse
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-122-1024x382.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-122-1024x382.png)
 
 Source: [TerranaBio](https://www.terranabio.com/platform)
 

@@ -3,13 +3,13 @@ title: "Playing God: MTG Joins Efforts to Ban Chemtrails, the Real “Man-Made C
 pubDate: 2025-07-14
 author: "Breeauna Sagdal"
 excerpt: "Geoengineering was once dismissed as conspiracy—now it’s federal policy. From sulfur dioxide balloons to floodplain land grabs, the climate “solution” looks more like a cover for disaster capitalism. Rep. Marjorie Taylor Greene’s new bill could finally put weather warfare on trial."
-image: "https://beefnews.org/wp-content/uploads/2025/07/image-67-scaled.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-67-scaled.png"
 category: "News"
 tags: ["Chemtrails", "Geoengineering", "Make Sunsets", "Marjorie Taylor Greene", "MTG"]
 featured: false
 ---
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-67-1024x685.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-67-1024x685.png)
 
 Rep. Majority Taylor Greene (R-GA) announced a bill to **criminalize weather warfare**—a decades-old unregulated technology with prescient implications.
 
@@ -21,7 +21,7 @@ Previously labeled a “conspiracy theory” the very existence of weather modif
 
 With climate change dominating the headlines, and [the Biden administration on board](https://www.cnbc.com/2023/06/30/white-house-releases-report-on-solar-geoengineering.html), suddenly geoengineering was **no longer a conspiracy theory**. Instead, it became an **urgently needed solution** to “combat the climate crisis.”
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Advertisement
 
@@ -41,7 +41,7 @@ Under the guise of “[climate resilience](https://www.doi.gov/pressreleases/bid
 
 The FEMA Hazard Mitigation Grant Program **has snapped up over** **55,000 properties** since 1993. But, flush with $50 billion in new funding from the Inflation Reduction Act, FEMA's predictive modeling tool - the Climate and Economic Justice Screening Tool (CEJST) - created new [floodplain zones and funded a fresh wave of acquisitions](https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/12/Community-Driven-Relocation_Guide-to-Federal-Programs-and-Resources_vF.pdf) allocated through the flood mitigation fund.
 
-![](https://beefnews.org/wp-content/uploads/2025/07/image-68-1024x469.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/image-68-1024x469.png)
 
 *[Make Sunsets](https://makesunsets.com/pages/who?srsltid=AfmBOor7wE3UpD0PytvlEqFLO5CK8-hCujb9oNa5dtXSJCj1DQW732_D) founders launching their weather tech.*
 

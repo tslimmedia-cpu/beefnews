@@ -3,7 +3,7 @@ title: "Eating Under Surveillance (Economic Fascism in America)"
 pubDate: 2024-04-07
 author: "Beef News"
 excerpt: "In today's agriculture and food systems, a blend of technological surveillance, centralized policies, and environmental and social agendas challenge traditional notions of food sovereignty and economic freedom. This…"
-image: "https://beefnews.org/wp-content/uploads/2024/04/hero.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/hero.jpg"
 category: "Texas Slim's Community Newsletter"
 tags: []
 featured: false
@@ -15,13 +15,13 @@ In a time of significant shifts in our food systems, the I Am Texas Slim Foundat
 
 ### One Health
 
-![One Health Banner](https://beefnews.org/wp-content/uploads/2024/04/onehealth-1024x646.jpg)
+![One Health Banner](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/onehealth-1024x646.jpg)
 
 The One Health concept, which posits the [interconnectedness of human, animal, and environmental health](https://onehealthinitiative.com/), enters the arena of global health with a grand vision. At its heart, the idea promises to unify efforts in tackling health challenges on a planetary scale. However, beneath this veneer of holistic unity, the application of One Health in the realms of agriculture and food systems raises significant alarms. Critical examination of how these principles are woven into regulatory fabric reveals a concerning narrative. Rather than acting as neutral guidelines aimed at harmonizing health outcomes, One Health principles are increasingly leveraged to justify regulatory maneuvers [that nudge societal behaviors in specific directions](https://www.frontiersin.org/articles/10.3389/fsufs.2020.00001/full)—most notably, advocating for reduced meat consumption and pushing for stringent environmental regulations.
 
 ### Economic Fascism in Reimagined
 
-![Mussolini assumes power forms cabinet](https://beefnews.org/wp-content/uploads/2024/04/hero-flagmussolini-assumes-power-forms-cabinet.jpg)
+![Mussolini assumes power forms cabinet](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/hero-flagmussolini-assumes-power-forms-cabinet.jpg)
 
 Economic fascism finds new ground in modern agriculture, echoing Mussolini's belief in the supremacy of state needs over individual rights, [as analyzed by Breeauna Sagdal](https://beefinitiative.com/pages/iats-foundation-research-economic-fascism-by-breeauna-sagdal). She highlights how today's policies centralize control over agriculture, pushing the food system towards state-dictated uniformity. This shift away from market and consumer-driven choices signals a resurgence of administrative overreach, reminiscent of historical economic control tactics.
 
@@ -29,7 +29,7 @@ Sagdal points out the contemporary tools of economic fascism: the Voluntary Carb
 
 ### The Intricacies of Stakeholder Capitalism
 
-![4 pillars os stakeholder capitalism](https://beefnews.org/wp-content/uploads/2024/04/stakeholdercapitalism-1024x617.jpg)
+![4 pillars os stakeholder capitalism](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/stakeholdercapitalism-1024x617.jpg)
 
 [Stakeholder capitalism](https://causeartist.com/what-is-stakeholder-capitalism/), as touched on at the end of Texas Slim's seminal essay “[The Harvest of Deception](https://beefinitiative.com/pages/the-harvest-of-deception)," casts a long shadow over the food systems, transforming the arena into one where consumer behaviors and data are commodified. Slim's forward-looking critique outlined a system where personal consumption patterns and choices morph into commodities, serving a market eager to profit from predicting and influencing these very behaviors. This critique painted a stark picture of a market evolution that prioritizes surveillance and profit over individual agency and market diversity.
 
@@ -47,7 +47,7 @@ This trajectory towards a de facto social credit system is not a far leap from t
 
 ### Technology's Role in Shaping Food Systems
 
-![RF-ID chipped cow](https://beefnews.org/wp-content/uploads/2024/04/rfid.jpeg)
+![RF-ID chipped cow](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/rfid.jpeg)
 
 The integration of technology for monitoring behaviors of both consumers and producers marks a crucial point of manipulation within the modern food system. Advances in data analytics and RFID technologies have introduced a new era of detailed oversight, [enabling an unprecedented level of market and social manipulation](https://blog.hidglobal.com/2022/09/how-data-analytics-are-advancing-iot-and-rfid). This technological evolution facilitates a detailed scrutiny of individual actions, profoundly altering the landscape of interaction and exchange.
 
@@ -57,9 +57,9 @@ Coupled with the burgeoning influence of carbon credits and diversity, equity, a
 
 Facing the formidable challenges posed by technological surveillance and regulatory overreach, grassroots movements and legislative actions stand at the forefront of the battle for food sovereignty and sustainability. [The BEEF Act (H.R. 7079)](https://www.congress.gov/bill/118th-congress/house-bill/7079?s=1&r=16) symbolizes such an effort, aimed at empowering small, family-owned farms and encouraging practices that enrich local food systems and respect the environment. This act is a critical rallying point for those dedicated to maintaining a balance within our food production systems, highlighting the essence of community and ecological sustainability.
 
-![The BEEF Act (H.R. 7079)](https://beefnews.org/wp-content/uploads/2024/04/7023-1024x786.png)
+![The BEEF Act (H.R. 7079)](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/7023-1024x786.png)
 
-![H.R. 7023 - Creating Confidence in Clean Water Permitting Act](https://beefnews.org/wp-content/uploads/2024/04/7079-1024x613.jpg)
+![H.R. 7023 - Creating Confidence in Clean Water Permitting Act](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/04/7079-1024x613.jpg)
 
 In parallel, the introduction of [H.R. 7023 - Creating Confidence in Clean Water Permitting Act](https://www.congress.gov/bill/118th-congress/house-bill/7023), represents another essential stride towards sustainable agriculture. This legislation seeks to refine the water permitting process, ensuring our natural water resources are safeguarded while simultaneously facilitating the agricultural sector's sustainable growth. Advocating for H.R. 7023 is a testament to our collective responsibility towards environmental stewardship and underscores the significance of water management in achieving a resilient and sustainable food supply chain. Through support and advocacy for such initiatives, we can navigate towards a future where food production aligns more closely with the principles of sustainability, equity, and environmental integrity.
 

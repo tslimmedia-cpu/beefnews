@@ -3,7 +3,7 @@ title: "Inside the $125 Trillion “Natural Capital” Shift That Reshaped U.S. 
 pubDate: 2025-11-04
 author: "Breeauna Sagdal"
 excerpt: "Biden’s $125 Trillion Land Grab exposed how Washington quietly turned cattle country into a climate-era balance sheet—trading beef for “natural capital.” As rangelands vanish under carbon markets and 30x30 leases, Americans are paying record prices for a deliberately engineered shortage."
-image: "https://beefnews.org/wp-content/uploads/2025/11/img_0347.webp"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/img_0347.webp"
 category: "Climate"
 tags: ["Biden", "BLM", "Cattle Inventory", "CRP", "NACs", "Natural Capital", "Public Land", "VCM"]
 featured: false
@@ -11,13 +11,13 @@ featured: false
 
 As beef prices hit records and grocery shelves thin out, Washington’s new commodity isn’t cattle— it’s *nature itself.* Hidden inside a [$125 trillion accounting experiment](https://www.worldbank.org/en/publication/the-changing-wealth-of-nations) called *natural capital*, the Biden administration quietly converted millions of working acres into “balance-sheet assets,” sacrificing beef supply to meet climate metrics and debt math.
 
-![](https://beefnews.org/wp-content/uploads/2025/11/image-1-509x1024.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/image-1-509x1024.jpeg)
 
 While many have recently come to understand that the United States cattle supply is at a 73-year low, few understand why. Conventional wisdom **blames drought, feed inflation, or disease like Avian Flu in dairy herds.** The truth is more engineered—written into policy, not weather—driven by shifting federal priorities from one administration to the next.
 
 Starting under the Obama administration and [finalized under the Biden administration](https://brownstone.org/articles/america-the-titanic-policy-recommendations/), federal regulations resulted in the systematic reallocation of agricultural land toward non-consumptive conservation uses under the banner of climate resilience and natural capital accounting.
 
-![](https://beefnews.org/wp-content/uploads/2025/11/image.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/image.png)
 
 Between 2021 and 2025, the Biden administration implemented a suite of interlocking environmental-economic policies that resulted in cattle herd contractions—most notably the “[America the Beautiful” (30x30) initiative](https://www.doi.gov/sites/doi.gov/files/report-conserving-and-restoring-america-the-beautiful-2021.pdf), the [Federal Plan for Equitable Long-Term Recovery](https://thriving.us/federal-plan/) and Resilience (ELTRR), the Bureau of Land Management’s [(BLM) Public Lands Rule](https://www.federalregister.gov/documents/2024/05/09/2024-08821/conservation-and-landscape-health), and nascent efforts to [monetize natural capital](https://americanstewards.us/issues/natural-asset-companies/) through Natural Asset Companies (NACs) and [voluntary carbon markets (VCMs).](https://www.energy.gov/articles/biden-harris-administration-releases-joint-policy-statement-and-principles-voluntary)
 
@@ -31,7 +31,7 @@ Three major policy vectors resulted in the reallocation of agricultural land use
 2. Grazing permit attrition under the BLM Public Lands Rule
 3. Economic displacement through carbon markets and natural capital valuation
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](HTTPS://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonapricefoundation-1024x265.webp)](HTTPS://westonaprice.org)
 
 Please support our partner.
 
@@ -53,7 +53,7 @@ Rental rates also rose from an average of $42/acre in 2021 to $68/acre in 2025, 
 
 Simultaneously, as the administration began incentivizing degrowth, it also changed public land use rules on ranchers and began denying grazing permits.
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](Https://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](Https://iamtexasslim.org)
 
 Please support our partner.
 
@@ -79,8 +79,8 @@ One cow-calf pair needs 12 AUMs to stay on public land for 12 months, meaning th
 
 Any sane person is likely wondering why or how any of this makes sense…In short, the Federal government - with 75.6% of the total U.S. land mass owned publicly - is land rich but $38 trillion in debt. The climate crisis created an opportunity to privatize nature itself and [add it to the federal balance sheet.](https://www.hks.harvard.edu/centers/mrcbg/programs/growthpolicy/nature-federal-balance-sheet)
 
-![](https://beefnews.org/wp-content/uploads/2025/11/image-1024x841.jpeg)
-![](https://beefnews.org/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/11/image-1024x841.jpeg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/bff-logo-rage-052422-1024x168.jpg)
 
 Please support our partner.
 

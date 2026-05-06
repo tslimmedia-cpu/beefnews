@@ -3,7 +3,7 @@ title: "Hold the Lettuce, Bring the Raids: Trump Reinstates Immigration Policy o
 pubDate: 2025-06-17
 author: "Beef News"
 excerpt: "ICE raids on farms, hotels, and meatpacking plants are back—just days after they were paused under pressure from Big Ag and hospitality lobbyists. The Trump administration reversed course after internal backlash, but the policy flip-flopping has left everyone guessing: who’s really calling the shots? For now, the cartel’s labor pipeline is back in the crosshairs—but don't be surprised if the exemptions sneak back in."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-33.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-33.png"
 category: "Farm Policy"
 tags: ["brooke rollins", "ICE", "Stephen Miller", "Tatum King"]
 featured: false
@@ -29,13 +29,13 @@ By Sunday night, Trump posted to [Truth Social](https://truthsocial.com/@realDon
 
 ### Who Pushed Back—and Who Won
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-35-1024x682.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-35-1024x682.png)
 
 President Trump with Secretary of Agriculture, Brooke Rollins
 
 Behind the scenes, the policy fight had been a tug-of-war. Trump was hearing conflicting arguments. On one side, [Brooke Rollins](https://www.axios.com/local/chicago/2025/06/17/trump-pauses-raids-food-and-hotel-workers), the Secretary of Agriculture, pushed for protections—arguing that farms would collapse without access to low-wage migrant labor. Business groups like the American Business Immigration Coalition pleaded for exemptions, hoping to buy time before ICE agents hit the field.
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-34-1024x681.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-34-1024x681.png)
 
 On the other side stood Stephen Miller and Tom Homan, architects of the administration’s strict immigration posture, who reportedly pushed back hard against the idea of letting any industry off the hook.
 
@@ -43,13 +43,13 @@ They won.
 
 ### The Numbers Behind the Crackdown
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-36.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-36.png)
 
 According to Homan, ICE is now executing over 2,000 arrests per day. The goal is 3,000. That’s not speculation—that’s the [administration’s own stated target](https://www.thedailybeast.com/border-czar-tom-homan-contradicts-donald-trumps-deportation-policy-change/). And the only way to meet it, officials admit, is to raid the industries with the most concentrated pools of illegal labor: meatpackers, row crop farms, warehouses, hotels, and fast food chains. A [leaked DHS memo](https://www.washingtonpost.com/immigration/2025/06/16/trump-farms-hotels-immigration-raids/) even acknowledged the obvious: “By taking this off the table, we are eliminating a significant number of potential targets.”
 
 ### Sovereignty vs Supply Chain Excuses
 
-![](https://beefnews.org/wp-content/uploads/2025/06/image-37-1024x768.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-37-1024x768.png)
 
 Images released by the US labor department show children working illegally for JBS and Tyson. Photograph: US Department of Labor
 

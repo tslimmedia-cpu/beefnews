@@ -3,7 +3,7 @@ title: "The Beef Shortage Was an Inside Job: How Global Imports, Policy Failures
 pubDate: 2025-05-13
 author: "Beef News"
 excerpt: "The so-called beef shortage isn’t just fallout from drought and inflation—it’s the endgame of decades-long corporate sabotage. Independent American ranchers were systematically squeezed out by foreign imports, packer monopolies, and the repeal of truth-in-labeling laws like COOL. The result: a gutted cattle industry, rising consumer prices, and a nation increasingly dependent on foreign protein—all by design."
-image: "https://beefnews.org/wp-content/uploads/2025/05/image-1.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/05/image-1.png"
 category: "Business"
 tags: ["Beef Shortage", "Herds", "Inside Job", "Tyson"]
 featured: false

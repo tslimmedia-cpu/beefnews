@@ -3,7 +3,7 @@ title: "The Herd Won’t Grow on Hope: Regenerative Policy Needs Rancher-Directe
 pubDate: 2026-01-09
 author: "Beef News"
 excerpt: "Grazing access is back—but without capital, it’s a hollow win. Until ranchers have real liquidity, the herd won’t grow, and regeneration stays stuck at the press release stage."
-image: "https://beefnews.org/wp-content/uploads/2026/01/og6fntt5qtq.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/01/og6fntt5qtq.jpg"
 category: "Business"
 tags: ["BetterFedFoods.com", "Breeauna Sagdal", "Capital", "Funding for Ag", "Regenerative Agriculture", "Steve Williams"]
 featured: false
@@ -19,7 +19,7 @@ But here’s the catch: land access means nothing if producers remain land-rich 
 
 Most USDA “support” still funnels through programs like EQIP and CSP, which often come with conservation compliance strings, input restrictions, or indirect control over water rights. Breeauna Sagdal, in conversation with Steve Williams of BetterFedFoods.com, has warned of the quiet ways funding can dictate use.
 
-![](https://beefnews.org/wp-content/uploads/2026/01/bff-ad2.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2026/01/bff-ad2.png)
 
 Please support our partners.
 

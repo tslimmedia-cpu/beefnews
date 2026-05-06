@@ -3,7 +3,7 @@ title: "Bitcoin 2024: The Cattleman's Feast and First-Ever Tomahawk Ribeye Eatin
 pubDate: 2024-05-24
 author: "Beef News"
 excerpt: "FRI, July 26 - SAT, July 27, 2024 04:00PM - 09:00PM (both days)"
-image: "https://beefnews.org/wp-content/uploads/2024/05/cattlemansfeast-hero-1080.jpg"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/cattlemansfeast-hero-1080.jpg"
 category: "Events"
 tags: ["Bitcoin 2024", "Cattleman's Feast"]
 featured: false
@@ -13,11 +13,11 @@ featured: false
 
 Join us for an unforgettable two-day extravaganza celebrating the finest cuts and the rich culture of The Great American Cattleman. Dive into the world of premium, regenerative beef with our unique events in the heart of Nashville, TN.
 
-![](https://beefnews.org/wp-content/uploads/2024/05/image-9.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/image-9.png)
 
-![](https://beefnews.org/wp-content/uploads/2024/05/image-10.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/image-10.png)
 
-![](https://beefnews.org/wp-content/uploads/2024/05/image-11.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/image-11.png)
 
 ### **Location**
 
@@ -27,7 +27,7 @@ Walk of Fame Park (Across from Music City Center)
 
 121 4th Ave S., Nashville, TN 37201
 
-[![](https://beefnews.org/wp-content/uploads/2024/05/image-12-1024x735.png)](https://maps.google.com/maps?ll=36.157226,-86.777257&z=12&t=m&hl=en-US&gl=US&mapclient=embed&q=201%20Rep.%20John%20Lewis%20Way%20S%20Nashville%2C%20TN%2037203%20USA)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/image-12-1024x735.png)](https://maps.google.com/maps?ll=36.157226,-86.777257&z=12&t=m&hl=en-US&gl=US&mapclient=embed&q=201%20Rep.%20John%20Lewis%20Way%20S%20Nashville%2C%20TN%2037203%20USA)
 
 ### **Date & Time**
 
@@ -35,9 +35,9 @@ FRI, July 26 - SAT, July 27, 2024
 
 04:00PM - 09:00PM (both days)
 
-![](https://beefnews.org/wp-content/uploads/2024/05/image-13.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/image-13.png)
 
-![](https://beefnews.org/wp-content/uploads/2024/05/image-14.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/image-14.png)
 
 ### Get your tickets today!
 
@@ -47,13 +47,13 @@ FRI, July 26 - SAT, July 27, 2024
 
 ![](https://ucarecdn.com/abe1c437-a1ff-467f-acf7-8d0746c5e061/-/format/auto/-/preview/3000x3000/-/quality/lighter/tbi_logo_full.png)
 
-![](https://beefnews.org/wp-content/uploads/2024/05/texas-slim-cuts.avif)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/texas-slim-cuts.avif)
 
-![](https://beefnews.org/wp-content/uploads/2024/05/austin-bread-fed.avif)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/austin-bread-fed.avif)
 
-![](https://beefnews.org/wp-content/uploads/2024/05/the-weat-mafia.jpg)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/the-weat-mafia.jpg)
 
-![](https://beefnews.org/wp-content/uploads/2024/05/hometown-meat-market.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2024/05/hometown-meat-market.png)
 
 ### FRIDAY, July 26, 2024:
 

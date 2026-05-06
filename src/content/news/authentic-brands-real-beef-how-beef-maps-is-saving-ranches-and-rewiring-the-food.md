@@ -3,13 +3,13 @@ title: "Authentic Brands, Real Beef: How Beef Maps is Saving Ranches and Rewirin
 pubDate: 2025-04-10
 author: "Beef News"
 excerpt: "Beef Maps is more than a directory—it’s a lifeline. In this episode, real ranchers share how direct-to-consumer sales are saving their families and restoring their freedom. Food sovereignty isn’t a slogan—it’s a map, a handshake, and a story."
-image: "https://beefnews.org/wp-content/uploads/2025/04/image-6.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/image-6.png"
 category: "Beef Maps"
 tags: ["JZ Meats", "Legacy Ranch", "Rattlesnake Meat Co."]
 featured: false
 ---
 
-[![](https://beefnews.org/wp-content/uploads/2025/04/image-6-1024x509.png)](https://beefmaps.com)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/04/image-6-1024x509.png)](https://beefmaps.com)
 
 This week’s *Beef Maps X Spaces* was more than a meeting—it was a movement. From the voice of a son who lost his mother in Philadelphia to the wisdom of generational ranchers in Colorado and Iowa, this conversation tied emotion to action, grit to gratitude. The Beef Initiative’s growing coalition of ranchers, policy leaders, and platform builders shared how decentralized beef sales are saving family operations, restoring independence, and reconnecting people to their food.
 

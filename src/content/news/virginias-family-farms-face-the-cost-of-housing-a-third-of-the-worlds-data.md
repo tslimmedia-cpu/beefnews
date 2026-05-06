@@ -3,7 +3,7 @@ title: "Virginia’s Family Farms Face the Cost of Housing a Third of the World�
 pubDate: 2025-06-11
 author: "Beef News"
 excerpt: "Fauquier County Supervisor Daron Culbertson says selling his family farm to a data center developer was the only economic option left. But for many, it’s just the latest red flag in a growing pattern: Big Tech is carving up rural America while local leaders cash out."
-image: "https://beefnews.org/wp-content/uploads/2025/06/image-18.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-18.png"
 category: "Business"
 tags: ["Data Centers", "Virginia"]
 featured: false
@@ -33,4 +33,4 @@ As localities scrutinize incentive-heavy deals (Virginia handed out [$750 mill
 
 ***[BeefMaps.com](https://beefmaps.com) helps you source beef from real ranches—not concrete farms—so your dinner doesn't come at the cost of disappearing countryside.***
 
-![Maps](https://beefnews.org/wp-content/uploads/2025/06/image-7-1024x546.png)
+![Maps](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/image-7-1024x546.png)

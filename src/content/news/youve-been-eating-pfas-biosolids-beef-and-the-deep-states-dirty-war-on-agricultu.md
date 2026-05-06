@@ -3,7 +3,7 @@ title: "You’ve Been Eating PFAS: Biosolids, Beef, and the Deep State’s Dirty
 pubDate: 2025-09-12
 author: "Breeauna Sagdal"
 excerpt: "Congress created the sludge, spread the chemicals, and now it's seizing farms while blocking the one report that could expose it all."
-image: "https://beefnews.org/wp-content/uploads/2025/09/image.png"
+image: "https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image.png"
 category: "Farm Policy"
 tags: ["Biosolids", "Clean Water Act", "Deep State", "EPA", "PFAS"]
 featured: false
@@ -11,7 +11,7 @@ featured: false
 
 Members of Congress are all too happy to make a grand spectacle of regulating private industry. But, when the government itself is culpable for harming Americans, the federal government’s love affair with toxic sludge - known as “biosolids” - is a masterclass in burning tax dollars, shredding evidence, and punishing the victims in order to protect itself from the American people.
 
-[![WAPF](https://beefnews.org/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
+[![WAPF](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/06/westonaprice.jpg)](https://westonaprice.org)
 
 Please support our partner.
 
@@ -21,7 +21,7 @@ Starting with the Clean Water Act of 1972, Congress **stopped local municipaliti
 
 The result? Literally, **mountains of poop mixed with industrial chemicals** and nowhere to go.
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-20.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-20.png)
 
 Enter the EPA, which, in its infinite wisdom, decided in [1973 to recycle this sludge into “biosolids](https://www.epa.gov/biosolids/sewage-sludge-laws-and-regulations).” Not a bad idea, had this sludge only consisted of organic matter like poop.
 
@@ -29,7 +29,7 @@ Instead, the EPA allowed *all* sewage waste, including **industrial waste**, to 
 
 [By 1993, the EPA’s 40 CFR Part 503 Rule cemented this madness](https://www.epa.gov/sites/default/files/2018-12/documents/plain-english-guide-part503-biosolids-rule.pdf), declaring “biosolids” - a euphemism for all toxic sewage waste dressed up as fertilizer - **safe for farmland while only monitoring these biosolids for just nine heavy metals and two nutrients (nitrogen and phosphorus).**
 
-[![](https://beefnews.org/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
+[![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/07/iats-logo-new-sm.jpg)](https://iamtexasslim.org)
 
 Please support our partner.
 
@@ -37,7 +37,7 @@ Of the roughly **700+ known forever chemicals that the EPA strictly regulates** 
 
 Even though the chemicals found in sewage sludge are known mutagens, carcinogens, and neurotoxic at even trace levels in air or water, when it comes to land application, the EPA shredded evidence of risks and pushed public use.
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-1-663x1024.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-1-663x1024.png)
 
 *Source: “Science For Sale” by Dr David Lewis*
 
@@ -77,7 +77,7 @@ However, farmers, already bankrupted by Big Government’s “solution,” have 
 
 **Lawsuits against the DOD and Synagro for cleanup have recently stalled in courts**, but armed with the evidence of the report - where the EPA finally seemed ready to [acknowledge the risks of spreading](https://www.epa.gov/pfas/pfas-strategic-roadmap-epas-commitments-action-2021-2024) concentrated chemicals known to cause cancer, parasites and neurological diseases - accountability seemed near.
 
-![](https://beefnews.org/wp-content/uploads/2025/09/image-21.png)
+![](https://pub-13be57bb7a6645c6b332813889aed01e.r2.dev/wp-content/uploads/2025/09/image-21.png)
 
 ###### **The Congressional CYA: Section 507**
 
