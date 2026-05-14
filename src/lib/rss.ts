@@ -87,7 +87,11 @@ export async function fetchRSS(
   let xml: string;
   try {
     const res = await fetch(feedUrl, {
-      headers: { "User-Agent": "BeefNews/1.0 RSS reader" },
+      headers: {
+        "User-Agent": "Mozilla/5.0 (compatible; BeefNews/1.0; +https://beefnews.org)",
+        "Accept": "text/html, application/rss+xml, application/xml, */*",
+        "Accept-Encoding": "gzip, deflate",
+      },
       // 8s timeout via AbortController
       signal: AbortSignal.timeout(8000),
     });
