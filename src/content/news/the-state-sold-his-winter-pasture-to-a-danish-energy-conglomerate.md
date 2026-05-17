@@ -1,5 +1,5 @@
 ---
-title: "The State Sold His Winter Pasture to a Danish Energy Conglomerate"
+title: "The State is Evicting a Fifth-Generation Rancher for a Danish Energy Conglomerate"
 pubDate: 2026-05-17T00:00:00-05:00
 author: "Beef News"
 excerpt: "Arizona's state land fiduciary mandate — accelerated by Governor Hobbs' executive order and a $26M solar auction economy — is structurally designed to displace ranching. Casey Murph's fifth-generation operation is the latest to face eviction for a Danish-owned solar project. The public comment window is still open."
