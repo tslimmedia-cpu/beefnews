@@ -26,27 +26,27 @@ Nine hundred and ninety-three likes. Six hundred and six reposts. The post went 
 
 The [Arizona State Land Department manages 9.2 million acres](https://land.az.gov/about) of state trust land with a single legal obligation: maximize revenue for public school beneficiaries. That mandate is not discretionary. It is written into statute. ASLD does not weigh food security, generational land use, or rural economic continuity. It runs an auction, and whoever bids highest wins.
 
-The [ASLD FY2024 Annual Report](https://land.az.gov/sites/default/files/atoms/files/ASLD_Annual_Report_FY2024.pdf) shows what that math produces. Grazing across 8.32 million acres generated $3.014 million last year. A single utility-scale solar auction — like the upcoming Grand Verde Energy lease in Maricopa County covering 4,003 acres — carries a $26 million appraised minimum bid. One solar deal. Eight times the annual grazing revenue across the entire state trust system.
+The [ASLD FY2024 Annual Report](https://land.az.gov/sites/default/files/2024-09/FY%202024%20Annual%20Report.pdf) shows what that math produces. Grazing across 8.32 million acres generated $3.014 million last year. A single utility-scale solar auction — like the upcoming Grand Verde Energy lease in Maricopa County covering 4,003 acres — carries a $26 million appraised minimum bid. One solar deal. Eight times the annual grazing revenue across the entire state trust system.
 
 Ranching never had a chance in this equation. It just took the solar build-out to make that visible.
 
 ## Governor Hobbs Put the Accelerator Down
 
-On September 15, 2025, Governor Katie Hobbs signed [Executive Order 2025-13](https://azgovernor.gov/executive-orders), directing ASLD to identify and fast-track pending renewable energy infrastructure leases, cut red tape for solar, wind, storage, and transmission projects, and report within 30 days on streamlining the process. The order explicitly funds dedicated ASLD staff through the federal State Energy Program to move projects faster.
+On September 15, 2025, Governor Katie Hobbs signed [Executive Order 2025-13](https://azgovernor.gov/office-arizona-governor/executive-order/2025-13), directing ASLD to identify and fast-track pending renewable energy infrastructure leases, cut red tape for solar, wind, storage, and transmission projects, and report within 30 days on streamlining the process. The order explicitly funds dedicated ASLD staff through the federal State Energy Program to move projects faster.
 
 Murph is direct about what that means on the ground:
 
 https://x.com/caseymurph1/status/2054669025914048709
 
-He's right on the policy record. The [ASLD Strategic Plan FY2026](https://land.az.gov/strategic-plan) commits the department to issuing 15 new renewable energy leases by June 2029 and explicitly to streamlining the solar lease process. That is not passive fiduciary management. That is active industrial policy favoring subsidized offshore energy corporations over domestic food production. The [Inflation Reduction Act tax credits](https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit) backstopping these projects make the economics even more lopsided.
+He's right on the policy record. The [ASLD Strategic Plan FY2026](https://land.az.gov/reports-notices) commits the department to issuing 15 new renewable energy leases by June 2029 and explicitly to streamlining the solar lease process. That is not passive fiduciary management. That is active industrial policy favoring subsidized offshore energy corporations over domestic food production. The [Inflation Reduction Act tax credits](https://www.irs.gov/credits-deductions/energy-efficient-home-improvement-credit) backstopping these projects make the economics even more lopsided.
 
 ## The Family Down the Road Already Lost
 
-A few miles from Murph's operation, the DeSpain family had been ranching since 1904. They lost their state trust allotment to [Invenergy's Hashknife Solar project](https://invenergy.com/our-projects/hashknife-solar) — 475 megawatts of solar and battery storage, groundbreaking December 2024. They sued. They lost. They signed an NDA. One participant described the operation as reduced to "a few cows."
+A few miles from Murph's operation, the DeSpain family had been ranching since 1904. They lost their state trust allotment to [Invenergy's Hashknife Solar project](https://hashknifeenergycenter.invenergy.com) — 475 megawatts of solar and battery storage, groundbreaking December 2024. They sued. They lost. They signed an NDA. One participant described the operation as reduced to "a few cows."
 
 Rusty DeSpain told reporters: "You treat it like your own backyard… then they just come in and take it out from underneath you overnight."
 
-The [Cygnus Solar project](https://navajocountyaz.gov) — 650 megawatts plus 400 megawatts of battery storage across 3,700 acres north of Snowflake — executed its development agreement in February 2026. Construction begins 2027. Navajo County is being converted, section by section, into an industrial solar corridor. Every approval makes the next one easier.
+The [Cygnus Solar project](https://www.navajocountyaz.gov/754/Renewable-Energy-Ordinance-Updates) — 650 megawatts plus 400 megawatts of battery storage across 3,700 acres north of Snowflake — executed its development agreement in February 2026. Construction begins 2027. Navajo County is being converted, section by section, into an industrial solar corridor. Every approval makes the next one easier.
 
 ## Productive Land Targeted. Idle Land Ignored.
 
@@ -64,7 +64,7 @@ The co-use argument — that cattle can graze beneath solar panels — collapses
 
 *Five generations on this land — until Ørsted filed.*
 
-Ørsted is headquartered in Fredericia, Denmark. It is [majority owned by the Danish state](https://orsted.com/en/about-us/our-company). It operates in the United States on federal and state subsidies. Its [Eleven Mile Solar Center in Pinal County](https://orsted.com/en/media/news/2024/11/eleven-mile-solar-center-commissioned) — commissioned in 2024, 300 megawatts, 300 megawatts of battery storage — was built to power Meta's data centers. It is described by Ørsted as a permanent industrial installation. The rangeland it replaced is gone.
+Ørsted is headquartered in Fredericia, Denmark. It is [majority owned by the Danish state](https://orsted.com/en/company-announcement-list/2025/08/rightsissue). It operates in the United States on federal and state subsidies. Its [Eleven Mile Solar Center in Pinal County](https://orsted.com/en/media/news/2024/10/orsted-has-completed-600-mw-combined-solar-and-bat-14082250) — commissioned in 2024, 300 megawatts, 300 megawatts of battery storage — was built to power Meta's data centers. It is described by Ørsted as a permanent industrial installation. The rangeland it replaced is gone.
 
 That is the template being applied to Murph's winter pasture. A foreign government-owned energy company, subsidized by American taxpayers, acquiring Arizona state trust land through a revenue-maximization auction that ranchers cannot win by design, to build infrastructure that will be barren and lifeless — his words — for the operational life of the installation.
 
@@ -72,11 +72,11 @@ The [U.S. beef herd is at historic lows](https://www.nass.usda.gov/Publications/
 
 ## The Auction Hasn't Happened Yet
 
-This is still stoppable. The [ASLD Board of Appeals](https://land.az.gov/board-of-appeals) has final authority. No approval has been issued. The Ørsted application for Murph's allotment has no confirmed public filing number — consistent with early-stage surveying before formal auction — which means the public comment window is open.
+This is still stoppable. The [ASLD Board of Appeals](https://land.az.gov/reports-notices) has final authority. No approval has been issued. The Ørsted application for Murph's allotment has no confirmed public filing number — consistent with early-stage surveying before formal auction — which means the public comment window is open.
 
 Murph's ask is specific: click [Contact Us](https://azland.tfaforms.net/4630115) at land.az.gov and submit a comment. His suggested language: "We encourage the Arizona State Land Department to deny applications for utility scale solar on lands that have livestock grazing leases" — or direct Ørsted and similar applications toward land without active grazing leases.
 
-Rep. [Eli Crane](https://crane.house.gov) and Rep. [Andy Biggs](https://biggs.house.gov) have been tagged. Secretary [Brooke Rollins at USDA](https://www.usda.gov/our-agency/about-usda/secretary-agriculture) has been tagged. Navajo County ranchers have submitted public testimony. The political pressure is building.
+Rep. [Eli Crane](https://crane.house.gov) and Rep. [Andy Biggs](https://biggs.house.gov) have been tagged. Secretary [Brooke Rollins at USDA](https://www.usda.gov/our-agency/about-usda/our-secretary) has been tagged. Navajo County ranchers have submitted public testimony. The political pressure is building.
 
 The machinery of state-enabled displacement is running. What stops it is ranchers, consumers, and producers making the ASLD's revenue calculation politically expensive. That window is open right now.
 
