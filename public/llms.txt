@@ -60,3 +60,7 @@ Advertising and partnership inquiries: https://beefnews.org/advertise
 ## Sitemap
 
 https://beefnews.org/sitemap-index.xml
+
+## RSS Feed
+
+https://beefnews.org/rss.xml

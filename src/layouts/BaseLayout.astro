@@ -102,6 +102,9 @@ const websiteSchema = {
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={new URL(image, Astro.site)} />
 
+    <!-- RSS feed -->
+    <link rel="alternate" type="application/rss+xml" title="Beef News RSS Feed" href="/rss.xml" />
+
     <!-- AI / LLM discoverability -->
     <link rel="alternate" type="text/plain" title="LLM-friendly site summary" href="/llms.txt" />
 
@@ -241,13 +244,22 @@ const websiteSchema = {
       });
     </script>
 
-    <!-- Netlify Identity redirect helper -->
+    <!-- Netlify Identity: handle recovery/invite tokens + post-login redirect -->
     <script>
-      if (window.netlifyIdentity) {
+      // If a recovery/invite token lands on the main site, redirect to /yeehaw/
+      // with the hash intact — Decap CMS handles the password-set flow natively.
+      const _hash = window.location.hash;
+      if (
+        _hash.includes("recovery_token") ||
+        _hash.includes("invite_token") ||
+        _hash.includes("confirmation_token")
+      ) {
+        window.location.replace("/yeehaw/" + _hash);
+      } else if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", (user: any) => {
           if (!user) {
             window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
+              document.location.href = "/yeehaw/";
             });
           }
         });
