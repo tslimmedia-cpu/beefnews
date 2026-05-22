@@ -57,9 +57,10 @@ Original Beef News content may be quoted with attribution to BeefNews.org. Partn
 
 Advertising and partnership inquiries: https://beefnews.org/advertise
 
-## Sitemap
+## Sitemaps
 
-https://beefnews.org/sitemap-index.xml
+- General sitemap: https://beefnews.org/sitemap-index.xml
+- Google News sitemap: https://beefnews.org/news-sitemap.xml
 
 ## RSS Feed
 

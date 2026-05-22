@@ -87,4 +87,5 @@ Allow: /
 
 # ── Sitemaps ──────────────────────────────────────────────────────────────────
 Sitemap: https://beefnews.org/sitemap-index.xml
+Sitemap: https://beefnews.org/news-sitemap.xml
 Sitemap: https://beefnews.org/rss.xml
